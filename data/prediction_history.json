@@ -1,0 +1,102 @@
+[
+  {
+    "id": 5,
+    "timestamp": "2026-10-27 14:44:39",
+    "text": "It is raining cats and dogs today",
+    "language": "English",
+    "display_label": "English",
+    "is_mixed": false,
+    "confidence": 0.9204,
+    "script_ratios": {
+      "English": 1.0,
+      "Hindi": 0.0,
+      "Kannada": 0.0
+    },
+    "probabilities": {
+      "English": 0.9204,
+      "Hindi": 0.0395,
+      "Kannada": 0.0401
+    },
+    "latency_ms": 29.43
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-10-27 14:41:53",
+    "text": "ನಮಸ್ಕಾರ, ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+    "language": "Kannada",
+    "display_label": "Kannada",
+    "is_mixed": false,
+    "confidence": 0.913,
+    "script_ratios": {
+      "English": 0.0,
+      "Hindi": 0.0,
+      "Kannada": 1.0
+    },
+    "probabilities": {
+      "English": 0.0412,
+      "Hindi": 0.0459,
+      "Kannada": 0.913
+    },
+    "latency_ms": 4.11
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-10-27 14:41:53",
+    "text": "Artificial Intelligence and machine learning in research.",
+    "language": "English",
+    "display_label": "English",
+    "is_mixed": false,
+    "confidence": 0.9311,
+    "script_ratios": {
+      "English": 1.0,
+      "Hindi": 0.0,
+      "Kannada": 0.0
+    },
+    "probabilities": {
+      "English": 0.9311,
+      "Hindi": 0.0342,
+      "Kannada": 0.0347
+    },
+    "latency_ms": 26.26
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-10-27 14:33:12",
+    "text": "मुझे भारतीय व्यंजन बहुत पसंद हैं और मैं रोज़ ताज़ी सब्जियाँ खाता हूँ।",
+    "language": "Hindi",
+    "display_label": "Hindi",
+    "is_mixed": false,
+    "confidence": 0.9303,
+    "script_ratios": {
+      "English": 0.0,
+      "Hindi": 1.0,
+      "Kannada": 0.0
+    },
+    "probabilities": {
+      "English": 0.0331,
+      "Hindi": 0.9303,
+      "Kannada": 0.0366
+    },
+    "latency_ms": 5.75
+  },
+  {
+    "id": 1,
+    "timestamp": "2026-10-27 14:33:03",
+    "text": "cricket match ಮತ್ತು ಆಟಗಾರರು",
+    "language": "Kannada",
+    "display_label": "Code-Mixed (English + Kannada)",
+    "is_mixed": true,
+    "confidence": 0.5948,
+    "script_ratios": {
+      "English": 0.5,
+      "Hindi": 0.0,
+      "Kannada": 0.5
+    },
+    "probabilities": {
+      "English": 0.355,
+      "Hindi": 0.0502,
+      "Kannada": 0.5948
+    },
+    "latency_ms": 5.41
+  }
+]

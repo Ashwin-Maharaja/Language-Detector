@@ -1,0 +1,1051 @@
+Text,Language,text_length,word_count,char_count,cleaned_text,label
+बच्चे स्कूल से आकर खेल रहे हैं।,Hindi,31,7,25,बच्चे स्कूल से आकर खेल रहे हैं।,1
+अंतरिक्ष अनुसंधान में भारत ने बड़ी सफलता हासिल की है।,Hindi,53,10,44,अंतरिक्ष अनुसंधान में भारत ने बड़ी सफलता हासिल की है।,1
+स्वच्छता अभियान ने लोगों में जागरूकता फैलाई है।,Hindi,47,8,40,स्वच्छता अभियान ने लोगों में जागरूकता फैलाई है।,1
+कक्षा में अध्यापक ने इतिहास की रोचक जानकारी दी।,Hindi,47,9,39,कक्षा में अध्यापक ने इतिहास की रोचक जानकारी दी।,1
+The school principal addressed the students during the annual function.,English,71,10,62,the school principal addressed the students during the annual function,0
+जलवायु परिवर्तन पूरी दुनिया के लिए एक बड़ी चुनौती है।,Hindi,53,10,44,जलवायु परिवर्तन पूरी दुनिया के लिए एक बड़ी चुनौती है।,1
+The hockey team displayed excellent teamwork throughout the tournament.,English,71,9,63,the hockey team displayed excellent teamwork throughout the tournament,0
+सरकार ने नई आर्थिक नीति की घोषणा की है।,Hindi,39,9,31,सरकार ने नई आर्थिक नीति की घोषणा की है।,1
+The monsoon season brings relief from the scorching summer heat.,English,64,10,55,the monsoon season brings relief from the scorching summer heat,0
+ಅವಳು ಪ್ರತಿ ಸಂಜೆ ಯೋಗ ಮತ್ತು ಧ್ಯಾನ ಮಾಡುತ್ತಾಳೆ.,Kannada,43,7,37,ಅವಳು ಪ್ರತಿ ಸಂಜೆ ಯೋಗ ಮತ್ತು ಧ್ಯಾನ ಮಾಡುತ್ತಾಳೆ,2
+कबड्डी विश्व कप में भारत ने शानदार प्रदर्शन किया।,Hindi,49,9,41,कबड्डी विश्व कप में भारत ने शानदार प्रदर्शन किया।,1
+डिजिटल भुगतान से लेनदेन बहुत आसान हो गया है।,Hindi,44,9,36,डिजिटल भुगतान से लेनदेन बहुत आसान हो गया है।,1
+He completed his doctoral thesis on artificial intelligence applications.,English,73,9,65,he completed his doctoral thesis on artificial intelligence applications,0
+पर्यावरण की रक्षा करना हम सबकी जिम्मेदारी है।,Hindi,45,8,38,पर्यावरण की रक्षा करना हम सबकी जिम्मेदारी है।,1
+प्रशिक्षक ने खिलाड़ियों के लिए नई रणनीति तैयार की है।,Hindi,53,10,44,प्रशिक्षक ने खिलाड़ियों के लिए नई रणनीति तैयार की है।,1
+ಫುಟ್ಬಾಲ್ ಪಂದ್ಯದಲ್ಲಿ ಎರಡೂ ತಂಡಗಳು ಅತ್ಯುತ್ತಮ ಆಟ ತೋರಿಸಿದವು.,Kannada,55,7,49,ಫುಟ್ಬಾಲ್ ಪಂದ್ಯದಲ್ಲಿ ಎರಡೂ ತಂಡಗಳು ಅತ್ಯುತ್ತಮ ಆಟ ತೋರಿಸಿದವು,2
+भ्रष्टाचार देश के विकास में सबसे बड़ी बाधा है।,Hindi,46,9,38,भ्रष्टाचार देश के विकास में सबसे बड़ी बाधा है।,1
+अच्छे संस्कार बच्चों के भविष्य को उज्ज्वल बनाते हैं।,Hindi,52,9,44,अच्छे संस्कार बच्चों के भविष्य को उज्ज्वल बनाते हैं।,1
+ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕಲಿಯುವುದು ಯುವಜನರಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ.,Kannada,49,4,46,ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕಲಿಯುವುದು ಯುವಜನರಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ,2
+विद्यार्थी परीक्षा की तैयारी में लगे हुए हैं।,Hindi,45,8,38,विद्यार्थी परीक्षा की तैयारी में लगे हुए हैं।,1
+Birds migrate to warmer regions during the cold winter months.,English,62,10,53,birds migrate to warmer regions during the cold winter months,0
+ನನ್ನ ಸ್ನೇಹಿತ ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟ.,Kannada,48,7,42,ನನ್ನ ಸ್ನೇಹಿತ ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟ,2
+ಅವಳು ಎಂಜಿನಿಯರಿಂಗ್ ಪದವಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದಾಳೆ.,Kannada,41,4,38,ಅವಳು ಎಂಜಿನಿಯರಿಂಗ್ ಪದವಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದಾಳೆ,2
+ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ವೇಗ ಹೆಚ್ಚಬೇಕಿದೆ.,Kannada,47,5,43,ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ವೇಗ ಹೆಚ್ಚಬೇಕಿದೆ,2
+न्यायालय ने एक ऐतिहासिक फैसला सुनाया है।,Hindi,40,7,34,न्यायालय ने एक ऐतिहासिक फैसला सुनाया है।,1
+Renewable energy technologies are becoming more affordable and efficient.,English,73,9,65,renewable energy technologies are becoming more affordable and efficient,0
+Many students prefer online courses because of their flexibility.,English,65,9,57,many students prefer online courses because of their flexibility,0
+The stadium was packed with enthusiastic fans cheering for their team.,English,70,11,60,the stadium was packed with enthusiastic fans cheering for their team,0
+The unemployment rate has decreased significantly in the last quarter.,English,70,10,61,the unemployment rate has decreased significantly in the last quarter,0
+Quantum computing promises to solve complex problems much faster.,English,65,9,57,quantum computing promises to solve complex problems much faster,0
+He rides his bicycle to the office every single day.,English,52,10,43,he rides his bicycle to the office every single day,0
+कृत्रिम बुद्धिमत्ता ने हमारे जीवन को बहुत बदल दिया है।,Hindi,54,10,45,कृत्रिम बुद्धिमत्ता ने हमारे जीवन को बहुत बदल दिया है।,1
+वह रोज सुबह पार्क में टहलने जाती है।,Hindi,36,8,29,वह रोज सुबह पार्क में टहलने जाती है।,1
+ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ ನಮ್ಮನ್ನು ಬೆರಗುಗೊಳಿಸುತ್ತದೆ.,Kannada,43,4,40,ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ ನಮ್ಮನ್ನು ಬೆರಗುಗೊಳಿಸುತ್ತದೆ,2
+We explored the beautiful beaches and coral reefs during our island vacation.,English,77,12,66,we explored the beautiful beaches and coral reefs during our island vacation,0
+ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ.,Kannada,51,5,47,ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ,2
+उसने ओलंपिक में स्वर्ण पदक जीतकर देश का गौरव बढ़ाया।,Hindi,52,10,43,उसने ओलंपिक में स्वर्ण पदक जीतकर देश का गौरव बढ़ाया।,1
+The internet of things connects billions of devices worldwide.,English,62,9,54,the internet of things connects billions of devices worldwide,0
+ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಅಧ್ಯಯನಕ್ಕೆ ಶಾಂತ ವಾತಾವರಣವಿದೆ.,Kannada,42,4,39,ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಅಧ್ಯಯನಕ್ಕೆ ಶಾಂತ ವಾತಾವರಣವಿದೆ,2
+She broke the national record in the hundred meter sprint event.,English,64,11,54,she broke the national record in the hundred meter sprint event,0
+ಚಂದ್ರನ ಮೇಲಿನ ಭಾರತದ ಯೋಜನೆ ಯಶಸ್ವಿಯಾಯಿತು.,Kannada,38,5,34,ಚಂದ್ರನ ಮೇಲಿನ ಭಾರತದ ಯೋಜನೆ ಯಶಸ್ವಿಯಾಯಿತು,2
+ಹೊಸ ಶಿಕ್ಷಣ ನೀತಿ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಬದಲಾವಣೆ ತಂದಿದೆ.,Kannada,45,6,40,ಹೊಸ ಶಿಕ್ಷಣ ನೀತಿ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಬದಲಾವಣೆ ತಂದಿದೆ,2
+रोबोटिक्स तकनीक उद्योगों में क्रांतिकारी बदलाव ला रही है।,Hindi,57,9,49,रोबोटिक्स तकनीक उद्योगों में क्रांतिकारी बदलाव ला रही है।,1
+शिक्षक ने गणित का कठिन सवाल बहुत आसानी से समझाया।,Hindi,49,10,40,शिक्षक ने गणित का कठिन सवाल बहुत आसानी से समझाया।,1
+Elections will be held in five states during the next two months.,English,65,12,54,elections will be held in five states during the next two months,0
+The football world cup attracted billions of viewers from around the globe.,English,75,12,64,the football world cup attracted billions of viewers from around the globe,0
+The space agency successfully launched a satellite into orbit last night.,English,73,11,63,the space agency successfully launched a satellite into orbit last night,0
+गंगा नदी भारत की सबसे पवित्र नदी मानी जाती है।,Hindi,46,10,37,गंगा नदी भारत की सबसे पवित्र नदी मानी जाती है।,1
+ರಾಷ್ಟ್ರಪತಿ ಗಣರಾಜ್ಯೋತ್ಸವದಂದು ದೇಶಕ್ಕೆ ಶುಭಾಶಯ ತಿಳಿಸಿದರು.,Kannada,53,5,49,ರಾಷ್ಟ್ರಪತಿ ಗಣರಾಜ್ಯೋತ್ಸವದಂದು ದೇಶಕ್ಕೆ ಶುಭಾಶಯ ತಿಳಿಸಿದರು,2
+ರಾಷ್ಟ್ರಪತಿ ಗಣರಾಜ್ಯೋತ್ಸವದಂದು ದೇಶಕ್ಕೆ ಶುಭಾಶಯ ತಿಳಿಸಿದರು.,Kannada,53,5,49,ರಾಷ್ಟ್ರಪತಿ ಗಣರಾಜ್ಯೋತ್ಸವದಂದು ದೇಶಕ್ಕೆ ಶುಭಾಶಯ ತಿಳಿಸಿದರು,2
+ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಬಿಡುಗಡೆ ಮಾಡಿದೆ.,Kannada,48,6,43,ಸಾಫ್ಟ್ವೇರ್ ಕಂಪನಿ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಬಿಡುಗಡೆ ಮಾಡಿದೆ,2
+Blockchain technology ensures secure and transparent financial transactions.,English,76,8,69,blockchain technology ensures secure and transparent financial transactions,0
+ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಬಿಡುಗಡೆ ಮಾಡಿದೆ.,Kannada,48,6,43,ಸಾಫ್ಟ್ವೇರ್ ಕಂಪನಿ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಬಿಡುಗಡೆ ಮಾಡಿದೆ,2
+ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಬಿಡುಗಡೆ ಮಾಡಿದೆ.,Kannada,48,6,43,ಸಾಫ್ಟ್ವೇರ್ ಕಂಪನಿ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಬಿಡುಗಡೆ ಮಾಡಿದೆ,2
+सोशल मीडिया ने संवाद के तरीके को पूरी तरह बदल दिया।,Hindi,51,11,41,सोशल मीडिया ने संवाद के तरीके को पूरी तरह बदल दिया।,1
+शिक्षा समाज के विकास की नींव है।,Hindi,32,7,26,शिक्षा समाज के विकास की नींव है।,1
+Blockchain technology ensures secure and transparent financial transactions.,English,76,8,69,blockchain technology ensures secure and transparent financial transactions,0
+She started playing chess at the age of five and became a champion.,English,67,13,55,she started playing chess at the age of five and became a champion,0
+गंगा नदी भारत की सबसे पवित्र नदी मानी जाती है।,Hindi,46,10,37,गंगा नदी भारत की सबसे पवित्र नदी मानी जाती है।,1
+ಅಜ್ಜಿ ನಮಗೆ ಒಂದು ಹಳೆಯ ಕಥೆ ಹೇಳಿದರು.,Kannada,33,6,28,ಅಜ್ಜಿ ನಮಗೆ ಒಂದು ಹಳೆಯ ಕಥೆ ಹೇಳಿದರು,2
+ಬ್ಲಾಕ್‌ಚೈನ್ ತಂತ್ರಜ್ಞಾನ ಹಣಕಾಸು ವ್ಯವಹಾರಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸುತ್ತದೆ.,Kannada,64,5,60,ಬ್ಲಾಕ್ಚೈನ್ ತಂತ್ರಜ್ಞಾನ ಹಣಕಾಸು ವ್ಯವಹಾರಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸುತ್ತದೆ,2
+संसद में नया विधेयक पारित किया गया है।,Hindi,38,8,31,संसद में नया विधेयक पारित किया गया है।,1
+मुझे हर रोज सुबह जल्दी उठना पड़ता है।,Hindi,37,8,30,मुझे हर रोज सुबह जल्दी उठना पड़ता है।,1
+हिमालय की चोटियाँ बहुत सुंदर और भव्य दिखती हैं।,Hindi,47,9,39,हिमालय की चोटियाँ बहुत सुंदर और भव्य दिखती हैं।,1
+I forgot to bring my umbrella and got caught in the rain.,English,57,12,46,i forgot to bring my umbrella and got caught in the rain,0
+ಡ್ರೋನ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಕೃಷಿಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತಿದೆ.,Kannada,47,4,44,ಡ್ರೋನ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಕೃಷಿಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತಿದೆ,2
+कृत्रिम बुद्धिमत्ता ने हमारे जीवन को बहुत बदल दिया है।,Hindi,54,10,45,कृत्रिम बुद्धिमत्ता ने हमारे जीवन को बहुत बदल दिया है।,1
+ಬೆಂಗಳೂರು ಭಾರತದ ಸಿಲಿಕಾನ್ ವ್ಯಾಲಿ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ.,Kannada,51,6,46,ಬೆಂಗಳೂರು ಭಾರತದ ಸಿಲಿಕಾನ್ ವ್ಯಾಲಿ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ,2
+ರಸಾಯನಶಾಸ್ತ್ರ ಪ್ರಯೋಗದಲ್ಲಿ ಜಾಗರೂಕತೆ ವಹಿಸಬೇಕು.,Kannada,43,4,40,ರಸಾಯನಶಾಸ್ತ್ರ ಪ್ರಯೋಗದಲ್ಲಿ ಜಾಗರೂಕತೆ ವಹಿಸಬೇಕು,2
+एथलीट ने मैराथन दौड़ में नया राष्ट्रीय रिकॉर्ड बनाया।,Hindi,53,9,45,एथलीट ने मैराथन दौड़ में नया राष्ट्रीय रिकॉर्ड बनाया।,1
+उसने नई कार खरीदी है जो बहुत सुंदर दिखती है।,Hindi,44,10,35,उसने नई कार खरीदी है जो बहुत सुंदर दिखती है।,1
+ಇಂದು ಹವಾಮಾನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಮತ್ತು ಬಿಸಿಲು ಚೆನ್ನಾಗಿದೆ.,Kannada,53,7,47,ಇಂದು ಹವಾಮಾನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಮತ್ತು ಬಿಸಿಲು ಚೆನ್ನಾಗಿದೆ,2
+हमारे स्कूल में विज्ञान प्रदर्शनी का आयोजन किया गया।,Hindi,52,9,44,हमारे स्कूल में विज्ञान प्रदर्शनी का आयोजन किया गया।,1
+ನನ್ನ ಅಮ್ಮ ಇಂದು ರುಚಿಯಾದ ಊಟ ಮಾಡಿದ್ದಾರೆ.,Kannada,37,6,32,ನನ್ನ ಅಮ್ಮ ಇಂದು ರುಚಿಯಾದ ಊಟ ಮಾಡಿದ್ದಾರೆ,2
+जलवायु परिवर्तन पूरी दुनिया के लिए एक बड़ी चुनौती है।,Hindi,53,10,44,जलवायु परिवर्तन पूरी दुनिया के लिए एक बड़ी चुनौती है।,1
+The wrestling championship featured athletes from over fifty countries.,English,71,9,63,the wrestling championship featured athletes from over fifty countries,0
+ಕುಟುಂಬದ ಸಹವಾಸ ಜೀವನದ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂತೋಷವಾಗಿದೆ.,Kannada,45,6,40,ಕುಟುಂಬದ ಸಹವಾಸ ಜೀವನದ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂತೋಷವಾಗಿದೆ,2
+The finance minister presented the annual budget in the parliament session.,English,75,11,65,the finance minister presented the annual budget in the parliament session,0
+ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತ ದೊಡ್ಡ ಯಶಸ್ಸು ಸಾಧಿಸಿದೆ.,Kannada,50,6,45,ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತ ದೊಡ್ಡ ಯಶಸ್ಸು ಸಾಧಿಸಿದೆ,2
+योग और आयुर्वेद भारत की प्राचीन विधाएँ हैं।,Hindi,43,8,36,योग और आयुर्वेद भारत की प्राचीन विधाएँ हैं।,1
+Climate change is causing significant impacts on global weather patterns.,English,73,10,64,climate change is causing significant impacts on global weather patterns,0
+ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ.,Kannada,51,5,47,ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ,2
+मैं आज सुबह बाजार गया और ताजी सब्जियाँ खरीदीं।,Hindi,46,9,38,मैं आज सुबह बाजार गया और ताजी सब्जियाँ खरीदीं।,1
+Climate change is causing significant impacts on global weather patterns.,English,73,10,64,climate change is causing significant impacts on global weather patterns,0
+बैडमिंटन खिलाड़ी ने अंतरराष्ट्रीय टूर्नामेंट में जीत हासिल की।,Hindi,62,9,54,बैडमिंटन खिलाड़ी ने अंतरराष्ट्रीय टूर्नामेंट में जीत हासिल की।,1
+We are planning to renovate our kitchen next summer.,English,52,9,44,we are planning to renovate our kitchen next summer,0
+ಕನ್ನಡ ನಾಡಿನ ಸಂಸ್ಕೃತಿ ವೈವಿಧ್ಯಮಯ ಮತ್ತು ಶ್ರೀಮಂತವಾಗಿದೆ.,Kannada,51,6,46,ಕನ್ನಡ ನಾಡಿನ ಸಂಸ್ಕೃತಿ ವೈವಿಧ್ಯಮಯ ಮತ್ತು ಶ್ರೀಮಂತವಾಗಿದೆ,2
+ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ನೀರಿನ ಅವಶೇಷ ಸಿಗುವ ಸಾಧ್ಯತೆ ಇದೆ.,Kannada,45,7,39,ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ನೀರಿನ ಅವಶೇಷ ಸಿಗುವ ಸಾಧ್ಯತೆ ಇದೆ,2
+A diplomatic summit was held to discuss regional peace and security.,English,68,11,58,a diplomatic summit was held to discuss regional peace and security,0
+We are planning a road trip to the mountains during the summer vacation.,English,72,13,60,we are planning a road trip to the mountains during the summer vacation,0
+A new international trade agreement was signed between the two countries.,English,73,11,63,a new international trade agreement was signed between the two countries,0
+ಇಂದು ಹವಾಮಾನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಮತ್ತು ಬಿಸಿಲು ಚೆನ್ನಾಗಿದೆ.,Kannada,53,7,47,ಇಂದು ಹವಾಮಾನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಮತ್ತು ಬಿಸಿಲು ಚೆನ್ನಾಗಿದೆ,2
+The traffic was really heavy on my way to work today.,English,53,11,43,the traffic was really heavy on my way to work today,0
+A new international trade agreement was signed between the two countries.,English,73,11,63,a new international trade agreement was signed between the two countries,0
+विश्वविद्यालय ने नए पाठ्यक्रम शुरू करने की घोषणा की।,Hindi,52,9,44,विश्वविद्यालय ने नए पाठ्यक्रम शुरू करने की घोषणा की।,1
+ನನಗೆ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಬೇಗ ಏಳಬೇಕಾಗುತ್ತದೆ.,Kannada,41,5,37,ನನಗೆ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಬೇಗ ಏಳಬೇಕಾಗುತ್ತದೆ,2
+ಕನ್ನಡ ಸಾಹಿತ್ಯ ಬಹಳ ಶ್ರೀಮಂತ ಮತ್ತು ವೈವಿಧ್ಯಮಯವಾಗಿದೆ.,Kannada,48,6,43,ಕನ್ನಡ ಸಾಹಿತ್ಯ ಬಹಳ ಶ್ರೀಮಂತ ಮತ್ತು ವೈವಿಧ್ಯಮಯವಾಗಿದೆ,2
+संसद में नया विधेयक पारित किया गया है।,Hindi,38,8,31,संसद में नया विधेयक पारित किया गया है।,1
+I went to the grocery store to buy some fresh vegetables and fruits.,English,68,13,56,i went to the grocery store to buy some fresh vegetables and fruits,0
+गोवा के समुद्र तट पर्यटकों में बहुत लोकप्रिय हैं।,Hindi,49,9,41,गोवा के समुद्र तट पर्यटकों में बहुत लोकप्रिय हैं।,1
+The research paper was published in a prestigious international journal.,English,72,10,63,the research paper was published in a prestigious international journal,0
+Many students prefer online courses because of their flexibility.,English,65,9,57,many students prefer online courses because of their flexibility,0
+एथलीट ने मैराथन दौड़ में नया राष्ट्रीय रिकॉर्ड बनाया।,Hindi,53,9,45,एथलीट ने मैराथन दौड़ में नया राष्ट्रीय रिकॉर्ड बनाया।,1
+दिवाली भारत का सबसे बड़ा और लोकप्रिय त्योहार है।,Hindi,48,9,40,दिवाली भारत का सबसे बड़ा और लोकप्रिय त्योहार है।,1
+Quantum computing promises to solve complex problems much faster.,English,65,9,57,quantum computing promises to solve complex problems much faster,0
+Our school organized a science exhibition for all the students.,English,63,10,54,our school organized a science exhibition for all the students,0
+ರೋಬೋಟಿಕ್ಸ್ ತಂತ್ರಜ್ಞಾನ ಉದ್ಯಮಗಳಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಬದಲಾವಣೆ ತರುತ್ತಿದೆ.,Kannada,64,6,59,ರೋಬೋಟಿಕ್ಸ್ ತಂತ್ರಜ್ಞಾನ ಉದ್ಯಮಗಳಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಬದಲಾವಣೆ ತರುತ್ತಿದೆ,2
+The snowfall transformed the entire landscape into a winter wonderland.,English,71,10,62,the snowfall transformed the entire landscape into a winter wonderland,0
+The drought severely affected agricultural production in the farming regions.,English,77,10,68,the drought severely affected agricultural production in the farming regions,0
+हमने घर में नया फर्नीचर लगवाया है।,Hindi,34,7,28,हमने घर में नया फर्नीचर लगवाया है।,1
+ಅವನು ಹೊಸ ಕಾರು ಖರೀದಿಸಿದ್ದಾನೆ ಅದು ಬಹಳ ಸುಂದರವಾಗಿದೆ.,Kannada,48,7,42,ಅವನು ಹೊಸ ಕಾರು ಖರೀದಿಸಿದ್ದಾನೆ ಅದು ಬಹಳ ಸುಂದರವಾಗಿದೆ,2
+ಶಿಕ್ಷಣ ಸಮಾಜದ ಅಭಿವೃದ್ಧಿಯ ಅಡಿಪಾಯವಾಗಿದೆ.,Kannada,37,4,34,ಶಿಕ್ಷಣ ಸಮಾಜದ ಅಭಿವೃದ್ಧಿಯ ಅಡಿಪಾಯವಾಗಿದೆ,2
+The children are playing in the garden after school.,English,52,9,44,the children are playing in the garden after school,0
+I spent the entire afternoon cleaning and organizing my room.,English,61,10,52,i spent the entire afternoon cleaning and organizing my room,0
+पुस्तकालय में पढ़ाई के लिए बहुत शांत वातावरण है।,Hindi,48,9,40,पुस्तकालय में पढ़ाई के लिए बहुत शांत वातावरण है।,1
+ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಹಲವು ಮಹತ್ವದ ವಿಷಯಗಳ ಚರ್ಚೆ ನಡೆಯಿತು.,Kannada,60,7,54,ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಹಲವು ಮಹತ್ವದ ವಿಷಯಗಳ ಚರ್ಚೆ ನಡೆಯಿತು,2
+ಆನ್‌ಲೈನ್ ಶಿಕ್ಷಣ ಕಲಿಕೆಯ ವಿಧಾನವನ್ನು ಬದಲಾಯಿಸಿದೆ.,Kannada,45,5,41,ಆನ್ಲೈನ್ ಶಿಕ್ಷಣ ಕಲಿಕೆಯ ವಿಧಾನವನ್ನು ಬದಲಾಯಿಸಿದೆ,2
+ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತ ದೊಡ್ಡ ಯಶಸ್ಸು ಸಾಧಿಸಿದೆ.,Kannada,50,6,45,ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತ ದೊಡ್ಡ ಯಶಸ್ಸು ಸಾಧಿಸಿದೆ,2
+ಜೀವವೈವಿಧ್ಯ ಸಂರಕ್ಷಣೆ ನಮ್ಮ ಪರಿಸರ ವ್ಯವಸ್ಥೆಗೆ ಅಗತ್ಯವಾಗಿದೆ.,Kannada,54,6,49,ಜೀವವೈವಿಧ್ಯ ಸಂರಕ್ಷಣೆ ನಮ್ಮ ಪರಿಸರ ವ್ಯವಸ್ಥೆಗೆ ಅಗತ್ಯವಾಗಿದೆ,2
+ಕುಸ್ತಿ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅವನು ಚಿನ್ನದ ಪದಕ ಗೆದ್ದನು.,Kannada,44,6,39,ಕುಸ್ತಿ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅವನು ಚಿನ್ನದ ಪದಕ ಗೆದ್ದನು,2
+ऑनलाइन खरीदारी ने बाजार की परंपरा को बदल दिया है।,Hindi,49,10,40,ऑनलाइन खरीदारी ने बाजार की परंपरा को बदल दिया है।,1
+ग्रामीण क्षेत्रों में विकास की गति तेज होनी चाहिए।,Hindi,50,9,42,ग्रामीण क्षेत्रों में विकास की गति तेज होनी चाहिए।,1
+समय का सदुपयोग करना सफलता की कुंजी है।,Hindi,38,8,31,समय का सदुपयोग करना सफलता की कुंजी है।,1
+ರೋಬೋಟಿಕ್ಸ್ ತಂತ್ರಜ್ಞಾನ ಉದ್ಯಮಗಳಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಬದಲಾವಣೆ ತರುತ್ತಿದೆ.,Kannada,64,6,59,ರೋಬೋಟಿಕ್ಸ್ ತಂತ್ರಜ್ಞಾನ ಉದ್ಯಮಗಳಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಬದಲಾವಣೆ ತರುತ್ತಿದೆ,2
+The software development team released a major update to the application.,English,73,11,63,the software development team released a major update to the application,0
+ನಗರಪಾಲಿಕೆ ನಗರದ ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಆರಂಭಿಸಿದೆ.,Kannada,41,5,37,ನಗರಪಾಲಿಕೆ ನಗರದ ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಆರಂಭಿಸಿದೆ,2
+The gaming industry has grown exponentially in the past decade.,English,63,10,54,the gaming industry has grown exponentially in the past decade,0
+I need to pay the electricity bill before the end of this month.,English,64,13,52,i need to pay the electricity bill before the end of this month,0
+The tennis player won three consecutive grand slam titles this year.,English,68,11,58,the tennis player won three consecutive grand slam titles this year,0
+ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ ದರದಲ್ಲಿ ಈ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಸುಧಾರಣೆ ಕಂಡಿದೆ.,Kannada,57,7,51,ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ ದರದಲ್ಲಿ ಈ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಸುಧಾರಣೆ ಕಂಡಿದೆ,2
+She is cooking dinner for the entire family tonight.,English,52,9,44,she is cooking dinner for the entire family tonight,0
+The local bakery sells freshly baked croissants every morning.,English,62,9,54,the local bakery sells freshly baked croissants every morning,0
+ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತರು ಪರಿಸರ ಸಂರಕ್ಷಣೆಯ ಬೇಡಿಕೆ ಇಟ್ಟರು.,Kannada,50,6,45,ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತರು ಪರಿಸರ ಸಂರಕ್ಷಣೆಯ ಬೇಡಿಕೆ ಇಟ್ಟರು,2
+The research paper was published in a prestigious international journal.,English,72,10,63,the research paper was published in a prestigious international journal,0
+पर्यावरण की रक्षा करना हम सबकी जिम्मेदारी है।,Hindi,45,8,38,पर्यावरण की रक्षा करना हम सबकी जिम्मेदारी है।,1
+The company developed a new electric vehicle with improved battery life.,English,72,11,62,the company developed a new electric vehicle with improved battery life,0
+ಕನ್ನಡ ಚಲನಚಿತ್ರ ಉದ್ಯಮ ಬಹಳ ಬೆಳೆದಿದೆ.,Kannada,34,5,30,ಕನ್ನಡ ಚಲನಚಿತ್ರ ಉದ್ಯಮ ಬಹಳ ಬೆಳೆದಿದೆ,2
+ಸಂಸತ್ತಿನಲ್ಲಿ ಹೊಸ ಮಸೂದೆ ಅಂಗೀಕಾರವಾಗಿದೆ.,Kannada,37,4,34,ಸಂಸತ್ತಿನಲ್ಲಿ ಹೊಸ ಮಸೂದೆ ಅಂಗೀಕಾರವಾಗಿದೆ,2
+The weather is quite pleasant today compared to yesterday.,English,58,9,50,the weather is quite pleasant today compared to yesterday,0
+ಕನ್ನಡ ಚಲನಚಿತ್ರ ಉದ್ಯಮ ಬಹಳ ಬೆಳೆದಿದೆ.,Kannada,34,5,30,ಕನ್ನಡ ಚಲನಚಿತ್ರ ಉದ್ಯಮ ಬಹಳ ಬೆಳೆದಿದೆ,2
+She taught herself programming by watching tutorial videos online.,English,66,9,58,she taught herself programming by watching tutorial videos online,0
+He has been training for the upcoming Olympic swimming competition.,English,67,10,58,he has been training for the upcoming olympic swimming competition,0
+She volunteers at the animal shelter on weekends to help stray dogs.,English,68,12,57,she volunteers at the animal shelter on weekends to help stray dogs,0
+The badminton player secured a gold medal at the international championship.,English,76,11,66,the badminton player secured a gold medal at the international championship,0
+ಕ್ರೀಡಾಪಟು ಮ್ಯಾರಥಾನ್ ಓಟದಲ್ಲಿ ಹೊಸ ರಾಷ್ಟ್ರೀಯ ದಾಖಲೆ ಮಾಡಿದರು.,Kannada,56,7,50,ಕ್ರೀಡಾಪಟು ಮ್ಯಾರಥಾನ್ ಓಟದಲ್ಲಿ ಹೊಸ ರಾಷ್ಟ್ರೀಯ ದಾಖಲೆ ಮಾಡಿದರು,2
+Our family enjoys watching movies together on weekends.,English,55,8,48,our family enjoys watching movies together on weekends,0
+मोबाइल फोन आज के जीवन का अभिन्न अंग बन गया है।,Hindi,46,11,36,मोबाइल फोन आज के जीवन का अभिन्न अंग बन गया है।,1
+Renewable energy technologies are becoming more affordable and efficient.,English,73,9,65,renewable energy technologies are becoming more affordable and efficient,0
+ಆನ್‌ಲೈನ್ ಶಿಕ್ಷಣ ಕಲಿಕೆಯ ವಿಧಾನವನ್ನು ಬದಲಾಯಿಸಿದೆ.,Kannada,45,5,41,ಆನ್ಲೈನ್ ಶಿಕ್ಷಣ ಕಲಿಕೆಯ ವಿಧಾನವನ್ನು ಬದಲಾಯಿಸಿದೆ,2
+ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರು ಇತಿಹಾಸದ ಆಸಕ್ತಿಕರ ಮಾಹಿತಿ ನೀಡಿದರು.,Kannada,52,6,47,ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರು ಇತಿಹಾಸದ ಆಸಕ್ತಿಕರ ಮಾಹಿತಿ ನೀಡಿದರು,2
+सामाजिक कार्यकर्ताओं ने पर्यावरण संरक्षण की मांग की।,Hindi,52,8,45,सामाजिक कार्यकर्ताओं ने पर्यावरण संरक्षण की मांग की।,1
+The volleyball team practiced for six hours daily during the training camp.,English,75,12,64,the volleyball team practiced for six hours daily during the training camp,0
+Online education has become increasingly popular in recent years.,English,65,9,57,online education has become increasingly popular in recent years,0
+ವಿಪಕ್ಷ ಸರ್ಕಾಡ ನೀತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಎತ್ತಿದೆ.,Kannada,43,6,38,ವಿಪಕ್ಷ ಸರ್ಕಾಡ ನೀತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಎತ್ತಿದೆ,2
+The tennis player won three consecutive grand slam titles this year.,English,68,11,58,the tennis player won three consecutive grand slam titles this year,0
+ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ ವಿಶ್ವಕಪ್ ಗೆದ್ದು ಇತಿಹಾಸ ರಚಿಸಿತು.,Kannada,51,7,45,ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ ವಿಶ್ವಕಪ್ ಗೆದ್ದು ಇತಿಹಾಸ ರಚಿಸಿತು,2
+साइबर सुरक्षा आज के डिजिटल युग में बेहद जरूरी है।,Hindi,49,10,40,साइबर सुरक्षा आज के डिजिटल युग में बेहद जरूरी है।,1
+कबड्डी विश्व कप में भारत ने शानदार प्रदर्शन किया।,Hindi,49,9,41,कबड्डी विश्व कप में भारत ने शानदार प्रदर्शन किया।,1
+वह ट्रेन से रोजाना दफ्तर जाता है।,Hindi,33,7,27,वह ट्रेन से रोजाना दफ्तर जाता है।,1
+कक्षा में अध्यापक ने इतिहास की रोचक जानकारी दी।,Hindi,47,9,39,कक्षा में अध्यापक ने इतिहास की रोचक जानकारी दी।,1
+शिक्षक ने गणित का कठिन सवाल बहुत आसानी से समझाया।,Hindi,49,10,40,शिक्षक ने गणित का कठिन सवाल बहुत आसानी से समझाया।,1
+मंगल ग्रह पर पानी के अवशेष मिलने की संभावना है।,Hindi,47,10,38,मंगल ग्रह पर पानी के अवशेष मिलने की संभावना है।,1
+We usually go for a morning walk in the nearby park.,English,52,11,42,we usually go for a morning walk in the nearby park,0
+मंगल ग्रह पर पानी के अवशेष मिलने की संभावना है।,Hindi,47,10,38,मंगल ग्रह पर पानी के अवशेष मिलने की संभावना है।,1
+The monsoon season brings relief from the scorching summer heat.,English,64,10,55,the monsoon season brings relief from the scorching summer heat,0
+हम इस रविवार को पिकनिक पर जा रहे हैं।,Hindi,37,9,29,हम इस रविवार को पिकनिक पर जा रहे हैं।,1
+ವಿಪಕ್ಷ ಸರ್ಕಾಡ ನೀತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಎತ್ತಿದೆ.,Kannada,43,6,38,ವಿಪಕ್ಷ ಸರ್ಕಾಡ ನೀತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಎತ್ತಿದೆ,2
+The badminton player secured a gold medal at the international championship.,English,76,11,66,the badminton player secured a gold medal at the international championship,0
+डेटा साइंस आज के सबसे लोकप्रिय करियर विकल्पों में है।,Hindi,53,10,44,डेटा साइंस आज के सबसे लोकप्रिय करियर विकल्पों में है।,1
+ಅವನು ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದಿದ್ದಾನೆ.,Kannada,54,6,49,ಅವನು ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದಿದ್ದಾನೆ,2
+विद्यालय ने खेल प्रतियोगिता में कई पदक जीते।,Hindi,44,8,37,विद्यालय ने खेल प्रतियोगिता में कई पदक जीते।,1
+The space agency successfully launched a satellite into orbit last night.,English,73,11,63,the space agency successfully launched a satellite into orbit last night,0
+ಡೇಟಾ ಸೈನ್ಸ್ ಇಂದಿನ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ವೃತ್ತಿ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ.,Kannada,61,8,54,ಡೇಟಾ ಸೈನ್ಸ್ ಇಂದಿನ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ವೃತ್ತಿ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ,2
+शोधकर्ताओं ने कैंसर के इलाज में नई प्रगति की है।,Hindi,48,10,39,शोधकर्ताओं ने कैंसर के इलाज में नई प्रगति की है।,1
+चाय भारत में सबसे लोकप्रिय पेय पदार्थ है।,Hindi,41,8,34,चाय भारत में सबसे लोकप्रिय पेय पदार्थ है।,1
+भौतिक विज्ञान में नई खोजें रोमांचक हैं।,Hindi,39,7,33,भौतिक विज्ञान में नई खोजें रोमांचक हैं।,1
+The company developed a new electric vehicle with improved battery life.,English,72,11,62,the company developed a new electric vehicle with improved battery life,0
+ಹಣಕಾಸು ಸಚಿವರು ವಾರ್ಷಿಕ ಬಜೆಟ್ ಮಂಡಿಸಿದ್ದಾರೆ.,Kannada,41,5,37,ಹಣಕಾಸು ಸಚಿವರು ವಾರ್ಷಿಕ ಬಜೆಟ್ ಮಂಡಿಸಿದ್ದಾರೆ,2
+ಶಾಲಾ ಮುಖ್ಯ ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ಫೂರ್ತಿದಾಯಕ ಭಾಷಣ ಮಾಡಿದರು.,Kannada,62,7,56,ಶಾಲಾ ಮುಖ್ಯ ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ಫೂರ್ತಿದಾಯಕ ಭಾಷಣ ಮಾಡಿದರು,2
+We explored the beautiful beaches and coral reefs during our island vacation.,English,77,12,66,we explored the beautiful beaches and coral reefs during our island vacation,0
+बड़ों का आशीर्वाद जीवन में बहुत महत्वपूर्ण होता है।,Hindi,51,9,43,बड़ों का आशीर्वाद जीवन में बहुत महत्वपूर्ण होता है।,1
+सर्दियों में पहाड़ों पर बर्फबारी होती है।,Hindi,41,7,35,सर्दियों में पहाड़ों पर बर्फबारी होती है।,1
+विश्वविद्यालय ने नए पाठ्यक्रम शुरू करने की घोषणा की।,Hindi,52,9,44,विश्वविद्यालय ने नए पाठ्यक्रम शुरू करने की घोषणा की।,1
+ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ.,Kannada,51,5,47,ಕ್ಲೌಡ್ ಕಂಪ್ಯೂಟಿಂಗ್ ಡೇಟಾ ಸಂಗ್ರಹಣೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ,2
+ಮುಖ್ಯಮಂತ್ರಿ ಹೊಸ ರಸ್ತೆ ಯೋಜನೆಯನ್ನು ಉದ್ಘಾಟಿಸಿದರು.,Kannada,46,5,42,ಮುಖ್ಯಮಂತ್ರಿ ಹೊಸ ರಸ್ತೆ ಯೋಜನೆಯನ್ನು ಉದ್ಘಾಟಿಸಿದರು,2
+Quantum computing promises to solve complex problems much faster.,English,65,9,57,quantum computing promises to solve complex problems much faster,0
+The temperature dropped to minus ten degrees during the winter season.,English,70,11,60,the temperature dropped to minus ten degrees during the winter season,0
+ಶ್ರಮ ಮತ್ತು ಶ್ರದ್ಧೆಯಿಂದ ಯಾವುದೇ ಗುರಿ ಸಾಧಿಸಬಹುದು.,Kannada,46,6,41,ಶ್ರಮ ಮತ್ತು ಶ್ರದ್ಧೆಯಿಂದ ಯಾವುದೇ ಗುರಿ ಸಾಧಿಸಬಹುದು,2
+The mobile application has been downloaded over ten million times.,English,66,10,57,the mobile application has been downloaded over ten million times,0
+Regular exercise and a balanced diet are essential for good health.,English,67,11,57,regular exercise and a balanced diet are essential for good health,0
+विद्यार्थी परीक्षा की तैयारी में लगे हुए हैं।,Hindi,45,8,38,विद्यार्थी परीक्षा की तैयारी में लगे हुए हैं।,1
+The library has a vast collection of academic books and journals.,English,65,11,55,the library has a vast collection of academic books and journals,0
+He set a new world record in the long jump competition.,English,55,11,45,he set a new world record in the long jump competition,0
+ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ ವಿಶ್ವಕಪ್ ಗೆದ್ದು ಇತಿಹಾಸ ರಚಿಸಿತು.,Kannada,51,7,45,ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ ವಿಶ್ವಕಪ್ ಗೆದ್ದು ಇತಿಹಾಸ ರಚಿಸಿತು,2
+The software development team released a major update to the application.,English,73,11,63,the software development team released a major update to the application,0
+Students organized a cultural fest with dance and music performances.,English,69,10,60,students organized a cultural fest with dance and music performances,0
+The hockey team displayed excellent teamwork throughout the tournament.,English,71,9,63,the hockey team displayed excellent teamwork throughout the tournament,0
+The hospital has state of the art medical equipment and skilled doctors.,English,72,12,61,the hospital has state of the art medical equipment and skilled doctors,0
+Elections will be held in five states during the next two months.,English,65,12,54,elections will be held in five states during the next two months,0
+वह रोज सुबह पार्क में टहलने जाती है।,Hindi,36,8,29,वह रोज सुबह पार्क में टहलने जाती है।,1
+उसने अपने जन्मदिन की पार्टी में सबको बुलाया।,Hindi,44,8,37,उसने अपने जन्मदिन की पार्टी में सबको बुलाया।,1
+ಮೊಬೈಲ್ ಫೋನ್ ಇಂದಿನ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ.,Kannada,43,6,38,ಮೊಬೈಲ್ ಫೋನ್ ಇಂದಿನ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ,2
+ನಾನು ಇಂದು ಬೆಳಿಗ್ಗೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗಿ ತರಕಾರಿ ತಂದೆ.,Kannada,48,7,42,ನಾನು ಇಂದು ಬೆಳಿಗ್ಗೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗಿ ತರಕಾರಿ ತಂದೆ,2
+तैराकी में उसने तीन नए रिकॉर्ड स्थापित किए।,Hindi,43,8,36,तैराकी में उसने तीन नए रिकॉर्ड स्थापित किए।,1
+छात्रों ने वार्षिक उत्सव में सांस्कृतिक कार्यक्रम प्रस्तुत किए।,Hindi,63,9,55,छात्रों ने वार्षिक उत्सव में सांस्कृतिक कार्यक्रम प्रस्तुत किए।,1
+फुटबॉल मैच में दोनों टीमों ने बेहतरीन खेल दिखाया।,Hindi,49,9,41,फुटबॉल मैच में दोनों टीमों ने बेहतरीन खेल दिखाया।,1
+क्लाउड कंप्यूटिंग से डेटा स्टोरेज आसान हो गया है।,Hindi,49,9,41,क्लाउड कंप्यूटिंग से डेटा स्टोरेज आसान हो गया है।,1
+चंद्रमा पर भारत का मिशन सफल रहा।,Hindi,32,7,26,चंद्रमा पर भारत का मिशन सफल रहा।,1
+देश की प्रगति में युवाओं की भूमिका महत्वपूर्ण है।,Hindi,49,9,41,देश की प्रगति में युवाओं की भूमिका महत्वपूर्ण है।,1
+The parliament passed a bill to improve healthcare facilities in rural areas.,English,77,12,66,the parliament passed a bill to improve healthcare facilities in rural areas,0
+फुटबॉल मैच में दोनों टीमों ने बेहतरीन खेल दिखाया।,Hindi,49,9,41,फुटबॉल मैच में दोनों टीमों ने बेहतरीन खेल दिखाया।,1
+ಬ್ಲಾಕ್‌ಚೈನ್ ತಂತ್ರಜ್ಞಾನ ಹಣಕಾಸು ವ್ಯವಹಾರಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸುತ್ತದೆ.,Kannada,64,5,60,ಬ್ಲಾಕ್ಚೈನ್ ತಂತ್ರಜ್ಞಾನ ಹಣಕಾಸು ವ್ಯವಹಾರಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸುತ್ತದೆ,2
+मेहनत और लगन से हर लक्ष्य हासिल किया जा सकता है।,Hindi,48,11,38,मेहनत और लगन से हर लक्ष्य हासिल किया जा सकता है।,1
+जनता ने शांतिपूर्ण तरीके से अपनी मांगों को रखा।,Hindi,47,9,39,जनता ने शांतिपूर्ण तरीके से अपनी मांगों को रखा।,1
+ग्रामीण क्षेत्रों में विकास की गति तेज होनी चाहिए।,Hindi,50,9,42,ग्रामीण क्षेत्रों में विकास की गति तेज होनी चाहिए।,1
+The cricket team won the championship after a thrilling final match.,English,68,11,58,the cricket team won the championship after a thrilling final match,0
+मेहनत और लगन से हर लक्ष्य हासिल किया जा सकता है।,Hindi,48,11,38,मेहनत और लगन से हर लक्ष्य हासिल किया जा सकता है।,1
+ಸ್ಮಾರ್ಟ್ ಹೋಮ್ ತಂತ್ರಜ್ಞಾನ ಮನೆಯ ಸೌಕರ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ.,Kannada,54,6,49,ಸ್ಮಾರ್ಟ್ ಹೋಮ್ ತಂತ್ರಜ್ಞಾನ ಮನೆಯ ಸೌಕರ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ,2
+Gene therapy offers new hope for treating previously incurable genetic diseases.,English,80,11,70,gene therapy offers new hope for treating previously incurable genetic diseases,0
+ಚೆಸ್ ಆಟಗಾರ ವಿಶ್ವ ಚಾಂಪಿಯನ್‌ಶಿಪ್‌ನಲ್ಲಿ ಎರಡನೇ ಸ್ಥಾನ ಪಡೆದರು.,Kannada,56,7,50,ಚೆಸ್ ಆಟಗಾರ ವಿಶ್ವ ಚಾಂಪಿಯನ್ಶಿಪ್ನಲ್ಲಿ ಎರಡನೇ ಸ್ಥಾನ ಪಡೆದರು,2
+गर्मियों में तापमान पैंतालीस डिग्री तक पहुँच जाता है।,Hindi,53,9,45,गर्मियों में तापमान पैंतालीस डिग्री तक पहुँच जाता है।,1
+पुस्तक मेले में विभिन्न भाषाओं की किताबें उपलब्ध थीं।,Hindi,53,9,45,पुस्तक मेले में विभिन्न भाषाओं की किताबें उपलब्ध थीं।,1
+ನಾವು ಮನೆಯಲ್ಲಿ ಹೊಸ ಪೀಠೋಪಕರಣ ಹಾಕಿಸಿದ್ದೇವೆ.,Kannada,40,5,36,ನಾವು ಮನೆಯಲ್ಲಿ ಹೊಸ ಪೀಠೋಪಕರಣ ಹಾಕಿಸಿದ್ದೇವೆ,2
+भ्रष्टाचार देश के विकास में सबसे बड़ी बाधा है।,Hindi,46,9,38,भ्रष्टाचार देश के विकास में सबसे बड़ी बाधा है।,1
+He set a new world record in the long jump competition.,English,55,11,45,he set a new world record in the long jump competition,0
+ರಾಗಿ ಮುದ್ದೆ ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರವಾಗಿದೆ.,Kannada,44,5,40,ರಾಗಿ ಮುದ್ದೆ ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರವಾಗಿದೆ,2
+ನಾನು ಇಂದು ಬೆಳಿಗ್ಗೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗಿ ತರಕಾರಿ ತಂದೆ.,Kannada,48,7,42,ನಾನು ಇಂದು ಬೆಳಿಗ್ಗೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗಿ ತರಕಾರಿ ತಂದೆ,2
+केरल को भगवान का अपना देश कहा जाता है।,Hindi,38,9,30,केरल को भगवान का अपना देश कहा जाता है।,1
+हम इस रविवार को पिकनिक पर जा रहे हैं।,Hindi,37,9,29,हम इस रविवार को पिकनिक पर जा रहे हैं।,1
+हमारे पड़ोसी बहुत अच्छे और मिलनसार हैं।,Hindi,39,7,33,हमारे पड़ोसी बहुत अच्छे और मिलनसार हैं।,1
+Robotic process automation reduces manual work in repetitive tasks.,English,67,9,59,robotic process automation reduces manual work in repetitive tasks,0
+The gaming industry has grown exponentially in the past decade.,English,63,10,54,the gaming industry has grown exponentially in the past decade,0
+ವರ್ಚುವಲ್ ರಿಯಾಲಿಟಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿಯನ್ನು ಸುಧಾರಿಸುತ್ತಿದೆ.,Kannada,58,6,53,ವರ್ಚುವಲ್ ರಿಯಾಲಿಟಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿಯನ್ನು ಸುಧಾರಿಸುತ್ತಿದೆ,2
+नई शिक्षा नीति ने पाठ्यक्रम में कई बदलाव किए हैं।,Hindi,49,10,40,नई शिक्षा नीति ने पाठ्यक्रम में कई बदलाव किए हैं।,1
+Robotic process automation reduces manual work in repetitive tasks.,English,67,9,59,robotic process automation reduces manual work in repetitive tasks,0
+ನಾವು ಮನೆಯಲ್ಲಿ ಹೊಸ ಪೀಠೋಪಕರಣ ಹಾಕಿಸಿದ್ದೇವೆ.,Kannada,40,5,36,ನಾವು ಮನೆಯಲ್ಲಿ ಹೊಸ ಪೀಠೋಪಕರಣ ಹಾಕಿಸಿದ್ದೇವೆ,2
+A thick fog covered the highway causing delays in morning traffic.,English,66,11,56,a thick fog covered the highway causing delays in morning traffic,0
+कृत्रिम बुद्धिमत्ता ने हमारे जीवन को बहुत बदल दिया है।,Hindi,54,10,45,कृत्रिम बुद्धिमत्ता ने हमारे जीवन को बहुत बदल दिया है।,1
+कंप्यूटर विज्ञान आज के समय में बहुत महत्वपूर्ण विषय है।,Hindi,55,10,46,कंप्यूटर विज्ञान आज के समय में बहुत महत्वपूर्ण विषय है।,1
+ನಾನು ನಿನ್ನೆ ರಾತ್ರಿ ಒಂದು ಒಳ್ಳೆಯ ಚಲನಚಿತ್ರ ನೋಡಿದೆ.,Kannada,47,7,41,ನಾನು ನಿನ್ನೆ ರಾತ್ರಿ ಒಂದು ಒಳ್ಳೆಯ ಚಲನಚಿತ್ರ ನೋಡಿದೆ,2
+ಅಂತರ್ಜಾಲ ಜಗತ್ತನ್ನು ಒಂದು ಹಳ್ಳಿಯನ್ನಾಗಿ ಮಾಡಿದೆ.,Kannada,44,5,40,ಅಂತರ್ಜಾಲ ಜಗತ್ತನ್ನು ಒಂದು ಹಳ್ಳಿಯನ್ನಾಗಿ ಮಾಡಿದೆ,2
+ಗೋಲ್ ಗುಂಬಜ್ ವಿಶ್ವದ ಎರಡನೇ ಅತಿ ದೊಡ್ಡ ಗುಮ್ಮಟವಾಗಿದೆ.,Kannada,48,7,42,ಗೋಲ್ ಗುಂಬಜ್ ವಿಶ್ವದ ಎರಡನೇ ಅತಿ ದೊಡ್ಡ ಗುಮ್ಮಟವಾಗಿದೆ,2
+ವಿಶ್ವವಿದ್ಯಾಲಯ ಹೊಸ ಕೋರ್ಸ್‌ಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವ ಘೋಷಣೆ ಮಾಡಿದೆ.,Kannada,57,6,52,ವಿಶ್ವವಿದ್ಯಾಲಯ ಹೊಸ ಕೋರ್ಸ್ಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವ ಘೋಷಣೆ ಮಾಡಿದೆ,2
+She is learning data science through various online platforms.,English,62,9,54,she is learning data science through various online platforms,0
+सामाजिक कार्यकर्ताओं ने पर्यावरण संरक्षण की मांग की।,Hindi,52,8,45,सामाजिक कार्यकर्ताओं ने पर्यावरण संरक्षण की मांग की।,1
+ನಾವು ಈ ಭಾನುವಾರ ಪಿಕ್ನಿಕ್ ಗೆ ಹೋಗುತ್ತಿದ್ದೇವೆ.,Kannada,42,6,37,ನಾವು ಈ ಭಾನುವಾರ ಪಿಕ್ನಿಕ್ ಗೆ ಹೋಗುತ್ತಿದ್ದೇವೆ,2
+Virtual reality technology is being used in medical training and therapy.,English,73,11,63,virtual reality technology is being used in medical training and therapy,0
+The examination schedule has been released by the university administration.,English,76,10,67,the examination schedule has been released by the university administration,0
+ಮಳೆ ಬಂದ ಕಾರಣ ರಸ್ತೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿದೆ.,Kannada,38,6,33,ಮಳೆ ಬಂದ ಕಾರಣ ರಸ್ತೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿದೆ,2
+Scientists discovered a new species of deep sea fish in the ocean.,English,66,12,55,scientists discovered a new species of deep sea fish in the ocean,0
+मैं आज सुबह बाजार गया और ताजी सब्जियाँ खरीदीं।,Hindi,46,9,38,मैं आज सुबह बाजार गया और ताजी सब्जियाँ खरीदीं।,1
+The university announced the results of the final examinations last week.,English,73,11,63,the university announced the results of the final examinations last week,0
+सॉफ्टवेयर कंपनी ने नया एप्लिकेशन लॉन्च किया है।,Hindi,47,8,40,सॉफ्टवेयर कंपनी ने नया एप्लिकेशन लॉन्च किया है।,1
+भारतीय व्यंजन अपने मसालों और स्वाद के लिए प्रसिद्ध हैं।,Hindi,55,10,46,भारतीय व्यंजन अपने मसालों और स्वाद के लिए प्रसिद्ध हैं।,1
+She taught herself programming by watching tutorial videos online.,English,66,9,58,she taught herself programming by watching tutorial videos online,0
+ಮುಖ್ಯಮಂತ್ರಿ ಹೊಸ ರಸ್ತೆ ಯೋಜನೆಯನ್ನು ಉದ್ಘಾಟಿಸಿದರು.,Kannada,46,5,42,ಮುಖ್ಯಮಂತ್ರಿ ಹೊಸ ರಸ್ತೆ ಯೋಜನೆಯನ್ನು ಉದ್ಘಾಟಿಸಿದರು,2
+She loves reading novels before going to sleep every night.,English,59,10,50,she loves reading novels before going to sleep every night,0
+Machine learning algorithms can predict customer behavior with high accuracy.,English,77,10,68,machine learning algorithms can predict customer behavior with high accuracy,0
+ಬೆಂಗಳೂರು ಭಾರತದ ಸಿಲಿಕಾನ್ ವ್ಯಾಲಿ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ.,Kannada,51,6,46,ಬೆಂಗಳೂರು ಭಾರತದ ಸಿಲಿಕಾನ್ ವ್ಯಾಲಿ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ,2
+He scored the highest marks in the physics examination.,English,55,9,47,he scored the highest marks in the physics examination,0
+भारतीय फिल्म उद्योग विश्व का सबसे बड़ा फिल्म उद्योग है।,Hindi,55,10,46,भारतीय फिल्म उद्योग विश्व का सबसे बड़ा फिल्म उद्योग है।,1
+अंतरिक्ष एजेंसी ने सफलतापूर्वक उपग्रह प्रक्षेपित किया।,Hindi,54,7,48,अंतरिक्ष एजेंसी ने सफलतापूर्वक उपग्रह प्रक्षेपित किया।,1
+The examination schedule has been released by the university administration.,English,76,10,67,the examination schedule has been released by the university administration,0
+The campus placement drive attracted many multinational companies.,English,66,8,59,the campus placement drive attracted many multinational companies,0
+Volunteering at the community center gave me a sense of fulfillment.,English,68,11,58,volunteering at the community center gave me a sense of fulfillment,0
+The latest operating system update includes several new features and fixes.,English,75,11,65,the latest operating system update includes several new features and fixes,0
+स्मार्ट होम तकनीक ने घर की सुविधाओं को बढ़ा दिया है।,Hindi,52,11,42,स्मार्ट होम तकनीक ने घर की सुविधाओं को बढ़ा दिया है।,1
+ನಾನು ನಿನ್ನೆ ರಾತ್ರಿ ಒಂದು ಒಳ್ಳೆಯ ಚಲನಚಿತ್ರ ನೋಡಿದೆ.,Kannada,47,7,41,ನಾನು ನಿನ್ನೆ ರಾತ್ರಿ ಒಂದು ಒಳ್ಳೆಯ ಚಲನಚಿತ್ರ ನೋಡಿದೆ,2
+The supreme court delivered a landmark judgment on fundamental rights.,English,70,10,61,the supreme court delivered a landmark judgment on fundamental rights,0
+लद्दाख की प्राकृतिक सुंदरता अद्भुत है।,Hindi,38,6,33,लद्दाख की प्राकृतिक सुंदरता अद्भुत है।,1
+पुस्तक मेले में विभिन्न भाषाओं की किताबें उपलब्ध थीं।,Hindi,53,9,45,पुस्तक मेले में विभिन्न भाषाओं की किताबें उपलब्ध थीं।,1
+The marathon runner completed the race in under three hours.,English,60,10,51,the marathon runner completed the race in under three hours,0
+वह रोज सुबह पार्क में टहलने जाती है।,Hindi,36,8,29,वह रोज सुबह पार्क में टहलने जाती है।,1
+ಅವಳು ಒಲಿಂಪಿಕ್ಸ್‌ನಲ್ಲಿ ಚಿನ್ನದ ಪದಕ ಗೆದ್ದು ದೇಶದ ಹೆಮ್ಮೆ ಹೆಚ್ಚಿಸಿದಳು.,Kannada,64,8,57,ಅವಳು ಒಲಿಂಪಿಕ್ಸ್ನಲ್ಲಿ ಚಿನ್ನದ ಪದಕ ಗೆದ್ದು ದೇಶದ ಹೆಮ್ಮೆ ಹೆಚ್ಚಿಸಿದಳು,2
+Community gardens promote social interaction and provide fresh produce.,English,71,9,63,community gardens promote social interaction and provide fresh produce,0
+ಇಂದಿನ ಪತ್ರಿಕೆ ಓದಿ ಹಲವು ಹೊಸ ವಿಷಯಗಳು ತಿಳಿದವು.,Kannada,43,7,37,ಇಂದಿನ ಪತ್ರಿಕೆ ಓದಿ ಹಲವು ಹೊಸ ವಿಷಯಗಳು ತಿಳಿದವು,2
+ಈಜುವಿಕೆಯಲ್ಲಿ ಅವಳು ಮೂರು ಹೊಸ ದಾಖಲೆ ಸ್ಥಾಪಿಸಿದಳು.,Kannada,45,6,40,ಈಜುವಿಕೆಯಲ್ಲಿ ಅವಳು ಮೂರು ಹೊಸ ದಾಖಲೆ ಸ್ಥಾಪಿಸಿದಳು,2
+The telescope captured stunning images of a distant galaxy cluster.,English,67,10,58,the telescope captured stunning images of a distant galaxy cluster,0
+Heavy rainfall caused flooding in several low lying areas of the city.,English,70,12,59,heavy rainfall caused flooding in several low lying areas of the city,0
+वित्त मंत्री ने वार्षिक बजट प्रस्तुत किया है।,Hindi,45,8,38,वित्त मंत्री ने वार्षिक बजट प्रस्तुत किया है।,1
+वर्चुअल रियलिटी से शिक्षा और प्रशिक्षण में सुधार हो रहा है।,Hindi,59,11,49,वर्चुअल रियलिटी से शिक्षा और प्रशिक्षण में सुधार हो रहा है।,1
+वैज्ञानिकों ने एक नई दवा की खोज की है।,Hindi,38,9,30,वैज्ञानिकों ने एक नई दवा की खोज की है।,1
+रसायन विज्ञान के प्रयोग में सावधानी बरतनी चाहिए।,Hindi,48,8,41,रसायन विज्ञान के प्रयोग में सावधानी बरतनी चाहिए।,1
+ನಮ್ಮ ನೆರೆಹೊರೆಯವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು.,Kannada,34,4,31,ನಮ್ಮ ನೆರೆಹೊರೆಯವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು,2
+The art exhibition showcased paintings from local and international artists.,English,76,10,67,the art exhibition showcased paintings from local and international artists,0
+राष्ट्रपति ने गणतंत्र दिवस पर देश को बधाई दी।,Hindi,45,9,37,राष्ट्रपति ने गणतंत्र दिवस पर देश को बधाई दी।,1
+अंतरिक्ष अनुसंधान में भारत ने बड़ी सफलता हासिल की है।,Hindi,53,10,44,अंतरिक्ष अनुसंधान में भारत ने बड़ी सफलता हासिल की है।,1
+The coach implemented a new training strategy for the upcoming season.,English,70,11,60,the coach implemented a new training strategy for the upcoming season,0
+Archaeologists unearthed ancient artifacts dating back thousands of years.,English,74,9,66,archaeologists unearthed ancient artifacts dating back thousands of years,0
+The mathematics teacher made complex concepts easy to understand.,English,65,9,57,the mathematics teacher made complex concepts easy to understand,0
+वह हर शाम को योग और ध्यान करती है।,Hindi,34,9,26,वह हर शाम को योग और ध्यान करती है।,1
+The film festival screened movies from directors around the world.,English,66,10,57,the film festival screened movies from directors around the world,0
+The volleyball team practiced for six hours daily during the training camp.,English,75,12,64,the volleyball team practiced for six hours daily during the training camp,0
+ರಸಾಯನಶಾಸ್ತ್ರ ಪ್ರಯೋಗದಲ್ಲಿ ಜಾಗರೂಕತೆ ವಹಿಸಬೇಕು.,Kannada,43,4,40,ರಸಾಯನಶಾಸ್ತ್ರ ಪ್ರಯೋಗದಲ್ಲಿ ಜಾಗರೂಕತೆ ವಹಿಸಬೇಕು,2
+बचपन जीवन का सबसे खूबसूरत समय होता है।,Hindi,38,8,31,बचपन जीवन का सबसे खूबसूरत समय होता है।,1
+बाजार में आजकल सब्जियों के दाम बहुत बढ़ गए हैं।,Hindi,47,10,38,बाजार में आजकल सब्जियों के दाम बहुत बढ़ गए हैं।,1
+The prime minister addressed the nation on the independence day celebrations.,English,77,11,67,the prime minister addressed the nation on the independence day celebrations,0
+The unemployment rate has decreased significantly in the last quarter.,English,70,10,61,the unemployment rate has decreased significantly in the last quarter,0
+ಪುಸ್ತಕ ಮೇಳದಲ್ಲಿ ವಿವಿಧ ಭಾಷೆಗಳ ಪುಸ್ತಕಗಳು ಲಭ್ಯವಿದ್ದವು.,Kannada,51,6,46,ಪುಸ್ತಕ ಮೇಳದಲ್ಲಿ ವಿವಿಧ ಭಾಷೆಗಳ ಪುಸ್ತಕಗಳು ಲಭ್ಯವಿದ್ದವು,2
+The supreme court delivered a landmark judgment on fundamental rights.,English,70,10,61,the supreme court delivered a landmark judgment on fundamental rights,0
+स्कूल के प्रधानाचार्य ने छात्रों को प्रेरित करने वाला भाषण दिया।,Hindi,64,11,54,स्कूल के प्रधानाचार्य ने छात्रों को प्रेरित करने वाला भाषण दिया।,1
+आर्थिक विकास दर में इस तिमाही में सुधार देखा गया है।,Hindi,52,11,42,आर्थिक विकास दर में इस तिमाही में सुधार देखा गया है।,1
+प्रधानमंत्री ने स्वतंत्रता दिवस पर राष्ट्र को संबोधित किया।,Hindi,59,9,51,प्रधानमंत्री ने स्वतंत्रता दिवस पर राष्ट्र को संबोधित किया।,1
+तैराकी में उसने तीन नए रिकॉर्ड स्थापित किए।,Hindi,43,8,36,तैराकी में उसने तीन नए रिकॉर्ड स्थापित किए।,1
+ब्लॉकचेन तकनीक वित्तीय लेनदेन को सुरक्षित बनाती है।,Hindi,51,8,44,ब्लॉकचेन तकनीक वित्तीय लेनदेन को सुरक्षित बनाती है।,1
+ಡೇಟಾ ಸೈನ್ಸ್ ಇಂದಿನ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ವೃತ್ತಿ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ.,Kannada,61,8,54,ಡೇಟಾ ಸೈನ್ಸ್ ಇಂದಿನ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ವೃತ್ತಿ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ,2
+The coach implemented a new training strategy for the upcoming season.,English,70,11,60,the coach implemented a new training strategy for the upcoming season,0
+I need to pay the electricity bill before the end of this month.,English,64,13,52,i need to pay the electricity bill before the end of this month,0
+सभी धर्म प्रेम और शांति का संदेश देते हैं।,Hindi,42,9,34,सभी धर्म प्रेम और शांति का संदेश देते हैं।,1
+He documented his travel experiences in a popular blog online.,English,62,10,53,he documented his travel experiences in a popular blog online,0
+The street food market offers a variety of delicious and affordable snacks.,English,75,12,64,the street food market offers a variety of delicious and affordable snacks,0
+ಮಕ್ಕಳು ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ ಆಟವಾಡುತ್ತಿದ್ದಾರೆ.,Kannada,42,5,38,ಮಕ್ಕಳು ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ ಆಟವಾಡುತ್ತಿದ್ದಾರೆ,2
+ನಗರಪಾಲಿಕೆ ನಗರದ ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಆರಂಭಿಸಿದೆ.,Kannada,41,5,37,ನಗರಪಾಲಿಕೆ ನಗರದ ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಆರಂಭಿಸಿದೆ,2
+खेल अकादमी से कई प्रतिभाशाली खिलाड़ी निकले हैं।,Hindi,47,8,40,खेल अकादमी से कई प्रतिभाशाली खिलाड़ी निकले हैं।,1
+ಹಂಪಿ ವಿಶ್ವ ಪರಂಪರೆಯ ತಾಣವಾಗಿದೆ.,Kannada,29,4,26,ಹಂಪಿ ವಿಶ್ವ ಪರಂಪರೆಯ ತಾಣವಾಗಿದೆ,2
+Students are preparing for their competitive entrance examinations.,English,67,8,60,students are preparing for their competitive entrance examinations,0
+The traffic was really heavy on my way to work today.,English,53,11,43,the traffic was really heavy on my way to work today,0
+ऑनलाइन खरीदारी ने बाजार की परंपरा को बदल दिया है।,Hindi,49,10,40,ऑनलाइन खरीदारी ने बाजार की परंपरा को बदल दिया है।,1
+चाय भारत में सबसे लोकप्रिय पेय पदार्थ है।,Hindi,41,8,34,चाय भारत में सबसे लोकप्रिय पेय पदार्थ है।,1
+दादी माँ ने हमें एक पुरानी कहानी सुनाई।,Hindi,39,8,32,दादी माँ ने हमें एक पुरानी कहानी सुनाई।,1
+मैं आज सुबह बाजार गया और ताजी सब्जियाँ खरीदीं।,Hindi,46,9,38,मैं आज सुबह बाजार गया और ताजी सब्जियाँ खरीदीं।,1
+ವಿಶ್ವವಿದ್ಯಾಲಯ ಹೊಸ ಕೋರ್ಸ್‌ಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವ ಘೋಷಣೆ ಮಾಡಿದೆ.,Kannada,57,6,52,ವಿಶ್ವವಿದ್ಯಾಲಯ ಹೊಸ ಕೋರ್ಸ್ಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವ ಘೋಷಣೆ ಮಾಡಿದೆ,2
+ಆರೋಗ್ಯವೇ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂಪತ್ತು.,Kannada,30,4,27,ಆರೋಗ್ಯವೇ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂಪತ್ತು,2
+Volunteering at the community center gave me a sense of fulfillment.,English,68,11,58,volunteering at the community center gave me a sense of fulfillment,0
+मेरी माँ ने आज बहुत स्वादिष्ट खाना बनाया है।,Hindi,44,9,36,मेरी माँ ने आज बहुत स्वादिष्ट खाना बनाया है।,1
+Regular exercise and a balanced diet are essential for good health.,English,67,11,57,regular exercise and a balanced diet are essential for good health,0
+स्मार्ट होम तकनीक ने घर की सुविधाओं को बढ़ा दिया है।,Hindi,52,11,42,स्मार्ट होम तकनीक ने घर की सुविधाओं को बढ़ा दिया है।,1
+ನನ್ನ ಸ್ನೇಹಿತ ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟ.,Kannada,48,7,42,ನನ್ನ ಸ್ನೇಹಿತ ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟ,2
+ನನ್ನ ಅಮ್ಮ ಇಂದು ರುಚಿಯಾದ ಊಟ ಮಾಡಿದ್ದಾರೆ.,Kannada,37,6,32,ನನ್ನ ಅಮ್ಮ ಇಂದು ರುಚಿಯಾದ ಊಟ ಮಾಡಿದ್ದಾರೆ,2
+The weather is quite pleasant today compared to yesterday.,English,58,9,50,the weather is quite pleasant today compared to yesterday,0
+ಸಂಶೋಧನಾ ಕಾರ್ಯಕ್ಕಾಗಿ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ ಸಿಕ್ಕಿದೆ.,Kannada,52,5,48,ಸಂಶೋಧನಾ ಕಾರ್ಯಕ್ಕಾಗಿ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ ಸಿಕ್ಕಿದೆ,2
+He has been training for the upcoming Olympic swimming competition.,English,67,10,58,he has been training for the upcoming olympic swimming competition,0
+उसने इंजीनियरिंग की पढ़ाई पूरी कर ली है।,Hindi,40,8,33,उसने इंजीनियरिंग की पढ़ाई पूरी कर ली है।,1
+Environmental activists protested against deforestation in the national capital.,English,80,9,72,environmental activists protested against deforestation in the national capital,0
+भौतिक विज्ञान में नई खोजें रोमांचक हैं।,Hindi,39,7,33,भौतिक विज्ञान में नई खोजें रोमांचक हैं।,1
+सॉफ्टवेयर कंपनी ने नया एप्लिकेशन लॉन्च किया है।,Hindi,47,8,40,सॉफ्टवेयर कंपनी ने नया एप्लिकेशन लॉन्च किया है।,1
+कक्षा में अध्यापक ने इतिहास की रोचक जानकारी दी।,Hindi,47,9,39,कक्षा में अध्यापक ने इतिहास की रोचक जानकारी दी।,1
+The drought severely affected agricultural production in the farming regions.,English,77,10,68,the drought severely affected agricultural production in the farming regions,0
+उसने ओलंपिक में स्वर्ण पदक जीतकर देश का गौरव बढ़ाया।,Hindi,52,10,43,उसने ओलंपिक में स्वर्ण पदक जीतकर देश का गौरव बढ़ाया।,1
+Environmental activists protested against deforestation in the national capital.,English,80,9,72,environmental activists protested against deforestation in the national capital,0
+ತರಬೇತುದಾರರು ಆಟಗಾರರಿಗೆ ಹೊಸ ತಂತ್ರ ತಯಾರಿಸಿದ್ದಾರೆ.,Kannada,46,5,42,ತರಬೇತುದಾರರು ಆಟಗಾರರಿಗೆ ಹೊಸ ತಂತ್ರ ತಯಾರಿಸಿದ್ದಾರೆ,2
+स्मार्ट होम तकनीक ने घर की सुविधाओं को बढ़ा दिया है।,Hindi,52,11,42,स्मार्ट होम तकनीक ने घर की सुविधाओं को बढ़ा दिया है।,1
+शोध कार्य के लिए उसे अंतरराष्ट्रीय पुरस्कार मिला।,Hindi,49,8,42,शोध कार्य के लिए उसे अंतरराष्ट्रीय पुरस्कार मिला।,1
+The street food market offers a variety of delicious and affordable snacks.,English,75,12,64,the street food market offers a variety of delicious and affordable snacks,0
+ಹವಾಮಾನ ಬದಲಾವಣೆ ಇಡೀ ಜಗತ್ತಿಗೆ ದೊಡ್ಡ ಸವಾಲಾಗಿದೆ.,Kannada,44,6,39,ಹವಾಮಾನ ಬದಲಾವಣೆ ಇಡೀ ಜಗತ್ತಿಗೆ ದೊಡ್ಡ ಸವಾಲಾಗಿದೆ,2
+प्रोग्रामिंग सीखना आज के युवाओं के लिए बहुत जरूरी है।,Hindi,53,10,44,प्रोग्रामिंग सीखना आज के युवाओं के लिए बहुत जरूरी है।,1
+ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತ ದೊಡ್ಡ ಯಶಸ್ಸು ಸಾಧಿಸಿದೆ.,Kannada,50,6,45,ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತ ದೊಡ್ಡ ಯಶಸ್ಸು ಸಾಧಿಸಿದೆ,2
+Virtual reality technology is being used in medical training and therapy.,English,73,11,63,virtual reality technology is being used in medical training and therapy,0
+ಸೈಬರ್ ಭದ್ರತೆ ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಅತ್ಯಂತ ಅವಶ್ಯಕವಾಗಿದೆ.,Kannada,50,6,45,ಸೈಬರ್ ಭದ್ರತೆ ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಅತ್ಯಂತ ಅವಶ್ಯಕವಾಗಿದೆ,2
+लद्दाख की प्राकृतिक सुंदरता अद्भुत है।,Hindi,38,6,33,लद्दाख की प्राकृतिक सुंदरता अद्भुत है।,1
+न्यायालय ने एक ऐतिहासिक फैसला सुनाया है।,Hindi,40,7,34,न्यायालय ने एक ऐतिहासिक फैसला सुनाया है।,1
+इंटरनेट ने दुनिया को एक गाँव में बदल दिया है।,Hindi,45,10,36,इंटरनेट ने दुनिया को एक गाँव में बदल दिया है।,1
+हॉकी के खेल में भारतीय टीम ने कमाल का प्रदर्शन किया।,Hindi,52,11,42,हॉकी के खेल में भारतीय टीम ने कमाल का प्रदर्शन किया।,1
+महिला सशक्तिकरण आज के समय की सबसे बड़ी जरूरत है।,Hindi,48,10,39,महिला सशक्तिकरण आज के समय की सबसे बड़ी जरूरत है।,1
+ड्रोन तकनीक का उपयोग कृषि में किया जा रहा है।,Hindi,45,10,36,ड्रोन तकनीक का उपयोग कृषि में किया जा रहा है।,1
+She loves reading novels before going to sleep every night.,English,59,10,50,she loves reading novels before going to sleep every night,0
+The library has a vast collection of academic books and journals.,English,65,11,55,the library has a vast collection of academic books and journals,0
+मुझे हर रोज सुबह जल्दी उठना पड़ता है।,Hindi,37,8,30,मुझे हर रोज सुबह जल्दी उठना पड़ता है।,1
+सौर ऊर्जा स्वच्छ और नवीकरणीय ऊर्जा का स्रोत है।,Hindi,47,9,39,सौर ऊर्जा स्वच्छ और नवीकरणीय ऊर्जा का स्रोत है।,1
+The chemistry experiment demonstrated the principle of chemical equilibrium clearly.,English,84,10,75,the chemistry experiment demonstrated the principle of chemical equilibrium clearly,0
+She started playing chess at the age of five and became a champion.,English,67,13,55,she started playing chess at the age of five and became a champion,0
+आज मौसम बहुत अच्छा है और धूप खिली हुई है।,Hindi,41,10,32,आज मौसम बहुत अच्छा है और धूप खिली हुई है।,1
+ಬಾಲ್ಯ ಜೀವನದ ಅತ್ಯಂತ ಸುಂದರ ಸಮಯವಾಗಿದೆ.,Kannada,35,5,31,ಬಾಲ್ಯ ಜೀವನದ ಅತ್ಯಂತ ಸುಂದರ ಸಮಯವಾಗಿದೆ,2
+ವಿದ್ಯಾರ್ಥಿಗಳು ವಾರ್ಷಿಕ ಉತ್ಸವದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ಮಂಡಿಸಿದರು.,Kannada,64,6,59,ವಿದ್ಯಾರ್ಥಿಗಳು ವಾರ್ಷಿಕ ಉತ್ಸವದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ಮಂಡಿಸಿದರು,2
+संगीत सुनने से मन को शांति मिलती है।,Hindi,36,8,29,संगीत सुनने से मन को शांति मिलती है।,1
+ವಿಪಕ್ಷ ಸರ್ಕಾಡ ನೀತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಎತ್ತಿದೆ.,Kannada,43,6,38,ವಿಪಕ್ಷ ಸರ್ಕಾಡ ನೀತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ ಎತ್ತಿದೆ,2
+ಸೈಬರ್ ಭದ್ರತೆ ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಅತ್ಯಂತ ಅವಶ್ಯಕವಾಗಿದೆ.,Kannada,50,6,45,ಸೈಬರ್ ಭದ್ರತೆ ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಅತ್ಯಂತ ಅವಶ್ಯಕವಾಗಿದೆ,2
+ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಹಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ.,Kannada,41,4,38,ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಹಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ,2
+ಗೋಲ್ ಗುಂಬಜ್ ವಿಶ್ವದ ಎರಡನೇ ಅತಿ ದೊಡ್ಡ ಗುಮ್ಮಟವಾಗಿದೆ.,Kannada,48,7,42,ಗೋಲ್ ಗುಂಬಜ್ ವಿಶ್ವದ ಎರಡನೇ ಅತಿ ದೊಡ್ಡ ಗುಮ್ಮಟವಾಗಿದೆ,2
+मेरी माँ ने आज बहुत स्वादिष्ट खाना बनाया है।,Hindi,44,9,36,मेरी माँ ने आज बहुत स्वादिष्ट खाना बनाया है।,1
+जनता ने शांतिपूर्ण तरीके से अपनी मांगों को रखा।,Hindi,47,9,39,जनता ने शांतिपूर्ण तरीके से अपनी मांगों को रखा।,1
+सही आहार और व्यायाम से शरीर स्वस्थ रहता है।,Hindi,43,9,35,सही आहार और व्यायाम से शरीर स्वस्थ रहता है।,1
+ಕಬಡ್ಡಿ ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ಭಾರತ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು.,Kannada,50,6,45,ಕಬಡ್ಡಿ ವಿಶ್ವಕಪ್ನಲ್ಲಿ ಭಾರತ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು,2
+ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ವೇಗ ಹೆಚ್ಚಬೇಕಿದೆ.,Kannada,47,5,43,ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ವೇಗ ಹೆಚ್ಚಬೇಕಿದೆ,2
+The mathematics teacher made complex concepts easy to understand.,English,65,9,57,the mathematics teacher made complex concepts easy to understand,0
+She learned to bake bread from scratch during the lockdown period.,English,66,11,56,she learned to bake bread from scratch during the lockdown period,0
+हिंदी भाषा का साहित्य बहुत समृद्ध और विविध है।,Hindi,46,9,38,हिंदी भाषा का साहित्य बहुत समृद्ध और विविध है।,1
+ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತರು ಪರಿಸರ ಸಂರಕ್ಷಣೆಯ ಬೇಡಿಕೆ ಇಟ್ಟರು.,Kannada,50,6,45,ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತರು ಪರಿಸರ ಸಂರಕ್ಷಣೆಯ ಬೇಡಿಕೆ ಇಟ್ಟರು,2
+The supreme court delivered a landmark judgment on fundamental rights.,English,70,10,61,the supreme court delivered a landmark judgment on fundamental rights,0
+ಒಳ್ಳೆಯ ಸಂಸ್ಕಾರಗಳು ಮಕ್ಕಳ ಭವಿಷ್ಯವನ್ನು ಉಜ್ವಲಗೊಳಿಸುತ್ತವೆ.,Kannada,53,5,49,ಒಳ್ಳೆಯ ಸಂಸ್ಕಾರಗಳು ಮಕ್ಕಳ ಭವಿಷ್ಯವನ್ನು ಉಜ್ವಲಗೊಳಿಸುತ್ತವೆ,2
+The parliament passed a bill to improve healthcare facilities in rural areas.,English,77,12,66,the parliament passed a bill to improve healthcare facilities in rural areas,0
+He wakes up at five in the morning to practice yoga.,English,52,11,42,he wakes up at five in the morning to practice yoga,0
+Cloud computing has revolutionized the way businesses store and process data.,English,77,11,67,cloud computing has revolutionized the way businesses store and process data,0
+रसायन विज्ञान के प्रयोग में सावधानी बरतनी चाहिए।,Hindi,48,8,41,रसायन विज्ञान के प्रयोग में सावधानी बरतनी चाहिए।,1
+उसने अपने जन्मदिन की पार्टी में सबको बुलाया।,Hindi,44,8,37,उसने अपने जन्मदिन की पार्टी में सबको बुलाया।,1
+ड्रोन तकनीक का उपयोग कृषि में किया जा रहा है।,Hindi,45,10,36,ड्रोन तकनीक का उपयोग कृषि में किया जा रहा है।,1
+ಅವಳು ತನ್ನ ಹುಟ್ಟುಹಬ್ಬದ ಪಾರ್ಟಿಗೆ ಎಲ್ಲರನ್ನೂ ಕರೆದಳು.,Kannada,48,6,43,ಅವಳು ತನ್ನ ಹುಟ್ಟುಹಬ್ಬದ ಪಾರ್ಟಿಗೆ ಎಲ್ಲರನ್ನೂ ಕರೆದಳು,2
+Cybersecurity threats are increasing with the growth of digital services.,English,73,10,64,cybersecurity threats are increasing with the growth of digital services,0
+आज मौसम बहुत अच्छा है और धूप खिली हुई है।,Hindi,41,10,32,आज मौसम बहुत अच्छा है और धूप खिली हुई है।,1
+The children are playing in the garden after school.,English,52,9,44,the children are playing in the garden after school,0
+होली रंगों का त्योहार है जो बसंत ऋतु में मनाया जाता है।,Hindi,55,12,44,होली रंगों का त्योहार है जो बसंत ऋतु में मनाया जाता है।,1
+Data analytics helps companies make informed business decisions.,English,64,8,57,data analytics helps companies make informed business decisions,0
+मेरे दोस्त ने मुझे एक किताब उपहार में दी।,Hindi,41,9,33,मेरे दोस्त ने मुझे एक किताब उपहार में दी।,1
+वह छात्रवृत्ति पाकर विदेश में पढ़ने गई है।,Hindi,42,8,35,वह छात्रवृत्ति पाकर विदेश में पढ़ने गई है।,1
+पुस्तकालय में पढ़ाई के लिए बहुत शांत वातावरण है।,Hindi,48,9,40,पुस्तकालय में पढ़ाई के लिए बहुत शांत वातावरण है।,1
+ಅವನು ರೈಲಿನಲ್ಲಿ ಪ್ರತಿದಿನ ಕಚೇರಿಗೆ ಹೋಗುತ್ತಾನೆ.,Kannada,43,5,39,ಅವನು ರೈಲಿನಲ್ಲಿ ಪ್ರತಿದಿನ ಕಚೇರಿಗೆ ಹೋಗುತ್ತಾನೆ,2
+ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಟ್ಟಗಳ ಮೇಲೆ ಹಿಮ ಬೀಳುತ್ತದೆ.,Kannada,39,5,35,ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಟ್ಟಗಳ ಮೇಲೆ ಹಿಮ ಬೀಳುತ್ತದೆ,2
+I went to the grocery store to buy some fresh vegetables and fruits.,English,68,13,56,i went to the grocery store to buy some fresh vegetables and fruits,0
+ಜನರು ಶಾಂತಿಯುತವಾಗಿ ತಮ್ಮ ಬೇಡಿಕೆಗಳನ್ನು ಮಂಡಿಸಿದರು.,Kannada,46,5,42,ಜನರು ಶಾಂತಿಯುತವಾಗಿ ತಮ್ಮ ಬೇಡಿಕೆಗಳನ್ನು ಮಂಡಿಸಿದರು,2
+विश्वविद्यालय ने नए पाठ्यक्रम शुरू करने की घोषणा की।,Hindi,52,9,44,विश्वविद्यालय ने नए पाठ्यक्रम शुरू करने की घोषणा की।,1
+Natural language processing enables machines to understand human language.,English,74,9,66,natural language processing enables machines to understand human language,0
+ಅವಳು ಒಲಿಂಪಿಕ್ಸ್‌ನಲ್ಲಿ ಚಿನ್ನದ ಪದಕ ಗೆದ್ದು ದೇಶದ ಹೆಮ್ಮೆ ಹೆಚ್ಚಿಸಿದಳು.,Kannada,64,8,57,ಅವಳು ಒಲಿಂಪಿಕ್ಸ್ನಲ್ಲಿ ಚಿನ್ನದ ಪದಕ ಗೆದ್ದು ದೇಶದ ಹೆಮ್ಮೆ ಹೆಚ್ಚಿಸಿದಳು,2
+दिवाली भारत का सबसे बड़ा और लोकप्रिय त्योहार है।,Hindi,48,9,40,दिवाली भारत का सबसे बड़ा और लोकप्रिय त्योहार है।,1
+ड्रोन तकनीक का उपयोग कृषि में किया जा रहा है।,Hindi,45,10,36,ड्रोन तकनीक का उपयोग कृषि में किया जा रहा है।,1
+ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಟ್ಟಗಳ ಮೇಲೆ ಹಿಮ ಬೀಳುತ್ತದೆ.,Kannada,39,5,35,ಚಳಿಗಾಲದಲ್ಲಿ ಬೆಟ್ಟಗಳ ಮೇಲೆ ಹಿಮ ಬೀಳುತ್ತದೆ,2
+ಆನ್‌ಲೈನ್ ಖರೀದಿ ಮಾರುಕಟ್ಟೆಯ ಸಂಪ್ರದಾಯವನ್ನು ಬದಲಾಯಿಸಿದೆ.,Kannada,51,5,47,ಆನ್ಲೈನ್ ಖರೀದಿ ಮಾರುಕಟ್ಟೆಯ ಸಂಪ್ರದಾಯವನ್ನು ಬದಲಾಯಿಸಿದೆ,2
+ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದ್ಭುತ ಪ್ರಗತಿ ಸಾಧಿಸಿದೆ.,Kannada,70,8,63,ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದ್ಭುತ ಪ್ರಗತಿ ಸಾಧಿಸಿದೆ,2
+Cloud computing has revolutionized the way businesses store and process data.,English,77,11,67,cloud computing has revolutionized the way businesses store and process data,0
+The concert was attended by thousands of fans from different cities.,English,68,11,58,the concert was attended by thousands of fans from different cities,0
+टेनिस खिलाड़ी ने ग्रैंड स्लैम टूर्नामेंट में उपविजेता रही।,Hindi,58,9,50,टेनिस खिलाड़ी ने ग्रैंड स्लैम टूर्नामेंट में उपविजेता रही।,1
+दादी माँ ने हमें एक पुरानी कहानी सुनाई।,Hindi,39,8,32,दादी माँ ने हमें एक पुरानी कहानी सुनाई।,1
+ताजमहल विश्व के सात अजूबों में से एक है।,Hindi,40,9,32,ताजमहल विश्व के सात अजूबों में से एक है।,1
+ಅವಳು ತನ್ನ ಹುಟ್ಟುಹಬ್ಬದ ಪಾರ್ಟಿಗೆ ಎಲ್ಲರನ್ನೂ ಕರೆದಳು.,Kannada,48,6,43,ಅವಳು ತನ್ನ ಹುಟ್ಟುಹಬ್ಬದ ಪಾರ್ಟಿಗೆ ಎಲ್ಲರನ್ನೂ ಕರೆದಳು,2
+A team of biologists found a new antibiotic compound in soil bacteria.,English,70,12,59,a team of biologists found a new antibiotic compound in soil bacteria,0
+ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದ್ಭುತ ಪ್ರಗತಿ ಸಾಧಿಸಿದೆ.,Kannada,70,8,63,ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದ್ಭುತ ಪ್ರಗತಿ ಸಾಧಿಸಿದೆ,2
+Data analytics helps companies make informed business decisions.,English,64,8,57,data analytics helps companies make informed business decisions,0
+मैंने कल रात एक बहुत अच्छी फिल्म देखी।,Hindi,38,8,31,मैंने कल रात एक बहुत अच्छी फिल्म देखी।,1
+She organized her closet and donated old clothes to charity.,English,60,10,51,she organized her closet and donated old clothes to charity,0
+ಬ್ಲಾಕ್‌ಚೈನ್ ತಂತ್ರಜ್ಞಾನ ಹಣಕಾಸು ವ್ಯವಹಾರಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸುತ್ತದೆ.,Kannada,64,5,60,ಬ್ಲಾಕ್ಚೈನ್ ತಂತ್ರಜ್ಞಾನ ಹಣಕಾಸು ವ್ಯವಹಾರಗಳನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸುತ್ತದೆ,2
+ಮಕ್ಕಳು ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ ಆಟವಾಡುತ್ತಿದ್ದಾರೆ.,Kannada,42,5,38,ಮಕ್ಕಳು ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ ಆಟವಾಡುತ್ತಿದ್ದಾರೆ,2
+She started playing chess at the age of five and became a champion.,English,67,13,55,she started playing chess at the age of five and became a champion,0
+The school principal addressed the students during the annual function.,English,71,10,62,the school principal addressed the students during the annual function,0
+She is cooking dinner for the entire family tonight.,English,52,9,44,she is cooking dinner for the entire family tonight,0
+Artificial intelligence is transforming various industries across the world.,English,76,9,68,artificial intelligence is transforming various industries across the world,0
+ನಮ್ಮ ನೆರೆಹೊರೆಯವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು.,Kannada,34,4,31,ನಮ್ಮ ನೆರೆಹೊರೆಯವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು,2
+He has been training for the upcoming Olympic swimming competition.,English,67,10,58,he has been training for the upcoming olympic swimming competition,0
+She organized her closet and donated old clothes to charity.,English,60,10,51,she organized her closet and donated old clothes to charity,0
+ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ನಮ್ಮ ಜೀವನವನ್ನು ಬಹಳ ಬದಲಾಯಿಸಿದೆ.,Kannada,47,6,42,ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ನಮ್ಮ ಜೀವನವನ್ನು ಬಹಳ ಬದಲಾಯಿಸಿದೆ,2
+ಇಂದು ಹವಾಮಾನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಮತ್ತು ಬಿಸಿಲು ಚೆನ್ನಾಗಿದೆ.,Kannada,53,7,47,ಇಂದು ಹವಾಮಾನ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಮತ್ತು ಬಿಸಿಲು ಚೆನ್ನಾಗಿದೆ,2
+ವಿದ್ಯುತ್ ವಾಹನಗಳ ಬೇಡಿಕೆ ವೇಗವಾಗಿ ಹೆಚ್ಚುತ್ತಿದೆ.,Kannada,44,5,40,ವಿದ್ಯುತ್ ವಾಹನಗಳ ಬೇಡಿಕೆ ವೇಗವಾಗಿ ಹೆಚ್ಚುತ್ತಿದೆ,2
+I need to pay the electricity bill before the end of this month.,English,64,13,52,i need to pay the electricity bill before the end of this month,0
+ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರು ಇತಿಹಾಸದ ಆಸಕ್ತಿಕರ ಮಾಹಿತಿ ನೀಡಿದರು.,Kannada,52,6,47,ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರು ಇತಿಹಾಸದ ಆಸಕ್ತಿಕರ ಮಾಹಿತಿ ನೀಡಿದರು,2
+ಅವಳು ಎಂಜಿನಿಯರಿಂಗ್ ಪದವಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದಾಳೆ.,Kannada,41,4,38,ಅವಳು ಎಂಜಿನಿಯರಿಂಗ್ ಪದವಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದಾಳೆ,2
+He scored the highest marks in the physics examination.,English,55,9,47,he scored the highest marks in the physics examination,0
+He completed his doctoral thesis on artificial intelligence applications.,English,73,9,65,he completed his doctoral thesis on artificial intelligence applications,0
+क्लाउड कंप्यूटिंग से डेटा स्टोरेज आसान हो गया है।,Hindi,49,9,41,क्लाउड कंप्यूटिंग से डेटा स्टोरेज आसान हो गया है।,1
+The tennis player won three consecutive grand slam titles this year.,English,68,11,58,the tennis player won three consecutive grand slam titles this year,0
+ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಸಾವಿರಾರು ಪ್ರೇಕ್ಷಕರು ಪಂದ್ಯ ನೋಡಲು ಬಂದರು.,Kannada,53,6,48,ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಸಾವಿರಾರು ಪ್ರೇಕ್ಷಕರು ಪಂದ್ಯ ನೋಡಲು ಬಂದರು,2
+ಪುಸ್ತಕ ಓದುವುದು ಜ್ಞಾನ ಹೆಚ್ಚಿಸಲು ಉತ್ತಮ ಮಾರ್ಗವಾಗಿದೆ.,Kannada,49,6,44,ಪುಸ್ತಕ ಓದುವುದು ಜ್ಞಾನ ಹೆಚ್ಚಿಸಲು ಉತ್ತಮ ಮಾರ್ಗವಾಗಿದೆ,2
+राज्य सरकार ने किसानों के लिए नई योजना शुरू की।,Hindi,47,10,38,राज्य सरकार ने किसानों के लिए नई योजना शुरू की।,1
+ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ ಇಂದಿನ ಅತ್ಯಂತ ಮುಖ್ಯ ವಿಷಯವಾಗಿದೆ.,Kannada,48,6,43,ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ ಇಂದಿನ ಅತ್ಯಂತ ಮುಖ್ಯ ವಿಷಯವಾಗಿದೆ,2
+The research paper was published in a prestigious international journal.,English,72,10,63,the research paper was published in a prestigious international journal,0
+नई तकनीक से किसानों की उत्पादकता बढ़ रही है।,Hindi,44,9,36,नई तकनीक से किसानों की उत्पादकता बढ़ रही है।,1
+I forgot to bring my umbrella and got caught in the rain.,English,57,12,46,i forgot to bring my umbrella and got caught in the rain,0
+Cybersecurity threats are increasing with the growth of digital services.,English,73,10,64,cybersecurity threats are increasing with the growth of digital services,0
+The traffic was really heavy on my way to work today.,English,53,11,43,the traffic was really heavy on my way to work today,0
+ಮಹಿಳಾ ಸಬಲೀಕರಣ ಇಂದಿನ ಅತ್ಯಂತ ದೊಡ್ಡ ಅಗತ್ಯವಾಗಿದೆ.,Kannada,45,6,40,ಮಹಿಳಾ ಸಬಲೀಕರಣ ಇಂದಿನ ಅತ್ಯಂತ ದೊಡ್ಡ ಅಗತ್ಯವಾಗಿದೆ,2
+डिजिटल भुगतान से लेनदेन बहुत आसान हो गया है।,Hindi,44,9,36,डिजिटल भुगतान से लेनदेन बहुत आसान हो गया है।,1
+ಅವಳು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಉದ್ಯಾನವನದಲ್ಲಿ ನಡೆಯುತ್ತಾಳೆ.,Kannada,49,5,45,ಅವಳು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಉದ್ಯಾನವನದಲ್ಲಿ ನಡೆಯುತ್ತಾಳೆ,2
+ಅವಳು ವಿದ್ಯಾರ್ಥಿವೇತನ ಪಡೆದು ವಿದೇಶದಲ್ಲಿ ಓದಲು ಹೋಗಿದ್ದಾಳೆ.,Kannada,53,6,48,ಅವಳು ವಿದ್ಯಾರ್ಥಿವೇತನ ಪಡೆದು ವಿದೇಶದಲ್ಲಿ ಓದಲು ಹೋಗಿದ್ದಾಳೆ,2
+The wrestling championship featured athletes from over fifty countries.,English,71,9,63,the wrestling championship featured athletes from over fifty countries,0
+ಶಾಲೆ ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅನೇಕ ಪದಕಗಳನ್ನು ಗೆದ್ದಿದೆ.,Kannada,49,6,44,ಶಾಲೆ ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅನೇಕ ಪದಕಗಳನ್ನು ಗೆದ್ದಿದೆ,2
+उसने अपना शोध पत्र एक प्रतिष्ठित पत्रिका में प्रकाशित किया।,Hindi,59,10,50,उसने अपना शोध पत्र एक प्रतिष्ठित पत्रिका में प्रकाशित किया।,1
+Beautiful cherry blossoms bloom in the spring across the Japanese countryside.,English,78,11,68,beautiful cherry blossoms bloom in the spring across the japanese countryside,0
+I spent the entire afternoon cleaning and organizing my room.,English,61,10,52,i spent the entire afternoon cleaning and organizing my room,0
+ಅವಳು ಎಂಜಿನಿಯರಿಂಗ್ ಪದವಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದಾಳೆ.,Kannada,41,4,38,ಅವಳು ಎಂಜಿನಿಯರಿಂಗ್ ಪದವಿ ಪೂರ್ಣಗೊಳಿಸಿದ್ದಾಳೆ,2
+He documented his travel experiences in a popular blog online.,English,62,10,53,he documented his travel experiences in a popular blog online,0
+A team of biologists found a new antibiotic compound in soil bacteria.,English,70,12,59,a team of biologists found a new antibiotic compound in soil bacteria,0
+The unemployment rate has decreased significantly in the last quarter.,English,70,10,61,the unemployment rate has decreased significantly in the last quarter,0
+ಅವಳು ತನ್ನ ಹುಟ್ಟುಹಬ್ಬದ ಪಾರ್ಟಿಗೆ ಎಲ್ಲರನ್ನೂ ಕರೆದಳು.,Kannada,48,6,43,ಅವಳು ತನ್ನ ಹುಟ್ಟುಹಬ್ಬದ ಪಾರ್ಟಿಗೆ ಎಲ್ಲರನ್ನೂ ಕರೆದಳು,2
+We usually go for a morning walk in the nearby park.,English,52,11,42,we usually go for a morning walk in the nearby park,0
+ನಗರಪಾಲಿಕೆ ನಗರದ ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಆರಂಭಿಸಿದೆ.,Kannada,41,5,37,ನಗರಪಾಲಿಕೆ ನಗರದ ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಆರಂಭಿಸಿದೆ,2
+ಚುನಾವಣಾ ಆಯೋಗ ಮತದಾನದ ದಿನಾಂಕ ನಿಗದಿ ಮಾಡಿದೆ.,Kannada,40,6,35,ಚುನಾವಣಾ ಆಯೋಗ ಮತದಾನದ ದಿನಾಂಕ ನಿಗದಿ ಮಾಡಿದೆ,2
+ನನಗೆ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಬೇಗ ಏಳಬೇಕಾಗುತ್ತದೆ.,Kannada,41,5,37,ನನಗೆ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಬೇಗ ಏಳಬೇಕಾಗುತ್ತದೆ,2
+स्टेडियम में हजारों दर्शक मैच देखने के लिए उमड़ पड़े।,Hindi,53,10,44,स्टेडियम में हजारों दर्शक मैच देखने के लिए उमड़ पड़े।,1
+The mobile application has been downloaded over ten million times.,English,66,10,57,the mobile application has been downloaded over ten million times,0
+The new smartphone features an advanced camera system with optical zoom.,English,72,11,62,the new smartphone features an advanced camera system with optical zoom,0
+ಕ್ರೀಡಾಪಟು ಮ್ಯಾರಥಾನ್ ಓಟದಲ್ಲಿ ಹೊಸ ರಾಷ್ಟ್ರೀಯ ದಾಖಲೆ ಮಾಡಿದರು.,Kannada,56,7,50,ಕ್ರೀಡಾಪಟು ಮ್ಯಾರಥಾನ್ ಓಟದಲ್ಲಿ ಹೊಸ ರಾಷ್ಟ್ರೀಯ ದಾಖಲೆ ಮಾಡಿದರು,2
+Beautiful cherry blossoms bloom in the spring across the Japanese countryside.,English,78,11,68,beautiful cherry blossoms bloom in the spring across the japanese countryside,0
+हम इस रविवार को पिकनिक पर जा रहे हैं।,Hindi,37,9,29,हम इस रविवार को पिकनिक पर जा रहे हैं।,1
+Natural language processing enables machines to understand human language.,English,74,9,66,natural language processing enables machines to understand human language,0
+देश की प्रगति में युवाओं की भूमिका महत्वपूर्ण है।,Hindi,49,9,41,देश की प्रगति में युवाओं की भूमिका महत्वपूर्ण है।,1
+ವರ್ಚುವಲ್ ರಿಯಾಲಿಟಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿಯನ್ನು ಸುಧಾರಿಸುತ್ತಿದೆ.,Kannada,58,6,53,ವರ್ಚುವಲ್ ರಿಯಾಲಿಟಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿಯನ್ನು ಸುಧಾರಿಸುತ್ತಿದೆ,2
+ಸಂಶೋಧಕರು ಕ್ಯಾನ್ಸರ್ ಚಿಕಿತ್ಸೆಯಲ್ಲಿ ಹೊಸ ಪ್ರಗತಿ ಸಾಧಿಸಿದ್ದಾರೆ.,Kannada,57,6,52,ಸಂಶೋಧಕರು ಕ್ಯಾನ್ಸರ್ ಚಿಕಿತ್ಸೆಯಲ್ಲಿ ಹೊಸ ಪ್ರಗತಿ ಸಾಧಿಸಿದ್ದಾರೆ,2
+जयपुर को गुलाबी शहर के नाम से जाना जाता है।,Hindi,43,10,34,जयपुर को गुलाबी शहर के नाम से जाना जाता है।,1
+ಜೀವವೈವಿಧ್ಯ ಸಂರಕ್ಷಣೆ ನಮ್ಮ ಪರಿಸರ ವ್ಯವಸ್ಥೆಗೆ ಅಗತ್ಯವಾಗಿದೆ.,Kannada,54,6,49,ಜೀವವೈವಿಧ್ಯ ಸಂರಕ್ಷಣೆ ನಮ್ಮ ಪರಿಸರ ವ್ಯವಸ್ಥೆಗೆ ಅಗತ್ಯವಾಗಿದೆ,2
+मुख्यमंत्री ने नई सड़क परियोजना का उद्घाटन किया।,Hindi,48,8,41,मुख्यमंत्री ने नई सड़क परियोजना का उद्घाटन किया।,1
+She received a scholarship to study computer science at a top university.,English,73,12,62,she received a scholarship to study computer science at a top university,0
+अंतरिक्ष अनुसंधान में भारत ने बड़ी सफलता हासिल की है।,Hindi,53,10,44,अंतरिक्ष अनुसंधान में भारत ने बड़ी सफलता हासिल की है।,1
+उसने प्रतियोगी परीक्षा में प्रथम स्थान प्राप्त किया।,Hindi,52,8,45,उसने प्रतियोगी परीक्षा में प्रथम स्थान प्राप्त किया।,1
+ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ ದರದಲ್ಲಿ ಈ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಸುಧಾರಣೆ ಕಂಡಿದೆ.,Kannada,57,7,51,ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ ದರದಲ್ಲಿ ಈ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಸುಧಾರಣೆ ಕಂಡಿದೆ,2
+उसने अपना शोध पत्र एक प्रतिष्ठित पत्रिका में प्रकाशित किया।,Hindi,59,10,50,उसने अपना शोध पत्र एक प्रतिष्ठित पत्रिका में प्रकाशित किया।,1
+ಅವಳು ಒಲಿಂಪಿಕ್ಸ್‌ನಲ್ಲಿ ಚಿನ್ನದ ಪದಕ ಗೆದ್ದು ದೇಶದ ಹೆಮ್ಮೆ ಹೆಚ್ಚಿಸಿದಳು.,Kannada,64,8,57,ಅವಳು ಒಲಿಂಪಿಕ್ಸ್ನಲ್ಲಿ ಚಿನ್ನದ ಪದಕ ಗೆದ್ದು ದೇಶದ ಹೆಮ್ಮೆ ಹೆಚ್ಚಿಸಿದಳು,2
+ಶಾಲೆ ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅನೇಕ ಪದಕಗಳನ್ನು ಗೆದ್ದಿದೆ.,Kannada,49,6,44,ಶಾಲೆ ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅನೇಕ ಪದಕಗಳನ್ನು ಗೆದ್ದಿದೆ,2
+A new international trade agreement was signed between the two countries.,English,73,11,63,a new international trade agreement was signed between the two countries,0
+Data analytics helps companies make informed business decisions.,English,64,8,57,data analytics helps companies make informed business decisions,0
+हिंदी भाषा का साहित्य बहुत समृद्ध और विविध है।,Hindi,46,9,38,हिंदी भाषा का साहित्य बहुत समृद्ध और विविध है।,1
+ವಿಶ್ವವಿದ್ಯಾಲಯ ಹೊಸ ಕೋರ್ಸ್‌ಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವ ಘೋಷಣೆ ಮಾಡಿದೆ.,Kannada,57,6,52,ವಿಶ್ವವಿದ್ಯಾಲಯ ಹೊಸ ಕೋರ್ಸ್ಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವ ಘೋಷಣೆ ಮಾಡಿದೆ,2
+ಸಂಶೋಧನಾ ಕಾರ್ಯಕ್ಕಾಗಿ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ ಸಿಕ್ಕಿದೆ.,Kannada,52,5,48,ಸಂಶೋಧನಾ ಕಾರ್ಯಕ್ಕಾಗಿ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ ಸಿಕ್ಕಿದೆ,2
+ब्लॉकचेन तकनीक वित्तीय लेनदेन को सुरक्षित बनाती है।,Hindi,51,8,44,ब्लॉकचेन तकनीक वित्तीय लेनदेन को सुरक्षित बनाती है।,1
+ಅವಳು ತನ್ನ ಸಂಶೋಧನಾ ಪ್ರಬಂಧವನ್ನು ಪ್ರತಿಷ್ಠಿತ ಪತ್ರಿಕೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಿದಳು.,Kannada,66,7,60,ಅವಳು ತನ್ನ ಸಂಶೋಧನಾ ಪ್ರಬಂಧವನ್ನು ಪ್ರತಿಷ್ಠಿತ ಪತ್ರಿಕೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಿದಳು,2
+My neighbor just adopted a cute little puppy from the shelter.,English,62,11,52,my neighbor just adopted a cute little puppy from the shelter,0
+ಮಳೆ ಬಂದ ಕಾರಣ ರಸ್ತೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿದೆ.,Kannada,38,6,33,ಮಳೆ ಬಂದ ಕಾರಣ ರಸ್ತೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿದೆ,2
+ಹಾಕಿ ಆಟದಲ್ಲಿ ಭಾರತೀಯ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು.,Kannada,47,7,41,ಹಾಕಿ ಆಟದಲ್ಲಿ ಭಾರತೀಯ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು,2
+ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರು ಇತಿಹಾಸದ ಆಸಕ್ತಿಕರ ಮಾಹಿತಿ ನೀಡಿದರು.,Kannada,52,6,47,ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರು ಇತಿಹಾಸದ ಆಸಕ್ತಿಕರ ಮಾಹಿತಿ ನೀಡಿದರು,2
+सौर ऊर्जा स्वच्छ और नवीकरणीय ऊर्जा का स्रोत है।,Hindi,47,9,39,सौर ऊर्जा स्वच्छ और नवीकरणीय ऊर्जा का स्रोत है।,1
+डिजिटल भुगतान से लेनदेन बहुत आसान हो गया है।,Hindi,44,9,36,डिजिटल भुगतान से लेनदेन बहुत आसान हो गया है।,1
+कुश्ती प्रतियोगिता में उसने स्वर्ण पदक अपने नाम किया।,Hindi,53,9,45,कुश्ती प्रतियोगिता में उसने स्वर्ण पदक अपने नाम किया।,1
+The internet of things connects billions of devices worldwide.,English,62,9,54,the internet of things connects billions of devices worldwide,0
+He wakes up at five in the morning to practice yoga.,English,52,11,42,he wakes up at five in the morning to practice yoga,0
+ಅವನು ರೈಲಿನಲ್ಲಿ ಪ್ರತಿದಿನ ಕಚೇರಿಗೆ ಹೋಗುತ್ತಾನೆ.,Kannada,43,5,39,ಅವನು ರೈಲಿನಲ್ಲಿ ಪ್ರತಿದಿನ ಕಚೇರಿಗೆ ಹೋಗುತ್ತಾನೆ,2
+सोशल मीडिया ने संवाद के तरीके को पूरी तरह बदल दिया।,Hindi,51,11,41,सोशल मीडिया ने संवाद के तरीके को पूरी तरह बदल दिया।,1
+स्वास्थ्य ही सबसे बड़ा धन है।,Hindi,29,6,24,स्वास्थ्य ही सबसे बड़ा धन है।,1
+भारतीय व्यंजन अपने मसालों और स्वाद के लिए प्रसिद्ध हैं।,Hindi,55,10,46,भारतीय व्यंजन अपने मसालों और स्वाद के लिए प्रसिद्ध हैं।,1
+मेरे दोस्त ने मुझे एक किताब उपहार में दी।,Hindi,41,9,33,मेरे दोस्त ने मुझे एक किताब उपहार में दी।,1
+A diplomatic summit was held to discuss regional peace and security.,English,68,11,58,a diplomatic summit was held to discuss regional peace and security,0
+She broke the national record in the hundred meter sprint event.,English,64,11,54,she broke the national record in the hundred meter sprint event,0
+ऑनलाइन शिक्षा ने पढ़ाई का तरीका बदल दिया है।,Hindi,44,9,36,ऑनलाइन शिक्षा ने पढ़ाई का तरीका बदल दिया है।,1
+Our family enjoys watching movies together on weekends.,English,55,8,48,our family enjoys watching movies together on weekends,0
+The library has a vast collection of academic books and journals.,English,65,11,55,the library has a vast collection of academic books and journals,0
+आज ऑफिस में बहुत काम था और मैं थक गया।,Hindi,38,10,29,आज ऑफिस में बहुत काम था और मैं थक गया।,1
+मेरी माँ ने आज बहुत स्वादिष्ट खाना बनाया है।,Hindi,44,9,36,मेरी माँ ने आज बहुत स्वादिष्ट खाना बनाया है।,1
+ಎಲ್ಲಾ ಧರ್ಮಗಳು ಪ್ರೀತಿ ಮತ್ತು ಶಾಂತಿಯ ಸಂದೇಶ ನೀಡುತ್ತವೆ.,Kannada,50,7,44,ಎಲ್ಲಾ ಧರ್ಮಗಳು ಪ್ರೀತಿ ಮತ್ತು ಶಾಂತಿಯ ಸಂದೇಶ ನೀಡುತ್ತವೆ,2
+He wakes up at five in the morning to practice yoga.,English,52,11,42,he wakes up at five in the morning to practice yoga,0
+आज का अखबार पढ़कर मुझे कई नई बातें पता चलीं।,Hindi,44,10,35,आज का अखबार पढ़कर मुझे कई नई बातें पता चलीं।,1
+उसने डॉक्टरेट की उपाधि प्राप्त कर ली है।,Hindi,40,8,33,उसने डॉक्टरेट की उपाधि प्राप्त कर ली है।,1
+महिला सशक्तिकरण आज के समय की सबसे बड़ी जरूरत है।,Hindi,48,10,39,महिला सशक्तिकरण आज के समय की सबसे बड़ी जरूरत है।,1
+चंद्रमा पर भारत का मिशन सफल रहा।,Hindi,32,7,26,चंद्रमा पर भारत का मिशन सफल रहा।,1
+कंप्यूटर विज्ञान आज के समय में बहुत महत्वपूर्ण विषय है।,Hindi,55,10,46,कंप्यूटर विज्ञान आज के समय में बहुत महत्वपूर्ण विषय है।,1
+ಡ್ರೋನ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಕೃಷಿಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತಿದೆ.,Kannada,47,4,44,ಡ್ರೋನ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಕೃಷಿಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತಿದೆ,2
+ताजमहल विश्व के सात अजूबों में से एक है।,Hindi,40,9,32,ताजमहल विश्व के सात अजूबों में से एक है।,1
+सॉफ्टवेयर कंपनी ने नया एप्लिकेशन लॉन्च किया है।,Hindi,47,8,40,सॉफ्टवेयर कंपनी ने नया एप्लिकेशन लॉन्च किया है।,1
+प्रोग्रामिंग सीखना आज के युवाओं के लिए बहुत जरूरी है।,Hindi,53,10,44,प्रोग्रामिंग सीखना आज के युवाओं के लिए बहुत जरूरी है।,1
+ಶಿಕ್ಷಕರು ಗಣಿತದ ಕಷ್ಟದ ಪ್ರಶ್ನೆಯನ್ನು ಸುಲಭವಾಗಿ ವಿವರಿಸಿದರು.,Kannada,54,6,49,ಶಿಕ್ಷಕರು ಗಣಿತದ ಕಷ್ಟದ ಪ್ರಶ್ನೆಯನ್ನು ಸುಲಭವಾಗಿ ವಿವರಿಸಿದರು,2
+वह छात्रवृत्ति पाकर विदेश में पढ़ने गई है।,Hindi,42,8,35,वह छात्रवृत्ति पाकर विदेश में पढ़ने गई है।,1
+कबड्डी विश्व कप में भारत ने शानदार प्रदर्शन किया।,Hindi,49,9,41,कबड्डी विश्व कप में भारत ने शानदार प्रदर्शन किया।,1
+The volleyball team practiced for six hours daily during the training camp.,English,75,12,64,the volleyball team practiced for six hours daily during the training camp,0
+ಸಮಯದ ಸದ್ಬಳಕೆ ಯಶಸ್ಸಿನ ಕೀಲಿಯಾಗಿದೆ.,Kannada,32,4,29,ಸಮಯದ ಸದ್ಬಳಕೆ ಯಶಸ್ಸಿನ ಕೀಲಿಯಾಗಿದೆ,2
+आज ऑफिस में बहुत काम था और मैं थक गया।,Hindi,38,10,29,आज ऑफिस में बहुत काम था और मैं थक गया।,1
+केरल को भगवान का अपना देश कहा जाता है।,Hindi,38,9,30,केरल को भगवान का अपना देश कहा जाता है।,1
+Birds migrate to warmer regions during the cold winter months.,English,62,10,53,birds migrate to warmer regions during the cold winter months,0
+एथलीट ने मैराथन दौड़ में नया राष्ट्रीय रिकॉर्ड बनाया।,Hindi,53,9,45,एथलीट ने मैराथन दौड़ में नया राष्ट्रीय रिकॉर्ड बनाया।,1
+The discovery of gravitational waves confirmed Einstein's general theory of relativity.,English,87,11,77,the discovery of gravitational waves confirmed einsteins general theory of relativity,0
+ಹೊಸ ಶಿಕ್ಷಣ ನೀತಿ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಬದಲಾವಣೆ ತಂದಿದೆ.,Kannada,45,6,40,ಹೊಸ ಶಿಕ್ಷಣ ನೀತಿ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಬದಲಾವಣೆ ತಂದಿದೆ,2
+ಬಿಸಿ ಬೇಳೆ ಬಾತ್ ಕರ್ನಾಟಕದ ಜನಪ್ರಿಯ ಖಾದ್ಯವಾಗಿದೆ.,Kannada,44,6,39,ಬಿಸಿ ಬೇಳೆ ಬಾತ್ ಕರ್ನಾಟಕದ ಜನಪ್ರಿಯ ಖಾದ್ಯವಾಗಿದೆ,2
+ಆನ್‌ಲೈನ್ ಖರೀದಿ ಮಾರುಕಟ್ಟೆಯ ಸಂಪ್ರದಾಯವನ್ನು ಬದಲಾಯಿಸಿದೆ.,Kannada,51,5,47,ಆನ್ಲೈನ್ ಖರೀದಿ ಮಾರುಕಟ್ಟೆಯ ಸಂಪ್ರದಾಯವನ್ನು ಬದಲಾಯಿಸಿದೆ,2
+नई शिक्षा नीति ने पाठ्यक्रम में कई बदलाव किए हैं।,Hindi,49,10,40,नई शिक्षा नीति ने पाठ्यक्रम में कई बदलाव किए हैं।,1
+He rides his bicycle to the office every single day.,English,52,10,43,he rides his bicycle to the office every single day,0
+साइबर सुरक्षा आज के डिजिटल युग में बेहद जरूरी है।,Hindi,49,10,40,साइबर सुरक्षा आज के डिजिटल युग में बेहद जरूरी है।,1
+मुख्यमंत्री ने नई सड़क परियोजना का उद्घाटन किया।,Hindi,48,8,41,मुख्यमंत्री ने नई सड़क परियोजना का उद्घाटन किया।,1
+Cloud computing has revolutionized the way businesses store and process data.,English,77,11,67,cloud computing has revolutionized the way businesses store and process data,0
+The new academic session will begin from the first week of July.,English,64,12,53,the new academic session will begin from the first week of july,0
+टेनिस खिलाड़ी ने ग्रैंड स्लैम टूर्नामेंट में उपविजेता रही।,Hindi,58,9,50,टेनिस खिलाड़ी ने ग्रैंड स्लैम टूर्नामेंट में उपविजेता रही।,1
+ನನಗೆ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಬೇಗ ಏಳಬೇಕಾಗುತ್ತದೆ.,Kannada,41,5,37,ನನಗೆ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಬೇಗ ಏಳಬೇಕಾಗುತ್ತದೆ,2
+चुनाव आयोग ने मतदान की तारीख तय कर दी है।,Hindi,41,10,32,चुनाव आयोग ने मतदान की तारीख तय कर दी है।,1
+प्रोग्रामिंग सीखना आज के युवाओं के लिए बहुत जरूरी है।,Hindi,53,10,44,प्रोग्रामिंग सीखना आज के युवाओं के लिए बहुत जरूरी है।,1
+ಪರಿಸರ ರಕ್ಷಣೆ ನಮ್ಮೆಲ್ಲರ ಹೊಣೆಯಾಗಿದೆ.,Kannada,34,4,31,ಪರಿಸರ ರಕ್ಷಣೆ ನಮ್ಮೆಲ್ಲರ ಹೊಣೆಯಾಗಿದೆ,2
+ಈಜುವಿಕೆಯಲ್ಲಿ ಅವಳು ಮೂರು ಹೊಸ ದಾಖಲೆ ಸ್ಥಾಪಿಸಿದಳು.,Kannada,45,6,40,ಈಜುವಿಕೆಯಲ್ಲಿ ಅವಳು ಮೂರು ಹೊಸ ದಾಖಲೆ ಸ್ಥಾಪಿಸಿದಳು,2
+ಕ್ರೀಡಾ ಅಕಾಡೆಮಿಯಿಂದ ಅನೇಕ ಪ್ರತಿಭಾವಂತ ಆಟಗಾರರು ಬಂದಿದ್ದಾರೆ.,Kannada,54,6,49,ಕ್ರೀಡಾ ಅಕಾಡೆಮಿಯಿಂದ ಅನೇಕ ಪ್ರತಿಭಾವಂತ ಆಟಗಾರರು ಬಂದಿದ್ದಾರೆ,2
+छात्रों ने वार्षिक उत्सव में सांस्कृतिक कार्यक्रम प्रस्तुत किए।,Hindi,63,9,55,छात्रों ने वार्षिक उत्सव में सांस्कृतिक कार्यक्रम प्रस्तुत किए।,1
+The new bridge will reduce the commute time between the two cities.,English,67,12,56,the new bridge will reduce the commute time between the two cities,0
+The government announced a new policy to boost the economy.,English,59,10,50,the government announced a new policy to boost the economy,0
+I spent the entire afternoon cleaning and organizing my room.,English,61,10,52,i spent the entire afternoon cleaning and organizing my room,0
+सोशल मीडिया ने संवाद के तरीके को पूरी तरह बदल दिया।,Hindi,51,11,41,सोशल मीडिया ने संवाद के तरीके को पूरी तरह बदल दिया।,1
+Our school basketball team qualified for the state level tournament.,English,68,10,59,our school basketball team qualified for the state level tournament,0
+ಸಮಯದ ಸದ್ಬಳಕೆ ಯಶಸ್ಸಿನ ಕೀಲಿಯಾಗಿದೆ.,Kannada,32,4,29,ಸಮಯದ ಸದ್ಬಳಕೆ ಯಶಸ್ಸಿನ ಕೀಲಿಯಾಗಿದೆ,2
+Gene therapy offers new hope for treating previously incurable genetic diseases.,English,80,11,70,gene therapy offers new hope for treating previously incurable genetic diseases,0
+Blockchain technology ensures secure and transparent financial transactions.,English,76,8,69,blockchain technology ensures secure and transparent financial transactions,0
+The travel guide recommended visiting the historic temples and forts.,English,69,10,60,the travel guide recommended visiting the historic temples and forts,0
+छात्रों ने वार्षिक उत्सव में सांस्कृतिक कार्यक्रम प्रस्तुत किए।,Hindi,63,9,55,छात्रों ने वार्षिक उत्सव में सांस्कृतिक कार्यक्रम प्रस्तुत किए।,1
+The professor explained the concept of machine learning in great detail.,English,72,11,62,the professor explained the concept of machine learning in great detail,0
+उसने नई कार खरीदी है जो बहुत सुंदर दिखती है।,Hindi,44,10,35,उसने नई कार खरीदी है जो बहुत सुंदर दिखती है।,1
+ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯ ತಯಾರಿಯಲ್ಲಿ ನಿರತರಾಗಿದ್ದಾರೆ.,Kannada,49,4,46,ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯ ತಯಾರಿಯಲ್ಲಿ ನಿರತರಾಗಿದ್ದಾರೆ,2
+ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ ಹೊಸ ಆವಿಷ್ಕಾರಗಳು ರೋಮಾಂಚಕವಾಗಿವೆ.,Kannada,46,4,43,ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ ಹೊಸ ಆವಿಷ್ಕಾರಗಳು ರೋಮಾಂಚಕವಾಗಿವೆ,2
+ಡೇಟಾ ಸೈನ್ಸ್ ಇಂದಿನ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ವೃತ್ತಿ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ.,Kannada,61,8,54,ಡೇಟಾ ಸೈನ್ಸ್ ಇಂದಿನ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ವೃತ್ತಿ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ,2
+The finance minister presented the annual budget in the parliament session.,English,75,11,65,the finance minister presented the annual budget in the parliament session,0
+विपक्ष ने सरकार की नीतियों पर सवाल उठाए हैं।,Hindi,44,9,36,विपक्ष ने सरकार की नीतियों पर सवाल उठाए हैं।,1
+भारतीय शास्त्रीय संगीत की परंपरा बहुत पुरानी है।,Hindi,48,8,41,भारतीय शास्त्रीय संगीत की परंपरा बहुत पुरानी है।,1
+ಕುಸ್ತಿ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅವನು ಚಿನ್ನದ ಪದಕ ಗೆದ್ದನು.,Kannada,44,6,39,ಕುಸ್ತಿ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅವನು ಚಿನ್ನದ ಪದಕ ಗೆದ್ದನು,2
+The wrestling championship featured athletes from over fifty countries.,English,71,9,63,the wrestling championship featured athletes from over fifty countries,0
+ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ ವಿಶ್ವಕಪ್ ಗೆದ್ದು ಇತಿಹಾಸ ರಚಿಸಿತು.,Kannada,51,7,45,ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ ವಿಶ್ವಕಪ್ ಗೆದ್ದು ಇತಿಹಾಸ ರಚಿಸಿತು,2
+The chemistry experiment demonstrated the principle of chemical equilibrium clearly.,English,84,10,75,the chemistry experiment demonstrated the principle of chemical equilibrium clearly,0
+गर्मियों में तापमान पैंतालीस डिग्री तक पहुँच जाता है।,Hindi,53,9,45,गर्मियों में तापमान पैंतालीस डिग्री तक पहुँच जाता है।,1
+The hockey team displayed excellent teamwork throughout the tournament.,English,71,9,63,the hockey team displayed excellent teamwork throughout the tournament,0
+ಶ್ರಮ ಮತ್ತು ಶ್ರದ್ಧೆಯಿಂದ ಯಾವುದೇ ಗುರಿ ಸಾಧಿಸಬಹುದು.,Kannada,46,6,41,ಶ್ರಮ ಮತ್ತು ಶ್ರದ್ಧೆಯಿಂದ ಯಾವುದೇ ಗುರಿ ಸಾಧಿಸಬಹುದು,2
+She received a scholarship to study computer science at a top university.,English,73,12,62,she received a scholarship to study computer science at a top university,0
+ಅವಳು ತನ್ನ ಸಂಶೋಧನಾ ಪ್ರಬಂಧವನ್ನು ಪ್ರತಿಷ್ಠಿತ ಪತ್ರಿಕೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಿದಳು.,Kannada,66,7,60,ಅವಳು ತನ್ನ ಸಂಶೋಧನಾ ಪ್ರಬಂಧವನ್ನು ಪ್ರತಿಷ್ಠಿತ ಪತ್ರಿಕೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಿದಳು,2
+अंतरराष्ट्रीय सम्मेलन में कई महत्वपूर्ण मुद्दों पर चर्चा हुई।,Hindi,61,9,53,अंतरराष्ट्रीय सम्मेलन में कई महत्वपूर्ण मुद्दों पर चर्चा हुई।,1
+Our school organized a science exhibition for all the students.,English,63,10,54,our school organized a science exhibition for all the students,0
+The government announced a new policy to boost the economy.,English,59,10,50,the government announced a new policy to boost the economy,0
+ರಾಷ್ಟ್ರಪತಿ ಗಣರಾಜ್ಯೋತ್ಸವದಂದು ದೇಶಕ್ಕೆ ಶುಭಾಶಯ ತಿಳಿಸಿದರು.,Kannada,53,5,49,ರಾಷ್ಟ್ರಪತಿ ಗಣರಾಜ್ಯೋತ್ಸವದಂದು ದೇಶಕ್ಕೆ ಶುಭಾಶಯ ತಿಳಿಸಿದರು,2
+वैज्ञानिकों ने एक नई दवा की खोज की है।,Hindi,38,9,30,वैज्ञानिकों ने एक नई दवा की खोज की है।,1
+जैव विविधता का संरक्षण हमारे पारिस्थितिकी तंत्र के लिए जरूरी है।,Hindi,64,11,54,जैव विविधता का संरक्षण हमारे पारिस्थितिकी तंत्र के लिए जरूरी है।,1
+The gaming industry has grown exponentially in the past decade.,English,63,10,54,the gaming industry has grown exponentially in the past decade,0
+He rides his bicycle to the office every single day.,English,52,10,43,he rides his bicycle to the office every single day,0
+The temperature dropped to minus ten degrees during the winter season.,English,70,11,60,the temperature dropped to minus ten degrees during the winter season,0
+भारतीय संस्कृति विविधता में एकता का प्रतीक है।,Hindi,46,8,39,भारतीय संस्कृति विविधता में एकता का प्रतीक है।,1
+खेल मंत्रालय ने नई खेल नीति की घोषणा की है।,Hindi,43,10,34,खेल मंत्रालय ने नई खेल नीति की घोषणा की है।,1
+The hospital has state of the art medical equipment and skilled doctors.,English,72,12,61,the hospital has state of the art medical equipment and skilled doctors,0
+ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದ್ಭುತ ಪ್ರಗತಿ ಸಾಧಿಸಿದೆ.,Kannada,70,8,63,ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದ್ಭುತ ಪ್ರಗತಿ ಸಾಧಿಸಿದೆ,2
+उसने इंजीनियरिंग की पढ़ाई पूरी कर ली है।,Hindi,40,8,33,उसने इंजीनियरिंग की पढ़ाई पूरी कर ली है।,1
+योग और आयुर्वेद भारत की प्राचीन विधाएँ हैं।,Hindi,43,8,36,योग और आयुर्वेद भारत की प्राचीन विधाएँ हैं।,1
+मैंने कल रात एक बहुत अच्छी फिल्म देखी।,Hindi,38,8,31,मैंने कल रात एक बहुत अच्छी फिल्म देखी।,1
+She volunteers at the animal shelter on weekends to help stray dogs.,English,68,12,57,she volunteers at the animal shelter on weekends to help stray dogs,0
+Reading books regularly helps improve vocabulary and critical thinking skills.,English,78,10,69,reading books regularly helps improve vocabulary and critical thinking skills,0
+स्वास्थ्य ही सबसे बड़ा धन है।,Hindi,29,6,24,स्वास्थ्य ही सबसे बड़ा धन है।,1
+ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಸಾವಿರಾರು ಪ್ರೇಕ್ಷಕರು ಪಂದ್ಯ ನೋಡಲು ಬಂದರು.,Kannada,53,6,48,ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಸಾವಿರಾರು ಪ್ರೇಕ್ಷಕರು ಪಂದ್ಯ ನೋಡಲು ಬಂದರು,2
+Self driving cars are being tested on roads in several countries.,English,65,11,55,self driving cars are being tested on roads in several countries,0
+ಅವನು ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದಿದ್ದಾನೆ.,Kannada,54,6,49,ಅವನು ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದಿದ್ದಾನೆ,2
+ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯ ತಯಾರಿಯಲ್ಲಿ ನಿರತರಾಗಿದ್ದಾರೆ.,Kannada,49,4,46,ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯ ತಯಾರಿಯಲ್ಲಿ ನಿರತರಾಗಿದ್ದಾರೆ,2
+वह ट्रेन से रोजाना दफ्तर जाता है।,Hindi,33,7,27,वह ट्रेन से रोजाना दफ्तर जाता है।,1
+We celebrated our wedding anniversary at a nice restaurant downtown.,English,68,10,59,we celebrated our wedding anniversary at a nice restaurant downtown,0
+The internet of things connects billions of devices worldwide.,English,62,9,54,the internet of things connects billions of devices worldwide,0
+The discovery of gravitational waves confirmed Einstein's general theory of relativity.,English,87,11,77,the discovery of gravitational waves confirmed einsteins general theory of relativity,0
+The marathon runner completed the race in under three hours.,English,60,10,51,the marathon runner completed the race in under three hours,0
+The traditional recipe has been passed down through generations in our family.,English,78,12,67,the traditional recipe has been passed down through generations in our family,0
+ಕ್ರೀಡಾ ಸಚಿವಾಲಯ ಹೊಸ ಕ್ರೀಡಾ ನೀತಿ ಘೋಷಿಸಿದೆ.,Kannada,40,6,35,ಕ್ರೀಡಾ ಸಚಿವಾಲಯ ಹೊಸ ಕ್ರೀಡಾ ನೀತಿ ಘೋಷಿಸಿದೆ,2
+ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಹಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ.,Kannada,41,4,38,ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಹಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ,2
+ಬ್ಯಾಡ್ಮಿಂಟನ್ ಆಟಗಾರ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಗೆಲುವು ಸಾಧಿಸಿದ.,Kannada,63,6,58,ಬ್ಯಾಡ್ಮಿಂಟನ್ ಆಟಗಾರ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಗೆಲುವು ಸಾಧಿಸಿದ,2
+The children are playing in the garden after school.,English,52,9,44,the children are playing in the garden after school,0
+शोधकर्ताओं ने कैंसर के इलाज में नई प्रगति की है।,Hindi,48,10,39,शोधकर्ताओं ने कैंसर के इलाज में नई प्रगति की है।,1
+ಹವಾಮಾನ ಬದಲಾವಣೆ ಇಡೀ ಜಗತ್ತಿಗೆ ದೊಡ್ಡ ಸವಾಲಾಗಿದೆ.,Kannada,44,6,39,ಹವಾಮಾನ ಬದಲಾವಣೆ ಇಡೀ ಜಗತ್ತಿಗೆ ದೊಡ್ಡ ಸವಾಲಾಗಿದೆ,2
+The software development team released a major update to the application.,English,73,11,63,the software development team released a major update to the application,0
+Environmental activists protested against deforestation in the national capital.,English,80,9,72,environmental activists protested against deforestation in the national capital,0
+ಕೂರ್ಗ್ ಕಾಫಿ ತೋಟಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.,Kannada,36,4,33,ಕೂರ್ಗ್ ಕಾಫಿ ತೋಟಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ,2
+The tech startup raised millions of dollars in its latest funding round.,English,72,12,61,the tech startup raised millions of dollars in its latest funding round,0
+The neighborhood park has beautiful flowering plants and trees.,English,63,9,55,the neighborhood park has beautiful flowering plants and trees,0
+Community gardens promote social interaction and provide fresh produce.,English,71,9,63,community gardens promote social interaction and provide fresh produce,0
+ನಾವು ಮನೆಯಲ್ಲಿ ಹೊಸ ಪೀಠೋಪಕರಣ ಹಾಕಿಸಿದ್ದೇವೆ.,Kannada,40,5,36,ನಾವು ಮನೆಯಲ್ಲಿ ಹೊಸ ಪೀಠೋಪಕರಣ ಹಾಕಿಸಿದ್ದೇವೆ,2
+ಸ್ಮಾರ್ಟ್ ಹೋಮ್ ತಂತ್ರಜ್ಞಾನ ಮನೆಯ ಸೌಕರ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ.,Kannada,54,6,49,ಸ್ಮಾರ್ಟ್ ಹೋಮ್ ತಂತ್ರಜ್ಞಾನ ಮನೆಯ ಸೌಕರ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ,2
+The latest operating system update includes several new features and fixes.,English,75,11,65,the latest operating system update includes several new features and fixes,0
+आज मौसम बहुत अच्छा है और धूप खिली हुई है।,Hindi,41,10,32,आज मौसम बहुत अच्छा है और धूप खिली हुई है।,1
+ವಿದ್ಯಾರ್ಥಿಗಳು ವಾರ್ಷಿಕ ಉತ್ಸವದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ಮಂಡಿಸಿದರು.,Kannada,64,6,59,ವಿದ್ಯಾರ್ಥಿಗಳು ವಾರ್ಷಿಕ ಉತ್ಸವದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ಮಂಡಿಸಿದರು,2
+Our family enjoys watching movies together on weekends.,English,55,8,48,our family enjoys watching movies together on weekends,0
+किताबें पढ़ना ज्ञान बढ़ाने का सबसे अच्छा तरीका है।,Hindi,50,9,42,किताबें पढ़ना ज्ञान बढ़ाने का सबसे अच्छा तरीका है।,1
+क्लाउड कंप्यूटिंग से डेटा स्टोरेज आसान हो गया है।,Hindi,49,9,41,क्लाउड कंप्यूटिंग से डेटा स्टोरेज आसान हो गया है।,1
+ಚಂದ್ರನ ಮೇಲಿನ ಭಾರತದ ಯೋಜನೆ ಯಶಸ್ವಿಯಾಯಿತು.,Kannada,38,5,34,ಚಂದ್ರನ ಮೇಲಿನ ಭಾರತದ ಯೋಜನೆ ಯಶಸ್ವಿಯಾಯಿತು,2
+The cricket team won the championship after a thrilling final match.,English,68,11,58,the cricket team won the championship after a thrilling final match,0
+The neighborhood park has beautiful flowering plants and trees.,English,63,9,55,the neighborhood park has beautiful flowering plants and trees,0
+ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನದಂದು ರಾಷ್ಟ್ರವನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದರು.,Kannada,67,6,62,ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನದಂದು ರಾಷ್ಟ್ರವನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದರು,2
+ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯ ತಯಾರಿಯಲ್ಲಿ ನಿರತರಾಗಿದ್ದಾರೆ.,Kannada,49,4,46,ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಯ ತಯಾರಿಯಲ್ಲಿ ನಿರತರಾಗಿದ್ದಾರೆ,2
+ಫುಟ್ಬಾಲ್ ಪಂದ್ಯದಲ್ಲಿ ಎರಡೂ ತಂಡಗಳು ಅತ್ಯುತ್ತಮ ಆಟ ತೋರಿಸಿದವು.,Kannada,55,7,49,ಫುಟ್ಬಾಲ್ ಪಂದ್ಯದಲ್ಲಿ ಎರಡೂ ತಂಡಗಳು ಅತ್ಯುತ್ತಮ ಆಟ ತೋರಿಸಿದವು,2
+डेटा साइंस आज के सबसे लोकप्रिय करियर विकल्पों में है।,Hindi,53,10,44,डेटा साइंस आज के सबसे लोकप्रिय करियर विकल्पों में है।,1
+रोबोटिक्स तकनीक उद्योगों में क्रांतिकारी बदलाव ला रही है।,Hindi,57,9,49,रोबोटिक्स तकनीक उद्योगों में क्रांतिकारी बदलाव ला रही है।,1
+बैडमिंटन खिलाड़ी ने अंतरराष्ट्रीय टूर्नामेंट में जीत हासिल की।,Hindi,62,9,54,बैडमिंटन खिलाड़ी ने अंतरराष्ट्रीय टूर्नामेंट में जीत हासिल की।,1
+She taught herself programming by watching tutorial videos online.,English,66,9,58,she taught herself programming by watching tutorial videos online,0
+Machine learning algorithms can predict customer behavior with high accuracy.,English,77,10,68,machine learning algorithms can predict customer behavior with high accuracy,0
+Music has the power to bring people together regardless of their background.,English,76,12,65,music has the power to bring people together regardless of their background,0
+ಕಬಡ್ಡಿ ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ಭಾರತ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು.,Kannada,50,6,45,ಕಬಡ್ಡಿ ವಿಶ್ವಕಪ್ನಲ್ಲಿ ಭಾರತ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು,2
+ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ಆಯೋಜಿಸಲಾಗಿದೆ.,Kannada,45,5,41,ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ಆಯೋಜಿಸಲಾಗಿದೆ,2
+ಪುಸ್ತಕ ಓದುವುದು ಜ್ಞಾನ ಹೆಚ್ಚಿಸಲು ಉತ್ತಮ ಮಾರ್ಗವಾಗಿದೆ.,Kannada,49,6,44,ಪುಸ್ತಕ ಓದುವುದು ಜ್ಞಾನ ಹೆಚ್ಚಿಸಲು ಉತ್ತಮ ಮಾರ್ಗವಾಗಿದೆ,2
+ಸೌರ ಶಕ್ತಿ ಶುದ್ಧ ಮತ್ತು ನವೀಕರಿಸಬಹುದಾದ ಶಕ್ತಿಯ ಮೂಲವಾಗಿದೆ.,Kannada,53,7,47,ಸೌರ ಶಕ್ತಿ ಶುದ್ಧ ಮತ್ತು ನವೀಕರಿಸಬಹುದಾದ ಶಕ್ತಿಯ ಮೂಲವಾಗಿದೆ,2
+She received a scholarship to study computer science at a top university.,English,73,12,62,she received a scholarship to study computer science at a top university,0
+बारिश होने की वजह से सड़कों पर पानी भर गया।,Hindi,43,10,34,बारिश होने की वजह से सड़कों पर पानी भर गया।,1
+The teacher assigned a group project on environmental sustainability.,English,69,9,61,the teacher assigned a group project on environmental sustainability,0
+स्वच्छता अभियान ने लोगों में जागरूकता फैलाई है।,Hindi,47,8,40,स्वच्छता अभियान ने लोगों में जागरूकता फैलाई है।,1
+ಮೊಬೈಲ್ ಫೋನ್ ಇಂದಿನ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ.,Kannada,43,6,38,ಮೊಬೈಲ್ ಫೋನ್ ಇಂದಿನ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ,2
+वित्त मंत्री ने वार्षिक बजट प्रस्तुत किया है।,Hindi,45,8,38,वित्त मंत्री ने वार्षिक बजट प्रस्तुत किया है।,1
+ಮೈಸೂರು ದಸರಾ ಕರ್ನಾಟಕದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಹಬ್ಬವಾಗಿದೆ.,Kannada,48,6,43,ಮೈಸೂರು ದಸರಾ ಕರ್ನಾಟಕದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಹಬ್ಬವಾಗಿದೆ,2
+We are planning to renovate our kitchen next summer.,English,52,9,44,we are planning to renovate our kitchen next summer,0
+The new bridge will reduce the commute time between the two cities.,English,67,12,56,the new bridge will reduce the commute time between the two cities,0
+The football world cup attracted billions of viewers from around the globe.,English,75,12,64,the football world cup attracted billions of viewers from around the globe,0
+The concert was attended by thousands of fans from different cities.,English,68,11,58,the concert was attended by thousands of fans from different cities,0
+ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಔಷಧಿಯನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದಾರೆ.,Kannada,43,4,40,ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಔಷಧಿಯನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದಾರೆ,2
+ತರಬೇತುದಾರರು ಆಟಗಾರರಿಗೆ ಹೊಸ ತಂತ್ರ ತಯಾರಿಸಿದ್ದಾರೆ.,Kannada,46,5,42,ತರಬೇತುದಾರರು ಆಟಗಾರರಿಗೆ ಹೊಸ ತಂತ್ರ ತಯಾರಿಸಿದ್ದಾರೆ,2
+The cricket team won the championship after a thrilling final match.,English,68,11,58,the cricket team won the championship after a thrilling final match,0
+Music has the power to bring people together regardless of their background.,English,76,12,65,music has the power to bring people together regardless of their background,0
+स्कूल के प्रधानाचार्य ने छात्रों को प्रेरित करने वाला भाषण दिया।,Hindi,64,11,54,स्कूल के प्रधानाचार्य ने छात्रों को प्रेरित करने वाला भाषण दिया।,1
+वाराणसी दुनिया के सबसे प्राचीन शहरों में से एक है।,Hindi,50,10,41,वाराणसी दुनिया के सबसे प्राचीन शहरों में से एक है।,1
+The latest operating system update includes several new features and fixes.,English,75,11,65,the latest operating system update includes several new features and fixes,0
+The new smartphone features an advanced camera system with optical zoom.,English,72,11,62,the new smartphone features an advanced camera system with optical zoom,0
+ಕನ್ನಡ ನಾಡಿನ ಸಂಸ್ಕೃತಿ ವೈವಿಧ್ಯಮಯ ಮತ್ತು ಶ್ರೀಮಂತವಾಗಿದೆ.,Kannada,51,6,46,ಕನ್ನಡ ನಾಡಿನ ಸಂಸ್ಕೃತಿ ವೈವಿಧ್ಯಮಯ ಮತ್ತು ಶ್ರೀಮಂತವಾಗಿದೆ,2
+ಈಜುವಿಕೆಯಲ್ಲಿ ಅವಳು ಮೂರು ಹೊಸ ದಾಖಲೆ ಸ್ಥಾಪಿಸಿದಳು.,Kannada,45,6,40,ಈಜುವಿಕೆಯಲ್ಲಿ ಅವಳು ಮೂರು ಹೊಸ ದಾಖಲೆ ಸ್ಥಾಪಿಸಿದಳು,2
+ನ್ಯಾಯಾಲಯ ಒಂದು ಐತಿಹಾಸಿಕ ತೀರ್ಪು ನೀಡಿದೆ.,Kannada,37,5,33,ನ್ಯಾಯಾಲಯ ಒಂದು ಐತಿಹಾಸಿಕ ತೀರ್ಪು ನೀಡಿದೆ,2
+ಅವನು ಡಾಕ್ಟರೇಟ್ ಪದವಿ ಪಡೆದಿದ್ದಾನೆ.,Kannada,32,4,29,ಅವನು ಡಾಕ್ಟರೇಟ್ ಪದವಿ ಪಡೆದಿದ್ದಾನೆ,2
+ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತರಕಾರಿ ಬೆಲೆ ಬಹಳ ಹೆಚ್ಚಾಗಿದೆ.,Kannada,42,5,38,ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತರಕಾರಿ ಬೆಲೆ ಬಹಳ ಹೆಚ್ಚಾಗಿದೆ,2
+कंप्यूटर विज्ञान आज के समय में बहुत महत्वपूर्ण विषय है।,Hindi,55,10,46,कंप्यूटर विज्ञान आज के समय में बहुत महत्वपूर्ण विषय है।,1
+उसने इंजीनियरिंग की पढ़ाई पूरी कर ली है।,Hindi,40,8,33,उसने इंजीनियरिंग की पढ़ाई पूरी कर ली है।,1
+Machine learning algorithms can predict customer behavior with high accuracy.,English,77,10,68,machine learning algorithms can predict customer behavior with high accuracy,0
+ನನ್ನ ಸ್ನೇಹಿತ ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟ.,Kannada,48,7,42,ನನ್ನ ಸ್ನೇಹಿತ ನನಗೆ ಒಂದು ಪುಸ್ತಕ ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟ,2
+The teacher assigned a group project on environmental sustainability.,English,69,9,61,the teacher assigned a group project on environmental sustainability,0
+ಬಿಸಿ ಬೇಳೆ ಬಾತ್ ಕರ್ನಾಟಕದ ಜನಪ್ರಿಯ ಖಾದ್ಯವಾಗಿದೆ.,Kannada,44,6,39,ಬಿಸಿ ಬೇಳೆ ಬಾತ್ ಕರ್ನಾಟಕದ ಜನಪ್ರಿಯ ಖಾದ್ಯವಾಗಿದೆ,2
+The new smartphone features an advanced camera system with optical zoom.,English,72,11,62,the new smartphone features an advanced camera system with optical zoom,0
+The landlord increased the rent by fifteen percent this year.,English,61,10,52,the landlord increased the rent by fifteen percent this year,0
+हमारे स्कूल में विज्ञान प्रदर्शनी का आयोजन किया गया।,Hindi,52,9,44,हमारे स्कूल में विज्ञान प्रदर्शनी का आयोजन किया गया।,1
+The company developed a new electric vehicle with improved battery life.,English,72,11,62,the company developed a new electric vehicle with improved battery life,0
+She broke the national record in the hundred meter sprint event.,English,64,11,54,she broke the national record in the hundred meter sprint event,0
+ಸರ್ಕಾರ ಹೊಸ ಆರ್ಥಿಕ ನೀತಿಯನ್ನು ಘೋಷಿಸಿದೆ.,Kannada,37,5,33,ಸರ್ಕಾರ ಹೊಸ ಆರ್ಥಿಕ ನೀತಿಯನ್ನು ಘೋಷಿಸಿದೆ,2
+वह छात्रवृत्ति पाकर विदेश में पढ़ने गई है।,Hindi,42,8,35,वह छात्रवृत्ति पाकर विदेश में पढ़ने गई है।,1
+ಪುಸ್ತಕ ಮೇಳದಲ್ಲಿ ವಿವಿಧ ಭಾಷೆಗಳ ಪುಸ್ತಕಗಳು ಲಭ್ಯವಿದ್ದವು.,Kannada,51,6,46,ಪುಸ್ತಕ ಮೇಳದಲ್ಲಿ ವಿವಿಧ ಭಾಷೆಗಳ ಪುಸ್ತಕಗಳು ಲಭ್ಯವಿದ್ದವು,2
+ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ನಮ್ಮ ಜೀವನವನ್ನು ಬಹಳ ಬದಲಾಯಿಸಿದೆ.,Kannada,47,6,42,ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ನಮ್ಮ ಜೀವನವನ್ನು ಬಹಳ ಬದಲಾಯಿಸಿದೆ,2
+बचपन जीवन का सबसे खूबसूरत समय होता है।,Hindi,38,8,31,बचपन जीवन का सबसे खूबसूरत समय होता है।,1
+Our school organized a science exhibition for all the students.,English,63,10,54,our school organized a science exhibition for all the students,0
+ಕ್ರೀಡಾ ಅಕಾಡೆಮಿಯಿಂದ ಅನೇಕ ಪ್ರತಿಭಾವಂತ ಆಟಗಾರರು ಬಂದಿದ್ದಾರೆ.,Kannada,54,6,49,ಕ್ರೀಡಾ ಅಕಾಡೆಮಿಯಿಂದ ಅನೇಕ ಪ್ರತಿಭಾವಂತ ಆಟಗಾರರು ಬಂದಿದ್ದಾರೆ,2
+ಅವನು ಹೊಸ ಕಾರು ಖರೀದಿಸಿದ್ದಾನೆ ಅದು ಬಹಳ ಸುಂದರವಾಗಿದೆ.,Kannada,48,7,42,ಅವನು ಹೊಸ ಕಾರು ಖರೀದಿಸಿದ್ದಾನೆ ಅದು ಬಹಳ ಸುಂದರವಾಗಿದೆ,2
+The Italian restaurant serves the best handmade pasta in the entire city.,English,73,12,62,the italian restaurant serves the best handmade pasta in the entire city,0
+Online education has become increasingly popular in recent years.,English,65,9,57,online education has become increasingly popular in recent years,0
+ನಮ್ಮ ನೆರೆಹೊರೆಯವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು.,Kannada,34,4,31,ನಮ್ಮ ನೆರೆಹೊರೆಯವರು ತುಂಬಾ ಒಳ್ಳೆಯವರು,2
+नगर निगम ने शहर की सफाई अभियान शुरू किया है।,Hindi,44,10,35,नगर निगम ने शहर की सफाई अभियान शुरू किया है।,1
+ಕಬಡ್ಡಿ ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ಭಾರತ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು.,Kannada,50,6,45,ಕಬಡ್ಡಿ ವಿಶ್ವಕಪ್ನಲ್ಲಿ ಭಾರತ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು,2
+वह हर शाम को योग और ध्यान करती है।,Hindi,34,9,26,वह हर शाम को योग और ध्यान करती है।,1
+The travel guide recommended visiting the historic temples and forts.,English,69,10,60,the travel guide recommended visiting the historic temples and forts,0
+The new academic session will begin from the first week of July.,English,64,12,53,the new academic session will begin from the first week of july,0
+विद्यालय ने खेल प्रतियोगिता में कई पदक जीते।,Hindi,44,8,37,विद्यालय ने खेल प्रतियोगिता में कई पदक जीते।,1
+ಕ್ರೀಡಾ ಅಕಾಡೆಮಿಯಿಂದ ಅನೇಕ ಪ್ರತಿಭಾವಂತ ಆಟಗಾರರು ಬಂದಿದ್ದಾರೆ.,Kannada,54,6,49,ಕ್ರೀಡಾ ಅಕಾಡೆಮಿಯಿಂದ ಅನೇಕ ಪ್ರತಿಭಾವಂತ ಆಟಗಾರರು ಬಂದಿದ್ದಾರೆ,2
+ऑनलाइन शिक्षा ने पढ़ाई का तरीका बदल दिया है।,Hindi,44,9,36,ऑनलाइन शिक्षा ने पढ़ाई का तरीका बदल दिया है।,1
+दार्जिलिंग की चाय की बागान देखने लायक हैं।,Hindi,42,8,35,दार्जिलिंग की चाय की बागान देखने लायक हैं।,1
+ಸರ್ಕಾರ ಹೊಸ ಆರ್ಥಿಕ ನೀತಿಯನ್ನು ಘೋಷಿಸಿದೆ.,Kannada,37,5,33,ಸರ್ಕಾರ ಹೊಸ ಆರ್ಥಿಕ ನೀತಿಯನ್ನು ಘೋಷಿಸಿದೆ,2
+डेटा साइंस आज के सबसे लोकप्रिय करियर विकल्पों में है।,Hindi,53,10,44,डेटा साइंस आज के सबसे लोकप्रिय करियर विकल्पों में है।,1
+ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತರು ಪರಿಸರ ಸಂರಕ್ಷಣೆಯ ಬೇಡಿಕೆ ಇಟ್ಟರು.,Kannada,50,6,45,ಸಾಮಾಜಿಕ ಕಾರ್ಯಕರ್ತರು ಪರಿಸರ ಸಂರಕ್ಷಣೆಯ ಬೇಡಿಕೆ ಇಟ್ಟರು,2
+ಡ್ರೋನ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಕೃಷಿಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತಿದೆ.,Kannada,47,4,44,ಡ್ರೋನ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಕೃಷಿಯಲ್ಲಿ ಬಳಸಲಾಗುತ್ತಿದೆ,2
+ರಾಜ್ಯ ಸರ್ಕಾರ ರೈತರಿಗೆ ಹೊಸ ಯೋಜನೆ ಆರಂಭಿಸಿದೆ.,Kannada,41,6,36,ರಾಜ್ಯ ಸರ್ಕಾರ ರೈತರಿಗೆ ಹೊಸ ಯೋಜನೆ ಆರಂಭಿಸಿದೆ,2
+Our school basketball team qualified for the state level tournament.,English,68,10,59,our school basketball team qualified for the state level tournament,0
+ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಔಷಧಿಯನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದಾರೆ.,Kannada,43,4,40,ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಔಷಧಿಯನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದಾರೆ,2
+ಕರ್ನಾಟಕದ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಪರಂಪರೆ ಅತ್ಯಂತ ಶ್ರೀಮಂತವಾಗಿದೆ.,Kannada,52,6,47,ಕರ್ನಾಟಕದ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಪರಂಪರೆ ಅತ್ಯಂತ ಶ್ರೀಮಂತವಾಗಿದೆ,2
+मैंने कल रात एक बहुत अच्छी फिल्म देखी।,Hindi,38,8,31,मैंने कल रात एक बहुत अच्छी फिल्म देखी।,1
+ಚುನಾವಣಾ ಆಯೋಗ ಮತದಾನದ ದಿನಾಂಕ ನಿಗದಿ ಮಾಡಿದೆ.,Kannada,40,6,35,ಚುನಾವಣಾ ಆಯೋಗ ಮತದಾನದ ದಿನಾಂಕ ನಿಗದಿ ಮಾಡಿದೆ,2
+ಹಾಕಿ ಆಟದಲ್ಲಿ ಭಾರತೀಯ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು.,Kannada,47,7,41,ಹಾಕಿ ಆಟದಲ್ಲಿ ಭಾರತೀಯ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು,2
+आर्थिक विकास दर में इस तिमाही में सुधार देखा गया है।,Hindi,52,11,42,आर्थिक विकास दर में इस तिमाही में सुधार देखा गया है।,1
+Many students prefer online courses because of their flexibility.,English,65,9,57,many students prefer online courses because of their flexibility,0
+विज्ञान और तकनीक ने चिकित्सा क्षेत्र में अद्भुत प्रगति की है।,Hindi,61,11,51,विज्ञान और तकनीक ने चिकित्सा क्षेत्र में अद्भुत प्रगति की है।,1
+She is learning data science through various online platforms.,English,62,9,54,she is learning data science through various online platforms,0
+ನಾವು ಈ ಭಾನುವಾರ ಪಿಕ್ನಿಕ್ ಗೆ ಹೋಗುತ್ತಿದ್ದೇವೆ.,Kannada,42,6,37,ನಾವು ಈ ಭಾನುವಾರ ಪಿಕ್ನಿಕ್ ಗೆ ಹೋಗುತ್ತಿದ್ದೇವೆ,2
+ವಿದ್ಯುತ್ ವಾಹನಗಳ ಬೇಡಿಕೆ ವೇಗವಾಗಿ ಹೆಚ್ಚುತ್ತಿದೆ.,Kannada,44,5,40,ವಿದ್ಯುತ್ ವಾಹನಗಳ ಬೇಡಿಕೆ ವೇಗವಾಗಿ ಹೆಚ್ಚುತ್ತಿದೆ,2
+The professor explained the concept of machine learning in great detail.,English,72,11,62,the professor explained the concept of machine learning in great detail,0
+ಕರ್ನಾಟಕದ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಪರಂಪರೆ ಅತ್ಯಂತ ಶ್ರೀಮಂತವಾಗಿದೆ.,Kannada,52,6,47,ಕರ್ನಾಟಕದ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಪರಂಪರೆ ಅತ್ಯಂತ ಶ್ರೀಮಂತವಾಗಿದೆ,2
+ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕಲಿಯುವುದು ಯುವಜನರಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ.,Kannada,49,4,46,ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕಲಿಯುವುದು ಯುವಜನರಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ,2
+ಸಂಗೀತ ಕೇಳುವುದು ಮನಸ್ಸಿಗೆ ಶಾಂತಿ ನೀಡುತ್ತದೆ.,Kannada,40,5,36,ಸಂಗೀತ ಕೇಳುವುದು ಮನಸ್ಸಿಗೆ ಶಾಂತಿ ನೀಡುತ್ತದೆ,2
+The sunset over the ocean created a breathtaking display of colors.,English,67,11,57,the sunset over the ocean created a breathtaking display of colors,0
+We are planning a road trip to the mountains during the summer vacation.,English,72,13,60,we are planning a road trip to the mountains during the summer vacation,0
+ವರ್ಚುವಲ್ ರಿಯಾಲಿಟಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿಯನ್ನು ಸುಧಾರಿಸುತ್ತಿದೆ.,Kannada,58,6,53,ವರ್ಚುವಲ್ ರಿಯಾಲಿಟಿ ಶಿಕ್ಷಣ ಮತ್ತು ತರಬೇತಿಯನ್ನು ಸುಧಾರಿಸುತ್ತಿದೆ,2
+The national park is home to diverse wildlife and natural landscapes.,English,69,11,59,the national park is home to diverse wildlife and natural landscapes,0
+शतरंज खिलाड़ी ने विश्व चैंपियनशिप में दूसरा स्थान प्राप्त किया।,Hindi,63,10,54,शतरंज खिलाड़ी ने विश्व चैंपियनशिप में दूसरा स्थान प्राप्त किया।,1
+खेल मंत्रालय ने नई खेल नीति की घोषणा की है।,Hindi,43,10,34,खेल मंत्रालय ने नई खेल नीति की घोषणा की है।,1
+ರಾಗಿ ಮುದ್ದೆ ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರವಾಗಿದೆ.,Kannada,44,5,40,ರಾಗಿ ಮುದ್ದೆ ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ಆಹಾರವಾಗಿದೆ,2
+जैव विविधता का संरक्षण हमारे पारिस्थितिकी तंत्र के लिए जरूरी है।,Hindi,64,11,54,जैव विविधता का संरक्षण हमारे पारिस्थितिकी तंत्र के लिए जरूरी है।,1
+ಹೊಸ ತಂತ್ರಜ್ಞಾನದಿಂದ ರೈತರ ಉತ್ಪಾದಕತೆ ಹೆಚ್ಚುತ್ತಿದೆ.,Kannada,47,5,43,ಹೊಸ ತಂತ್ರಜ್ಞಾನದಿಂದ ರೈತರ ಉತ್ಪಾದಕತೆ ಹೆಚ್ಚುತ್ತಿದೆ,2
+इंटरनेट ने दुनिया को एक गाँव में बदल दिया है।,Hindi,45,10,36,इंटरनेट ने दुनिया को एक गाँव में बदल दिया है।,1
+The art exhibition showcased paintings from local and international artists.,English,76,10,67,the art exhibition showcased paintings from local and international artists,0
+The tech startup raised millions of dollars in its latest funding round.,English,72,12,61,the tech startup raised millions of dollars in its latest funding round,0
+Students are preparing for their competitive entrance examinations.,English,67,8,60,students are preparing for their competitive entrance examinations,0
+वर्चुअल रियलिटी से शिक्षा और प्रशिक्षण में सुधार हो रहा है।,Hindi,59,11,49,वर्चुअल रियलिटी से शिक्षा और प्रशिक्षण में सुधार हो रहा है।,1
+ವಿದ್ಯುತ್ ವಾಹನಗಳ ಬೇಡಿಕೆ ವೇಗವಾಗಿ ಹೆಚ್ಚುತ್ತಿದೆ.,Kannada,44,5,40,ವಿದ್ಯುತ್ ವಾಹನಗಳ ಬೇಡಿಕೆ ವೇಗವಾಗಿ ಹೆಚ್ಚುತ್ತಿದೆ,2
+The prime minister addressed the nation on the independence day celebrations.,English,77,11,67,the prime minister addressed the nation on the independence day celebrations,0
+उसने प्रतियोगी परीक्षा में प्रथम स्थान प्राप्त किया।,Hindi,52,8,45,उसने प्रतियोगी परीक्षा में प्रथम स्थान प्राप्त किया।,1
+ಹಣಕಾಸು ಸಚಿವರು ವಾರ್ಷಿಕ ಬಜೆಟ್ ಮಂಡಿಸಿದ್ದಾರೆ.,Kannada,41,5,37,ಹಣಕಾಸು ಸಚಿವರು ವಾರ್ಷಿಕ ಬಜೆಟ್ ಮಂಡಿಸಿದ್ದಾರೆ,2
+ಇಂದಿನ ಪತ್ರಿಕೆ ಓದಿ ಹಲವು ಹೊಸ ವಿಷಯಗಳು ತಿಳಿದವು.,Kannada,43,7,37,ಇಂದಿನ ಪತ್ರಿಕೆ ಓದಿ ಹಲವು ಹೊಸ ವಿಷಯಗಳು ತಿಳಿದವು,2
+We celebrated our wedding anniversary at a nice restaurant downtown.,English,68,10,59,we celebrated our wedding anniversary at a nice restaurant downtown,0
+ಅವನು ಡಾಕ್ಟರೇಟ್ ಪದವಿ ಪಡೆದಿದ್ದಾನೆ.,Kannada,32,4,29,ಅವನು ಡಾಕ್ಟರೇಟ್ ಪದವಿ ಪಡೆದಿದ್ದಾನೆ,2
+Students organized a cultural fest with dance and music performances.,English,69,10,60,students organized a cultural fest with dance and music performances,0
+राजस्थान की संस्कृति और कला विश्व प्रसिद्ध है।,Hindi,46,8,39,राजस्थान की संस्कृति और कला विश्व प्रसिद्ध है।,1
+हमारे स्कूल में विज्ञान प्रदर्शनी का आयोजन किया गया।,Hindi,52,9,44,हमारे स्कूल में विज्ञान प्रदर्शनी का आयोजन किया गया।,1
+The museum houses a remarkable collection of historical artifacts and fossils.,English,78,11,68,the museum houses a remarkable collection of historical artifacts and fossils,0
+Cybersecurity threats are increasing with the growth of digital services.,English,73,10,64,cybersecurity threats are increasing with the growth of digital services,0
+ನ್ಯಾಯಾಲಯ ಒಂದು ಐತಿಹಾಸಿಕ ತೀರ್ಪು ನೀಡಿದೆ.,Kannada,37,5,33,ನ್ಯಾಯಾಲಯ ಒಂದು ಐತಿಹಾಸಿಕ ತೀರ್ಪು ನೀಡಿದೆ,2
+विपक्ष ने सरकार की नीतियों पर सवाल उठाए हैं।,Hindi,44,9,36,विपक्ष ने सरकार की नीतियों पर सवाल उठाए हैं।,1
+अच्छे संस्कार बच्चों के भविष्य को उज्ज्वल बनाते हैं।,Hindi,52,9,44,अच्छे संस्कार बच्चों के भविष्य को उज्ज्वल बनाते हैं।,1
+ಫುಟ್ಬಾಲ್ ಪಂದ್ಯದಲ್ಲಿ ಎರಡೂ ತಂಡಗಳು ಅತ್ಯುತ್ತಮ ಆಟ ತೋರಿಸಿದವು.,Kannada,55,7,49,ಫುಟ್ಬಾಲ್ ಪಂದ್ಯದಲ್ಲಿ ಎರಡೂ ತಂಡಗಳು ಅತ್ಯುತ್ತಮ ಆಟ ತೋರಿಸಿದವು,2
+ಕನ್ನಡ ಸಾಹಿತ್ಯ ಬಹಳ ಶ್ರೀಮಂತ ಮತ್ತು ವೈವಿಧ್ಯಮಯವಾಗಿದೆ.,Kannada,48,6,43,ಕನ್ನಡ ಸಾಹಿತ್ಯ ಬಹಳ ಶ್ರೀಮಂತ ಮತ್ತು ವೈವಿಧ್ಯಮಯವಾಗಿದೆ,2
+We usually go for a morning walk in the nearby park.,English,52,11,42,we usually go for a morning walk in the nearby park,0
+किताबें पढ़ना ज्ञान बढ़ाने का सबसे अच्छा तरीका है।,Hindi,50,9,42,किताबें पढ़ना ज्ञान बढ़ाने का सबसे अच्छा तरीका है।,1
+The new academic session will begin from the first week of July.,English,64,12,53,the new academic session will begin from the first week of july,0
+फुटबॉल मैच में दोनों टीमों ने बेहतरीन खेल दिखाया।,Hindi,49,9,41,फुटबॉल मैच में दोनों टीमों ने बेहतरीन खेल दिखाया।,1
+The university announced the results of the final examinations last week.,English,73,11,63,the university announced the results of the final examinations last week,0
+ಇಂದಿನ ಪತ್ರಿಕೆ ಓದಿ ಹಲವು ಹೊಸ ವಿಷಯಗಳು ತಿಳಿದವು.,Kannada,43,7,37,ಇಂದಿನ ಪತ್ರಿಕೆ ಓದಿ ಹಲವು ಹೊಸ ವಿಷಯಗಳು ತಿಳಿದವು,2
+आज ऑफिस में बहुत काम था और मैं थक गया।,Hindi,38,10,29,आज ऑफिस में बहुत काम था और मैं थक गया।,1
+ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ ನಮ್ಮನ್ನು ಬೆರಗುಗೊಳಿಸುತ್ತದೆ.,Kannada,43,4,40,ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯ ನಮ್ಮನ್ನು ಬೆರಗುಗೊಳಿಸುತ್ತದೆ,2
+भारतीय क्रिकेट टीम ने विश्व कप जीतकर इतिहास रचा।,Hindi,48,9,40,भारतीय क्रिकेट टीम ने विश्व कप जीतकर इतिहास रचा।,1
+ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ಆಯೋಜಿಸಲಾಗಿದೆ.,Kannada,45,5,41,ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ಆಯೋಜಿಸಲಾಗಿದೆ,2
+सही आहार और व्यायाम से शरीर स्वस्थ रहता है।,Hindi,43,9,35,सही आहार और व्यायाम से शरीर स्वस्थ रहता है।,1
+ಇಂದು ಕಚೇರಿಯಲ್ಲಿ ಬಹಳ ಕೆಲಸ ಇತ್ತು ನಾನು ದಣಿದಿದ್ದೇನೆ.,Kannada,48,7,42,ಇಂದು ಕಚೇರಿಯಲ್ಲಿ ಬಹಳ ಕೆಲಸ ಇತ್ತು ನಾನು ದಣಿದಿದ್ದೇನೆ,2
+We are planning to renovate our kitchen next summer.,English,52,9,44,we are planning to renovate our kitchen next summer,0
+The landlord increased the rent by fifteen percent this year.,English,61,10,52,the landlord increased the rent by fifteen percent this year,0
+ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನದಂದು ರಾಷ್ಟ್ರವನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದರು.,Kannada,67,6,62,ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನದಂದು ರಾಷ್ಟ್ರವನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದರು,2
+ಅಂತರ್ಜಾಲ ಜಗತ್ತನ್ನು ಒಂದು ಹಳ್ಳಿಯನ್ನಾಗಿ ಮಾಡಿದೆ.,Kannada,44,5,40,ಅಂತರ್ಜಾಲ ಜಗತ್ತನ್ನು ಒಂದು ಹಳ್ಳಿಯನ್ನಾಗಿ ಮಾಡಿದೆ,2
+ಶಿಕ್ಷಕರು ಗಣಿತದ ಕಷ್ಟದ ಪ್ರಶ್ನೆಯನ್ನು ಸುಲಭವಾಗಿ ವಿವರಿಸಿದರು.,Kannada,54,6,49,ಶಿಕ್ಷಕರು ಗಣಿತದ ಕಷ್ಟದ ಪ್ರಶ್ನೆಯನ್ನು ಸುಲಭವಾಗಿ ವಿವರಿಸಿದರು,2
+ಮಹಿಳಾ ಸಬಲೀಕರಣ ಇಂದಿನ ಅತ್ಯಂತ ದೊಡ್ಡ ಅಗತ್ಯವಾಗಿದೆ.,Kannada,45,6,40,ಮಹಿಳಾ ಸಬಲೀಕರಣ ಇಂದಿನ ಅತ್ಯಂತ ದೊಡ್ಡ ಅಗತ್ಯವಾಗಿದೆ,2
+शोध कार्य के लिए उसे अंतरराष्ट्रीय पुरस्कार मिला।,Hindi,49,8,42,शोध कार्य के लिए उसे अंतरराष्ट्रीय पुरस्कार मिला।,1
+Climate change is causing significant impacts on global weather patterns.,English,73,10,64,climate change is causing significant impacts on global weather patterns,0
+हिमालय की चोटियाँ बहुत सुंदर और भव्य दिखती हैं।,Hindi,47,9,39,हिमालय की चोटियाँ बहुत सुंदर और भव्य दिखती हैं।,1
+The marathon runner completed the race in under three hours.,English,60,10,51,the marathon runner completed the race in under three hours,0
+Natural language processing enables machines to understand human language.,English,74,9,66,natural language processing enables machines to understand human language,0
+The museum houses a remarkable collection of historical artifacts and fossils.,English,78,11,68,the museum houses a remarkable collection of historical artifacts and fossils,0
+ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ ದರದಲ್ಲಿ ಈ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಸುಧಾರಣೆ ಕಂಡಿದೆ.,Kannada,57,7,51,ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ ದರದಲ್ಲಿ ಈ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಸುಧಾರಣೆ ಕಂಡಿದೆ,2
+जयपुर को गुलाबी शहर के नाम से जाना जाता है।,Hindi,43,10,34,जयपुर को गुलाबी शहर के नाम से जाना जाता है।,1
+The new coffee shop near our house serves excellent cappuccino.,English,63,10,54,the new coffee shop near our house serves excellent cappuccino,0
+ಹೊಸ ತಂತ್ರಜ್ಞಾನದಿಂದ ರೈತರ ಉತ್ಪಾದಕತೆ ಹೆಚ್ಚುತ್ತಿದೆ.,Kannada,47,5,43,ಹೊಸ ತಂತ್ರಜ್ಞಾನದಿಂದ ರೈತರ ಉತ್ಪಾದಕತೆ ಹೆಚ್ಚುತ್ತಿದೆ,2
+ಕ್ರೀಡಾ ಸಚಿವಾಲಯ ಹೊಸ ಕ್ರೀಡಾ ನೀತಿ ಘೋಷಿಸಿದೆ.,Kannada,40,6,35,ಕ್ರೀಡಾ ಸಚಿವಾಲಯ ಹೊಸ ಕ್ರೀಡಾ ನೀತಿ ಘೋಷಿಸಿದೆ,2
+The badminton player secured a gold medal at the international championship.,English,76,11,66,the badminton player secured a gold medal at the international championship,0
+दार्जिलिंग की चाय की बागान देखने लायक हैं।,Hindi,42,8,35,दार्जिलिंग की चाय की बागान देखने लायक हैं।,1
+The neighborhood park has beautiful flowering plants and trees.,English,63,9,55,the neighborhood park has beautiful flowering plants and trees,0
+The mathematics teacher made complex concepts easy to understand.,English,65,9,57,the mathematics teacher made complex concepts easy to understand,0
+ಟೆನ್ನಿಸ್ ಆಟಗಾರ ಗ್ರ್ಯಾಂಡ್ ಸ್ಲ್ಯಾಮ್ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಉಪವಿಜೇತರಾದರು.,Kannada,62,6,57,ಟೆನ್ನಿಸ್ ಆಟಗಾರ ಗ್ರ್ಯಾಂಡ್ ಸ್ಲ್ಯಾಮ್ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಉಪವಿಜೇತರಾದರು,2
+विज्ञान और तकनीक ने चिकित्सा क्षेत्र में अद्भुत प्रगति की है।,Hindi,61,11,51,विज्ञान और तकनीक ने चिकित्सा क्षेत्र में अद्भुत प्रगति की है।,1
+Public transportation needs to be improved to reduce urban congestion.,English,70,10,61,public transportation needs to be improved to reduce urban congestion,0
+The tech startup raised millions of dollars in its latest funding round.,English,72,12,61,the tech startup raised millions of dollars in its latest funding round,0
+He set a new world record in the long jump competition.,English,55,11,45,he set a new world record in the long jump competition,0
+राष्ट्रपति ने गणतंत्र दिवस पर देश को बधाई दी।,Hindi,45,9,37,राष्ट्रपति ने गणतंत्र दिवस पर देश को बधाई दी।,1
+Reading books regularly helps improve vocabulary and critical thinking skills.,English,78,10,69,reading books regularly helps improve vocabulary and critical thinking skills,0
+हॉकी के खेल में भारतीय टीम ने कमाल का प्रदर्शन किया।,Hindi,52,11,42,हॉकी के खेल में भारतीय टीम ने कमाल का प्रदर्शन किया।,1
+ಅವನು ಹೊಸ ಕಾರು ಖರೀದಿಸಿದ್ದಾನೆ ಅದು ಬಹಳ ಸುಂದರವಾಗಿದೆ.,Kannada,48,7,42,ಅವನು ಹೊಸ ಕಾರು ಖರೀದಿಸಿದ್ದಾನೆ ಅದು ಬಹಳ ಸುಂದರವಾಗಿದೆ,2
+ದೇಶದ ಪ್ರಗತಿಯಲ್ಲಿ ಯುವಜನರ ಪಾತ್ರ ಮಹತ್ವದ್ದಾಗಿದೆ.,Kannada,44,5,40,ದೇಶದ ಪ್ರಗತಿಯಲ್ಲಿ ಯುವಜನರ ಪಾತ್ರ ಮಹತ್ವದ್ದಾಗಿದೆ,2
+ಅವಳು ಪ್ರತಿ ಸಂಜೆ ಯೋಗ ಮತ್ತು ಧ್ಯಾನ ಮಾಡುತ್ತಾಳೆ.,Kannada,43,7,37,ಅವಳು ಪ್ರತಿ ಸಂಜೆ ಯೋಗ ಮತ್ತು ಧ್ಯಾನ ಮಾಡುತ್ತಾಳೆ,2
+ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಜನರಲ್ಲಿ ಜಾಗೃತಿ ಮೂಡಿಸಿದೆ.,Kannada,40,5,36,ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಜನರಲ್ಲಿ ಜಾಗೃತಿ ಮೂಡಿಸಿದೆ,2
+ದೇಶದ ಪ್ರಗತಿಯಲ್ಲಿ ಯುವಜನರ ಪಾತ್ರ ಮಹತ್ವದ್ದಾಗಿದೆ.,Kannada,44,5,40,ದೇಶದ ಪ್ರಗತಿಯಲ್ಲಿ ಯುವಜನರ ಪಾತ್ರ ಮಹತ್ವದ್ದಾಗಿದೆ,2
+The film festival screened movies from directors around the world.,English,66,10,57,the film festival screened movies from directors around the world,0
+मुझे हर रोज सुबह जल्दी उठना पड़ता है।,Hindi,37,8,30,मुझे हर रोज सुबह जल्दी उठना पड़ता है।,1
+ब्लॉकचेन तकनीक वित्तीय लेनदेन को सुरक्षित बनाती है।,Hindi,51,8,44,ब्लॉकचेन तकनीक वित्तीय लेनदेन को सुरक्षित बनाती है।,1
+ಅವಳು ಪ್ರತಿ ಸಂಜೆ ಯೋಗ ಮತ್ತು ಧ್ಯಾನ ಮಾಡುತ್ತಾಳೆ.,Kannada,43,7,37,ಅವಳು ಪ್ರತಿ ಸಂಜೆ ಯೋಗ ಮತ್ತು ಧ್ಯಾನ ಮಾಡುತ್ತಾಳೆ,2
+ನಾನು ಇಂದು ಬೆಳಿಗ್ಗೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗಿ ತರಕಾರಿ ತಂದೆ.,Kannada,48,7,42,ನಾನು ಇಂದು ಬೆಳಿಗ್ಗೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋಗಿ ತರಕಾರಿ ತಂದೆ,2
+ಅವಳು ತನ್ನ ಸಂಶೋಧನಾ ಪ್ರಬಂಧವನ್ನು ಪ್ರತಿಷ್ಠಿತ ಪತ್ರಿಕೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಿದಳು.,Kannada,66,7,60,ಅವಳು ತನ್ನ ಸಂಶೋಧನಾ ಪ್ರಬಂಧವನ್ನು ಪ್ರತಿಷ್ಠಿತ ಪತ್ರಿಕೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಿದಳು,2
+ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ಆಯೋಜಿಸಲಾಗಿದೆ.,Kannada,45,5,41,ನಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ಆಯೋಜಿಸಲಾಗಿದೆ,2
+The discovery of gravitational waves confirmed Einstein's general theory of relativity.,English,87,11,77,the discovery of gravitational waves confirmed einsteins general theory of relativity,0
+उसने अपने जन्मदिन की पार्टी में सबको बुलाया।,Hindi,44,8,37,उसने अपने जन्मदिन की पार्टी में सबको बुलाया।,1
+ಶಿಕ್ಷಕರು ಗಣಿತದ ಕಷ್ಟದ ಪ್ರಶ್ನೆಯನ್ನು ಸುಲಭವಾಗಿ ವಿವರಿಸಿದರು.,Kannada,54,6,49,ಶಿಕ್ಷಕರು ಗಣಿತದ ಕಷ್ಟದ ಪ್ರಶ್ನೆಯನ್ನು ಸುಲಭವಾಗಿ ವಿವರಿಸಿದರು,2
+ಮಳೆಗಾಲದಲ್ಲಿ ಬಹಳ ಮಳೆ ಬರುತ್ತದೆ.,Kannada,29,4,26,ಮಳೆಗಾಲದಲ್ಲಿ ಬಹಳ ಮಳೆ ಬರುತ್ತದೆ,2
+ಶಾಲೆ ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅನೇಕ ಪದಕಗಳನ್ನು ಗೆದ್ದಿದೆ.,Kannada,49,6,44,ಶಾಲೆ ಕ್ರೀಡಾ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅನೇಕ ಪದಕಗಳನ್ನು ಗೆದ್ದಿದೆ,2
+ಅವನು ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದಿದ್ದಾನೆ.,Kannada,54,6,49,ಅವನು ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದಿದ್ದಾನೆ,2
+प्रकृति की सुंदरता हमें विस्मित कर देती है।,Hindi,43,8,36,प्रकृति की सुंदरता हमें विस्मित कर देती है।,1
+ತರಬೇತುದಾರರು ಆಟಗಾರರಿಗೆ ಹೊಸ ತಂತ್ರ ತಯಾರಿಸಿದ್ದಾರೆ.,Kannada,46,5,42,ತರಬೇತುದಾರರು ಆಟಗಾರರಿಗೆ ಹೊಸ ತಂತ್ರ ತಯಾರಿಸಿದ್ದಾರೆ,2
+ಶಿಕ್ಷಣ ಸಮಾಜದ ಅಭಿವೃದ್ಧಿಯ ಅಡಿಪಾಯವಾಗಿದೆ.,Kannada,37,4,34,ಶಿಕ್ಷಣ ಸಮಾಜದ ಅಭಿವೃದ್ಧಿಯ ಅಡಿಪಾಯವಾಗಿದೆ,2
+पुस्तक मेले में विभिन्न भाषाओं की किताबें उपलब्ध थीं।,Hindi,53,9,45,पुस्तक मेले में विभिन्न भाषाओं की किताबें उपलब्ध थीं।,1
+ಸಂಸತ್ತಿನಲ್ಲಿ ಹೊಸ ಮಸೂದೆ ಅಂಗೀಕಾರವಾಗಿದೆ.,Kannada,37,4,34,ಸಂಸತ್ತಿನಲ್ಲಿ ಹೊಸ ಮಸೂದೆ ಅಂಗೀಕಾರವಾಗಿದೆ,2
+ಕೂರ್ಗ್ ಕಾಫಿ ತೋಟಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.,Kannada,36,4,33,ಕೂರ್ಗ್ ಕಾಫಿ ತೋಟಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ,2
+वह ट्रेन से रोजाना दफ्तर जाता है।,Hindi,33,7,27,वह ट्रेन से रोजाना दफ्तर जाता है।,1
+She loves reading novels before going to sleep every night.,English,59,10,50,she loves reading novels before going to sleep every night,0
+ಹೊಸ ತಂತ್ರಜ್ಞಾನದಿಂದ ರೈತರ ಉತ್ಪಾದಕತೆ ಹೆಚ್ಚುತ್ತಿದೆ.,Kannada,47,5,43,ಹೊಸ ತಂತ್ರಜ್ಞಾನದಿಂದ ರೈತರ ಉತ್ಪಾದಕತೆ ಹೆಚ್ಚುತ್ತಿದೆ,2
+अंतरिक्ष एजेंसी ने सफलतापूर्वक उपग्रह प्रक्षेपित किया।,Hindi,54,7,48,अंतरिक्ष एजेंसी ने सफलतापूर्वक उपग्रह प्रक्षेपित किया।,1
+उसने नई कार खरीदी है जो बहुत सुंदर दिखती है।,Hindi,44,10,35,उसने नई कार खरीदी है जो बहुत सुंदर दिखती है।,1
+Strong winds uprooted several trees and damaged power lines last night.,English,71,11,61,strong winds uprooted several trees and damaged power lines last night,0
+उसने ओलंपिक में स्वर्ण पदक जीतकर देश का गौरव बढ़ाया।,Hindi,52,10,43,उसने ओलंपिक में स्वर्ण पदक जीतकर देश का गौरव बढ़ाया।,1
+The traditional recipe has been passed down through generations in our family.,English,78,12,67,the traditional recipe has been passed down through generations in our family,0
+ಯಕ್ಷಗಾನ ಕರ್ನಾಟಕದ ಪ್ರಸಿದ್ಧ ಜಾನಪದ ಕಲೆಯಾಗಿದೆ.,Kannada,42,5,38,ಯಕ್ಷಗಾನ ಕರ್ನಾಟಕದ ಪ್ರಸಿದ್ಧ ಜಾನಪದ ಕಲೆಯಾಗಿದೆ,2
+गोवा के समुद्र तट पर्यटकों में बहुत लोकप्रिय हैं।,Hindi,49,9,41,गोवा के समुद्र तट पर्यटकों में बहुत लोकप्रिय हैं।,1
+मोबाइल फोन आज के जीवन का अभिन्न अंग बन गया है।,Hindi,46,11,36,मोबाइल फोन आज के जीवन का अभिन्न अंग बन गया है।,1
+शिक्षक ने गणित का कठिन सवाल बहुत आसानी से समझाया।,Hindi,49,10,40,शिक्षक ने गणित का कठिन सवाल बहुत आसानी से समझाया।,1
+हिंदी भाषा का साहित्य बहुत समृद्ध और विविध है।,Hindi,46,9,38,हिंदी भाषा का साहित्य बहुत समृद्ध और विविध है।,1
+ಸಂಸತ್ತಿನಲ್ಲಿ ಹೊಸ ಮಸೂದೆ ಅಂಗೀಕಾರವಾಗಿದೆ.,Kannada,37,4,34,ಸಂಸತ್ತಿನಲ್ಲಿ ಹೊಸ ಮಸೂದೆ ಅಂಗೀಕಾರವಾಗಿದೆ,2
+The national park is home to diverse wildlife and natural landscapes.,English,69,11,59,the national park is home to diverse wildlife and natural landscapes,0
+ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕಲಿಯುವುದು ಯುವಜನರಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ.,Kannada,49,4,46,ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕಲಿಯುವುದು ಯುವಜನರಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ,2
+ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತರಕಾರಿ ಬೆಲೆ ಬಹಳ ಹೆಚ್ಚಾಗಿದೆ.,Kannada,42,5,38,ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತರಕಾರಿ ಬೆಲೆ ಬಹಳ ಹೆಚ್ಚಾಗಿದೆ,2
+साइबर सुरक्षा आज के डिजिटल युग में बेहद जरूरी है।,Hindi,49,10,40,साइबर सुरक्षा आज के डिजिटल युग में बेहद जरूरी है।,1
+Self driving cars are being tested on roads in several countries.,English,65,11,55,self driving cars are being tested on roads in several countries,0
+आज का अखबार पढ़कर मुझे कई नई बातें पता चलीं।,Hindi,44,10,35,आज का अखबार पढ़कर मुझे कई नई बातें पता चलीं।,1
+भारतीय क्रिकेट टीम ने विश्व कप जीतकर इतिहास रचा।,Hindi,48,9,40,भारतीय क्रिकेट टीम ने विश्व कप जीतकर इतिहास रचा।,1
+ನಾವು ಈ ಭಾನುವಾರ ಪಿಕ್ನಿಕ್ ಗೆ ಹೋಗುತ್ತಿದ್ದೇವೆ.,Kannada,42,6,37,ನಾವು ಈ ಭಾನುವಾರ ಪಿಕ್ನಿಕ್ ಗೆ ಹೋಗುತ್ತಿದ್ದೇವೆ,2
+ಅಜ್ಜಿ ನಮಗೆ ಒಂದು ಹಳೆಯ ಕಥೆ ಹೇಳಿದರು.,Kannada,33,6,28,ಅಜ್ಜಿ ನಮಗೆ ಒಂದು ಹಳೆಯ ಕಥೆ ಹೇಳಿದರು,2
+बारिश होने की वजह से सड़कों पर पानी भर गया।,Hindi,43,10,34,बारिश होने की वजह से सड़कों पर पानी भर गया।,1
+Meditation and mindfulness practices reduce stress and improve mental health.,English,77,10,68,meditation and mindfulness practices reduce stress and improve mental health,0
+ಆನ್‌ಲೈನ್ ಖರೀದಿ ಮಾರುಕಟ್ಟೆಯ ಸಂಪ್ರದಾಯವನ್ನು ಬದಲಾಯಿಸಿದೆ.,Kannada,51,5,47,ಆನ್ಲೈನ್ ಖರೀದಿ ಮಾರುಕಟ್ಟೆಯ ಸಂಪ್ರದಾಯವನ್ನು ಬದಲಾಯಿಸಿದೆ,2
+भारतीय संस्कृति विविधता में एकता का प्रतीक है।,Hindi,46,8,39,भारतीय संस्कृति विविधता में एकता का प्रतीक है।,1
+बच्चे स्कूल से आकर खेल रहे हैं।,Hindi,31,7,25,बच्चे स्कूल से आकर खेल रहे हैं।,1
+The professor explained the concept of machine learning in great detail.,English,72,11,62,the professor explained the concept of machine learning in great detail,0
+पुस्तकालय में पढ़ाई के लिए बहुत शांत वातावरण है।,Hindi,48,9,40,पुस्तकालय में पढ़ाई के लिए बहुत शांत वातावरण है।,1
+उसने डॉक्टरेट की उपाधि प्राप्त कर ली है।,Hindi,40,8,33,उसने डॉक्टरेट की उपाधि प्राप्त कर ली है।,1
+Archaeologists unearthed ancient artifacts dating back thousands of years.,English,74,9,66,archaeologists unearthed ancient artifacts dating back thousands of years,0
+ಟೆನ್ನಿಸ್ ಆಟಗಾರ ಗ್ರ್ಯಾಂಡ್ ಸ್ಲ್ಯಾಮ್ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಉಪವಿಜೇತರಾದರು.,Kannada,62,6,57,ಟೆನ್ನಿಸ್ ಆಟಗಾರ ಗ್ರ್ಯಾಂಡ್ ಸ್ಲ್ಯಾಮ್ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಉಪವಿಜೇತರಾದರು,2
+ಸೈಬರ್ ಭದ್ರತೆ ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಅತ್ಯಂತ ಅವಶ್ಯಕವಾಗಿದೆ.,Kannada,50,6,45,ಸೈಬರ್ ಭದ್ರತೆ ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಅತ್ಯಂತ ಅವಶ್ಯಕವಾಗಿದೆ,2
+परिवार का साथ जीवन की सबसे बड़ी खुशी है।,Hindi,40,9,32,परिवार का साथ जीवन की सबसे बड़ी खुशी है।,1
+Researchers developed a new vaccine that shows promising results in trials.,English,75,11,65,researchers developed a new vaccine that shows promising results in trials,0
+बाजार में आजकल सब्जियों के दाम बहुत बढ़ गए हैं।,Hindi,47,10,38,बाजार में आजकल सब्जियों के दाम बहुत बढ़ गए हैं।,1
+दादी माँ ने हमें एक पुरानी कहानी सुनाई।,Hindi,39,8,32,दादी माँ ने हमें एक पुरानी कहानी सुनाई।,1
+ಮುಖ್ಯಮಂತ್ರಿ ಹೊಸ ರಸ್ತೆ ಯೋಜನೆಯನ್ನು ಉದ್ಘಾಟಿಸಿದರು.,Kannada,46,5,42,ಮುಖ್ಯಮಂತ್ರಿ ಹೊಸ ರಸ್ತೆ ಯೋಜನೆಯನ್ನು ಉದ್ಘಾಟಿಸಿದರು,2
+ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ ಹೊಸ ಆವಿಷ್ಕಾರಗಳು ರೋಮಾಂಚಕವಾಗಿವೆ.,Kannada,46,4,43,ಭೌತಶಾಸ್ತ್ರದಲ್ಲಿ ಹೊಸ ಆವಿಷ್ಕಾರಗಳು ರೋಮಾಂಚಕವಾಗಿವೆ,2
+ಅವನು ಡಾಕ್ಟರೇಟ್ ಪದವಿ ಪಡೆದಿದ್ದಾನೆ.,Kannada,32,4,29,ಅವನು ಡಾಕ್ಟರೇಟ್ ಪದವಿ ಪಡೆದಿದ್ದಾನೆ,2
+ನಾನು ನಿನ್ನೆ ರಾತ್ರಿ ಒಂದು ಒಳ್ಳೆಯ ಚಲನಚಿತ್ರ ನೋಡಿದೆ.,Kannada,47,7,41,ನಾನು ನಿನ್ನೆ ರಾತ್ರಿ ಒಂದು ಒಳ್ಳೆಯ ಚಲನಚಿತ್ರ ನೋಡಿದೆ,2
+सभी धर्म प्रेम और शांति का संदेश देते हैं।,Hindi,42,9,34,सभी धर्म प्रेम और शांति का संदेश देते हैं।,1
+ಬಾಲ್ಯ ಜೀವನದ ಅತ್ಯಂತ ಸುಂದರ ಸಮಯವಾಗಿದೆ.,Kannada,35,5,31,ಬಾಲ್ಯ ಜೀವನದ ಅತ್ಯಂತ ಸುಂದರ ಸಮಯವಾಗಿದೆ,2
+ಪುಸ್ತಕ ಮೇಳದಲ್ಲಿ ವಿವಿಧ ಭಾಷೆಗಳ ಪುಸ್ತಕಗಳು ಲಭ್ಯವಿದ್ದವು.,Kannada,51,6,46,ಪುಸ್ತಕ ಮೇಳದಲ್ಲಿ ವಿವಿಧ ಭಾಷೆಗಳ ಪುಸ್ತಕಗಳು ಲಭ್ಯವಿದ್ದವು,2
+बाजार में आजकल सब्जियों के दाम बहुत बढ़ गए हैं।,Hindi,47,10,38,बाजार में आजकल सब्जियों के दाम बहुत बढ़ गए हैं।,1
+ಜನರು ಶಾಂತಿಯುತವಾಗಿ ತಮ್ಮ ಬೇಡಿಕೆಗಳನ್ನು ಮಂಡಿಸಿದರು.,Kannada,46,5,42,ಜನರು ಶಾಂತಿಯುತವಾಗಿ ತಮ್ಮ ಬೇಡಿಕೆಗಳನ್ನು ಮಂಡಿಸಿದರು,2
+टेनिस खिलाड़ी ने ग्रैंड स्लैम टूर्नामेंट में उपविजेता रही।,Hindi,58,9,50,टेनिस खिलाड़ी ने ग्रैंड स्लैम टूर्नामेंट में उपविजेता रही।,1
+नई तकनीक से किसानों की उत्पादकता बढ़ रही है।,Hindi,44,9,36,नई तकनीक से किसानों की उत्पादकता बढ़ रही है।,1
+नगर निगम ने शहर की सफाई अभियान शुरू किया है।,Hindi,44,10,35,नगर निगम ने शहर की सफाई अभियान शुरू किया है।,1
+ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ನೀರಿನ ಅವಶೇಷ ಸಿಗುವ ಸಾಧ್ಯತೆ ಇದೆ.,Kannada,45,7,39,ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ನೀರಿನ ಅವಶೇಷ ಸಿಗುವ ಸಾಧ್ಯತೆ ಇದೆ,2
+Scientists discovered a new species of deep sea fish in the ocean.,English,66,12,55,scientists discovered a new species of deep sea fish in the ocean,0
+Strong winds uprooted several trees and damaged power lines last night.,English,71,11,61,strong winds uprooted several trees and damaged power lines last night,0
+कुश्ती प्रतियोगिता में उसने स्वर्ण पदक अपने नाम किया।,Hindi,53,9,45,कुश्ती प्रतियोगिता में उसने स्वर्ण पदक अपने नाम किया।,1
+ಮಳೆಗಾಲದಲ್ಲಿ ಬಹಳ ಮಳೆ ಬರುತ್ತದೆ.,Kannada,29,4,26,ಮಳೆಗಾಲದಲ್ಲಿ ಬಹಳ ಮಳೆ ಬರುತ್ತದೆ,2
+The examination schedule has been released by the university administration.,English,76,10,67,the examination schedule has been released by the university administration,0
+उसने डॉक्टरेट की उपाधि प्राप्त कर ली है।,Hindi,40,8,33,उसने डॉक्टरेट की उपाधि प्राप्त कर ली है।,1
+The campus placement drive attracted many multinational companies.,English,66,8,59,the campus placement drive attracted many multinational companies,0
+विज्ञान और तकनीक ने चिकित्सा क्षेत्र में अद्भुत प्रगति की है।,Hindi,61,11,51,विज्ञान और तकनीक ने चिकित्सा क्षेत्र में अद्भुत प्रगति की है।,1
+Artificial intelligence is transforming various industries across the world.,English,76,9,68,artificial intelligence is transforming various industries across the world,0
+ऑनलाइन शिक्षा ने पढ़ाई का तरीका बदल दिया है।,Hindi,44,9,36,ऑनलाइन शिक्षा ने पढ़ाई का तरीका बदल दिया है।,1
+ಇಂದು ಕಚೇರಿಯಲ್ಲಿ ಬಹಳ ಕೆಲಸ ಇತ್ತು ನಾನು ದಣಿದಿದ್ದೇನೆ.,Kannada,48,7,42,ಇಂದು ಕಚೇರಿಯಲ್ಲಿ ಬಹಳ ಕೆಲಸ ಇತ್ತು ನಾನು ದಣಿದಿದ್ದೇನೆ,2
+ಸಂಶೋಧಕರು ಕ್ಯಾನ್ಸರ್ ಚಿಕಿತ್ಸೆಯಲ್ಲಿ ಹೊಸ ಪ್ರಗತಿ ಸಾಧಿಸಿದ್ದಾರೆ.,Kannada,57,6,52,ಸಂಶೋಧಕರು ಕ್ಯಾನ್ಸರ್ ಚಿಕಿತ್ಸೆಯಲ್ಲಿ ಹೊಸ ಪ್ರಗತಿ ಸಾಧಿಸಿದ್ದಾರೆ,2
+ರಾಜ್ಯ ಸರ್ಕಾರ ರೈತರಿಗೆ ಹೊಸ ಯೋಜನೆ ಆರಂಭಿಸಿದೆ.,Kannada,41,6,36,ರಾಜ್ಯ ಸರ್ಕಾರ ರೈತರಿಗೆ ಹೊಸ ಯೋಜನೆ ಆರಂಭಿಸಿದೆ,2
+ಸ್ಮಾರ್ಟ್ ಹೋಮ್ ತಂತ್ರಜ್ಞಾನ ಮನೆಯ ಸೌಕರ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ.,Kannada,54,6,49,ಸ್ಮಾರ್ಟ್ ಹೋಮ್ ತಂತ್ರಜ್ಞಾನ ಮನೆಯ ಸೌಕರ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ,2
+ಶಾಲಾ ಮುಖ್ಯ ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ಫೂರ್ತಿದಾಯಕ ಭಾಷಣ ಮಾಡಿದರು.,Kannada,62,7,56,ಶಾಲಾ ಮುಖ್ಯ ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ಫೂರ್ತಿದಾಯಕ ಭಾಷಣ ಮಾಡಿದರು,2
+The Italian restaurant serves the best handmade pasta in the entire city.,English,73,12,62,the italian restaurant serves the best handmade pasta in the entire city,0
+प्रशिक्षक ने खिलाड़ियों के लिए नई रणनीति तैयार की है।,Hindi,53,10,44,प्रशिक्षक ने खिलाड़ियों के लिए नई रणनीति तैयार की है।,1
+A thick fog covered the highway causing delays in morning traffic.,English,66,11,56,a thick fog covered the highway causing delays in morning traffic,0
+ಅಂತರ್ಜಾಲ ಜಗತ್ತನ್ನು ಒಂದು ಹಳ್ಳಿಯನ್ನಾಗಿ ಮಾಡಿದೆ.,Kannada,44,5,40,ಅಂತರ್ಜಾಲ ಜಗತ್ತನ್ನು ಒಂದು ಹಳ್ಳಿಯನ್ನಾಗಿ ಮಾಡಿದೆ,2
+ಶಾಲಾ ಮುಖ್ಯ ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ಫೂರ್ತಿದಾಯಕ ಭಾಷಣ ಮಾಡಿದರು.,Kannada,62,7,56,ಶಾಲಾ ಮುಖ್ಯ ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ಫೂರ್ತಿದಾಯಕ ಭಾಷಣ ಮಾಡಿದರು,2
+अंतरराष्ट्रीय सम्मेलन में कई महत्वपूर्ण मुद्दों पर चर्चा हुई।,Hindi,61,9,53,अंतरराष्ट्रीय सम्मेलन में कई महत्वपूर्ण मुद्दों पर चर्चा हुई।,1
+भारतीय क्रिकेट टीम ने विश्व कप जीतकर इतिहास रचा।,Hindi,48,9,40,भारतीय क्रिकेट टीम ने विश्व कप जीतकर इतिहास रचा।,1
+मानसून के मौसम में खूब बारिश होती है।,Hindi,37,8,30,मानसून के मौसम में खूब बारिश होती है।,1
+बैडमिंटन खिलाड़ी ने अंतरराष्ट्रीय टूर्नामेंट में जीत हासिल की।,Hindi,62,9,54,बैडमिंटन खिलाड़ी ने अंतरराष्ट्रीय टूर्नामेंट में जीत हासिल की।,1
+ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ ಇಂದಿನ ಅತ್ಯಂತ ಮುಖ್ಯ ವಿಷಯವಾಗಿದೆ.,Kannada,48,6,43,ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ ಇಂದಿನ ಅತ್ಯಂತ ಮುಖ್ಯ ವಿಷಯವಾಗಿದೆ,2
+ಸಂಗೀತ ಕೇಳುವುದು ಮನಸ್ಸಿಗೆ ಶಾಂತಿ ನೀಡುತ್ತದೆ.,Kannada,40,5,36,ಸಂಗೀತ ಕೇಳುವುದು ಮನಸ್ಸಿಗೆ ಶಾಂತಿ ನೀಡುತ್ತದೆ,2
+Elections will be held in five states during the next two months.,English,65,12,54,elections will be held in five states during the next two months,0
+इंटरनेट ने दुनिया को एक गाँव में बदल दिया है।,Hindi,45,10,36,इंटरनेट ने दुनिया को एक गाँव में बदल दिया है।,1
+ಸೌರ ಶಕ್ತಿ ಶುದ್ಧ ಮತ್ತು ನವೀಕರಿಸಬಹುದಾದ ಶಕ್ತಿಯ ಮೂಲವಾಗಿದೆ.,Kannada,53,7,47,ಸೌರ ಶಕ್ತಿ ಶುದ್ಧ ಮತ್ತು ನವೀಕರಿಸಬಹುದಾದ ಶಕ್ತಿಯ ಮೂಲವಾಗಿದೆ,2
+ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ನಮ್ಮ ಜೀವನವನ್ನು ಬಹಳ ಬದಲಾಯಿಸಿದೆ.,Kannada,47,6,42,ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ ನಮ್ಮ ಜೀವನವನ್ನು ಬಹಳ ಬದಲಾಯಿಸಿದೆ,2
+रोबोटिक्स तकनीक उद्योगों में क्रांतिकारी बदलाव ला रही है।,Hindi,57,9,49,रोबोटिक्स तकनीक उद्योगों में क्रांतिकारी बदलाव ला रही है।,1
+ಟೆನ್ನಿಸ್ ಆಟಗಾರ ಗ್ರ್ಯಾಂಡ್ ಸ್ಲ್ಯಾಮ್ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಉಪವಿಜೇತರಾದರು.,Kannada,62,6,57,ಟೆನ್ನಿಸ್ ಆಟಗಾರ ಗ್ರ್ಯಾಂಡ್ ಸ್ಲ್ಯಾಮ್ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಉಪವಿಜೇತರಾದರು,2
+ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಹಲವು ಮಹತ್ವದ ವಿಷಯಗಳ ಚರ್ಚೆ ನಡೆಯಿತು.,Kannada,60,7,54,ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಹಲವು ಮಹತ್ವದ ವಿಷಯಗಳ ಚರ್ಚೆ ನಡೆಯಿತು,2
+Researchers developed a new vaccine that shows promising results in trials.,English,75,11,65,researchers developed a new vaccine that shows promising results in trials,0
+My neighbor just adopted a cute little puppy from the shelter.,English,62,11,52,my neighbor just adopted a cute little puppy from the shelter,0
+ಕುಸ್ತಿ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅವನು ಚಿನ್ನದ ಪದಕ ಗೆದ್ದನು.,Kannada,44,6,39,ಕುಸ್ತಿ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಅವನು ಚಿನ್ನದ ಪದಕ ಗೆದ್ದನು,2
+हमारे पड़ोसी बहुत अच्छे और मिलनसार हैं।,Hindi,39,7,33,हमारे पड़ोसी बहुत अच्छे और मिलनसार हैं।,1
+ನನ್ನ ಅಮ್ಮ ಇಂದು ರುಚಿಯಾದ ಊಟ ಮಾಡಿದ್ದಾರೆ.,Kannada,37,6,32,ನನ್ನ ಅಮ್ಮ ಇಂದು ರುಚಿಯಾದ ಊಟ ಮಾಡಿದ್ದಾರೆ,2
+परिवार का साथ जीवन की सबसे बड़ी खुशी है।,Hindi,40,9,32,परिवार का साथ जीवन की सबसे बड़ी खुशी है।,1
+ವಿದ್ಯಾರ್ಥಿಗಳು ವಾರ್ಷಿಕ ಉತ್ಸವದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ಮಂಡಿಸಿದರು.,Kannada,64,6,59,ವಿದ್ಯಾರ್ಥಿಗಳು ವಾರ್ಷಿಕ ಉತ್ಸವದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ಮಂಡಿಸಿದರು,2
+इलेक्ट्रिक वाहनों की मांग तेजी से बढ़ रही है।,Hindi,45,9,37,इलेक्ट्रिक वाहनों की मांग तेजी से बढ़ रही है।,1
+ಅವಳು ವಿದ್ಯಾರ್ಥಿವೇತನ ಪಡೆದು ವಿದೇಶದಲ್ಲಿ ಓದಲು ಹೋಗಿದ್ದಾಳೆ.,Kannada,53,6,48,ಅವಳು ವಿದ್ಯಾರ್ಥಿವೇತನ ಪಡೆದು ವಿದೇಶದಲ್ಲಿ ಓದಲು ಹೋಗಿದ್ದಾಳೆ,2
+ಅವಳು ವಿದ್ಯಾರ್ಥಿವೇತನ ಪಡೆದು ವಿದೇಶದಲ್ಲಿ ಓದಲು ಹೋಗಿದ್ದಾಳೆ.,Kannada,53,6,48,ಅವಳು ವಿದ್ಯಾರ್ಥಿವೇತನ ಪಡೆದು ವಿದೇಶದಲ್ಲಿ ಓದಲು ಹೋಗಿದ್ದಾಳೆ,2
+वर्चुअल रियलिटी से शिक्षा और प्रशिक्षण में सुधार हो रहा है।,Hindi,59,11,49,वर्चुअल रियलिटी से शिक्षा और प्रशिक्षण में सुधार हो रहा है।,1
+She learned to bake bread from scratch during the lockdown period.,English,66,11,56,she learned to bake bread from scratch during the lockdown period,0
+ಹಂಪಿ ವಿಶ್ವ ಪರಂಪರೆಯ ತಾಣವಾಗಿದೆ.,Kannada,29,4,26,ಹಂಪಿ ವಿಶ್ವ ಪರಂಪರೆಯ ತಾಣವಾಗಿದೆ,2
+ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ ಇಂದಿನ ಅತ್ಯಂತ ಮುಖ್ಯ ವಿಷಯವಾಗಿದೆ.,Kannada,48,6,43,ಕಂಪ್ಯೂಟರ್ ವಿಜ್ಞಾನ ಇಂದಿನ ಅತ್ಯಂತ ಮುಖ್ಯ ವಿಷಯವಾಗಿದೆ,2
+राज्य सरकार ने किसानों के लिए नई योजना शुरू की।,Hindi,47,10,38,राज्य सरकार ने किसानों के लिए नई योजना शुरू की।,1
+इलेक्ट्रिक वाहनों की मांग तेजी से बढ़ रही है।,Hindi,45,9,37,इलेक्ट्रिक वाहनों की मांग तेजी से बढ़ रही है।,1
+हमारे पड़ोसी बहुत अच्छे और मिलनसार हैं।,Hindi,39,7,33,हमारे पड़ोसी बहुत अच्छे और मिलनसार हैं।,1
+Virtual reality technology is being used in medical training and therapy.,English,73,11,63,virtual reality technology is being used in medical training and therapy,0
+She is learning data science through various online platforms.,English,62,9,54,she is learning data science through various online platforms,0
+ಹಣಕಾಸು ಸಚಿವರು ವಾರ್ಷಿಕ ಬಜೆಟ್ ಮಂಡಿಸಿದ್ದಾರೆ.,Kannada,41,5,37,ಹಣಕಾಸು ಸಚಿವರು ವಾರ್ಷಿಕ ಬಜೆಟ್ ಮಂಡಿಸಿದ್ದಾರೆ,2
+ಅಜ್ಜಿ ನಮಗೆ ಒಂದು ಹಳೆಯ ಕಥೆ ಹೇಳಿದರು.,Kannada,33,6,28,ಅಜ್ಜಿ ನಮಗೆ ಒಂದು ಹಳೆಯ ಕಥೆ ಹೇಳಿದರು,2
+The stadium was packed with enthusiastic fans cheering for their team.,English,70,11,60,the stadium was packed with enthusiastic fans cheering for their team,0
+My neighbor just adopted a cute little puppy from the shelter.,English,62,11,52,my neighbor just adopted a cute little puppy from the shelter,0
+The teacher assigned a group project on environmental sustainability.,English,69,9,61,the teacher assigned a group project on environmental sustainability,0
+ಆರೋಗ್ಯವೇ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂಪತ್ತು.,Kannada,30,4,27,ಆರೋಗ್ಯವೇ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂಪತ್ತು,2
+The local bakery sells freshly baked croissants every morning.,English,62,9,54,the local bakery sells freshly baked croissants every morning,0
+बड़ों का आशीर्वाद जीवन में बहुत महत्वपूर्ण होता है।,Hindi,51,9,43,बड़ों का आशीर्वाद जीवन में बहुत महत्वपूर्ण होता है।,1
+ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಸಾವಿರಾರು ಪ್ರೇಕ್ಷಕರು ಪಂದ್ಯ ನೋಡಲು ಬಂದರು.,Kannada,53,6,48,ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಸಾವಿರಾರು ಪ್ರೇಕ್ಷಕರು ಪಂದ್ಯ ನೋಡಲು ಬಂದರು,2
+उसने प्रतियोगी परीक्षा में प्रथम स्थान प्राप्त किया।,Hindi,52,8,45,उसने प्रतियोगी परीक्षा में प्रथम स्थान प्राप्त किया।,1
+He completed his doctoral thesis on artificial intelligence applications.,English,73,9,65,he completed his doctoral thesis on artificial intelligence applications,0
+कुश्ती प्रतियोगिता में उसने स्वर्ण पदक अपने नाम किया।,Hindi,53,9,45,कुश्ती प्रतियोगिता में उसने स्वर्ण पदक अपने नाम किया।,1
+ऑनलाइन खरीदारी ने बाजार की परंपरा को बदल दिया है।,Hindi,49,10,40,ऑनलाइन खरीदारी ने बाजार की परंपरा को बदल दिया है।,1
+मोबाइल फोन आज के जीवन का अभिन्न अंग बन गया है।,Hindi,46,11,36,मोबाइल फोन आज के जीवन का अभिन्न अंग बन गया है।,1
+राजस्थान की संस्कृति और कला विश्व प्रसिद्ध है।,Hindi,46,8,39,राजस्थान की संस्कृति और कला विश्व प्रसिद्ध है।,1
+बारिश होने की वजह से सड़कों पर पानी भर गया।,Hindi,43,10,34,बारिश होने की वजह से सड़कों पर पानी भर गया।,1
+We celebrated our wedding anniversary at a nice restaurant downtown.,English,68,10,59,we celebrated our wedding anniversary at a nice restaurant downtown,0
+The football world cup attracted billions of viewers from around the globe.,English,75,12,64,the football world cup attracted billions of viewers from around the globe,0
+संगीत सुनने से मन को शांति मिलती है।,Hindi,36,8,29,संगीत सुनने से मन को शांति मिलती है।,1
+मेरे दोस्त ने मुझे एक किताब उपहार में दी।,Hindi,41,9,33,मेरे दोस्त ने मुझे एक किताब उपहार में दी।,1
+Meditation and mindfulness practices reduce stress and improve mental health.,English,77,10,68,meditation and mindfulness practices reduce stress and improve mental health,0
+ನ್ಯಾಯಾಲಯ ಒಂದು ಐತಿಹಾಸಿಕ ತೀರ್ಪು ನೀಡಿದೆ.,Kannada,37,5,33,ನ್ಯಾಯಾಲಯ ಒಂದು ಐತಿಹಾಸಿಕ ತೀರ್ಪು ನೀಡಿದೆ,2
+नई शिक्षा नीति ने पाठ्यक्रम में कई बदलाव किए हैं।,Hindi,49,10,40,नई शिक्षा नीति ने पाठ्यक्रम में कई बदलाव किए हैं।,1
+ಮಳೆ ಬಂದ ಕಾರಣ ರಸ್ತೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿದೆ.,Kannada,38,6,33,ಮಳೆ ಬಂದ ಕಾರಣ ರಸ್ತೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿದೆ,2
+ಚೆಸ್ ಆಟಗಾರ ವಿಶ್ವ ಚಾಂಪಿಯನ್‌ಶಿಪ್‌ನಲ್ಲಿ ಎರಡನೇ ಸ್ಥಾನ ಪಡೆದರು.,Kannada,56,7,50,ಚೆಸ್ ಆಟಗಾರ ವಿಶ್ವ ಚಾಂಪಿಯನ್ಶಿಪ್ನಲ್ಲಿ ಎರಡನೇ ಸ್ಥಾನ ಪಡೆದರು,2
+Our school basketball team qualified for the state level tournament.,English,68,10,59,our school basketball team qualified for the state level tournament,0
+ಬೇಸಿಗೆಯಲ್ಲಿ ತಾಪಮಾನ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ತಲುಪುತ್ತದೆ.,Kannada,47,5,43,ಬೇಸಿಗೆಯಲ್ಲಿ ತಾಪಮಾನ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ತಲುಪುತ್ತದೆ,2
+She organized her closet and donated old clothes to charity.,English,60,10,51,she organized her closet and donated old clothes to charity,0
+Online education has become increasingly popular in recent years.,English,65,9,57,online education has become increasingly popular in recent years,0
+Artificial intelligence is transforming various industries across the world.,English,76,9,68,artificial intelligence is transforming various industries across the world,0
+बच्चे स्कूल से आकर खेल रहे हैं।,Hindi,31,7,25,बच्चे स्कूल से आकर खेल रहे हैं।,1
+शोध कार्य के लिए उसे अंतरराष्ट्रीय पुरस्कार मिला।,Hindi,49,8,42,शोध कार्य के लिए उसे अंतरराष्ट्रीय पुरस्कार मिला।,1
+Self driving cars are being tested on roads in several countries.,English,65,11,55,self driving cars are being tested on roads in several countries,0
+ಬ್ಯಾಡ್ಮಿಂಟನ್ ಆಟಗಾರ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಗೆಲುವು ಸಾಧಿಸಿದ.,Kannada,63,6,58,ಬ್ಯಾಡ್ಮಿಂಟನ್ ಆಟಗಾರ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಗೆಲುವು ಸಾಧಿಸಿದ,2
+The space agency successfully launched a satellite into orbit last night.,English,73,11,63,the space agency successfully launched a satellite into orbit last night,0
+ಬಾಹ್ಯಾಕಾಶ ಸಂಸ್ಥೆ ಯಶಸ್ವಿಯಾಗಿ ಉಪಗ್ರಹ ಉಡಾವಣೆ ಮಾಡಿದೆ.,Kannada,49,6,44,ಬಾಹ್ಯಾಕಾಶ ಸಂಸ್ಥೆ ಯಶಸ್ವಿಯಾಗಿ ಉಪಗ್ರಹ ಉಡಾವಣೆ ಮಾಡಿದೆ,2
+ಬಾಹ್ಯಾಕಾಶ ಸಂಸ್ಥೆ ಯಶಸ್ವಿಯಾಗಿ ಉಪಗ್ರಹ ಉಡಾವಣೆ ಮಾಡಿದೆ.,Kannada,49,6,44,ಬಾಹ್ಯಾಕಾಶ ಸಂಸ್ಥೆ ಯಶಸ್ವಿಯಾಗಿ ಉಪಗ್ರಹ ಉಡಾವಣೆ ಮಾಡಿದೆ,2
+Robotic process automation reduces manual work in repetitive tasks.,English,67,9,59,robotic process automation reduces manual work in repetitive tasks,0
+ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಸಂವಹನ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಯಿಸಿದೆ.,Kannada,55,6,50,ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಸಂವಹನ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಯಿಸಿದೆ,2
+The prime minister addressed the nation on the independence day celebrations.,English,77,11,67,the prime minister addressed the nation on the independence day celebrations,0
+ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಸಂವಹನ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಯಿಸಿದೆ.,Kannada,55,6,50,ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಸಂವಹನ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಯಿಸಿದೆ,2
+ಅವನು ರೈಲಿನಲ್ಲಿ ಪ್ರತಿದಿನ ಕಚೇರಿಗೆ ಹೋಗುತ್ತಾನೆ.,Kannada,43,5,39,ಅವನು ರೈಲಿನಲ್ಲಿ ಪ್ರತಿದಿನ ಕಚೇರಿಗೆ ಹೋಗುತ್ತಾನೆ,2
+ಆನ್‌ಲೈನ್ ಶಿಕ್ಷಣ ಕಲಿಕೆಯ ವಿಧಾನವನ್ನು ಬದಲಾಯಿಸಿದೆ.,Kannada,45,5,41,ಆನ್ಲೈನ್ ಶಿಕ್ಷಣ ಕಲಿಕೆಯ ವಿಧಾನವನ್ನು ಬದಲಾಯಿಸಿದೆ,2
+The campus placement drive attracted many multinational companies.,English,66,8,59,the campus placement drive attracted many multinational companies,0
+ಅವಳು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಉದ್ಯಾನವನದಲ್ಲಿ ನಡೆಯುತ್ತಾಳೆ.,Kannada,49,5,45,ಅವಳು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಉದ್ಯಾನವನದಲ್ಲಿ ನಡೆಯುತ್ತಾಳೆ,2
+The documentary film highlighted the importance of ocean conservation.,English,70,9,62,the documentary film highlighted the importance of ocean conservation,0
+ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಅಧ್ಯಯನಕ್ಕೆ ಶಾಂತ ವಾತಾವರಣವಿದೆ.,Kannada,42,4,39,ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಅಧ್ಯಯನಕ್ಕೆ ಶಾಂತ ವಾತಾವರಣವಿದೆ,2
+सर्दियों में पहाड़ों पर बर्फबारी होती है।,Hindi,41,7,35,सर्दियों में पहाड़ों पर बर्फबारी होती है।,1
+भारतीय शास्त्रीय संगीत की परंपरा बहुत पुरानी है।,Hindi,48,8,41,भारतीय शास्त्रीय संगीत की परंपरा बहुत पुरानी है।,1
+I forgot to bring my umbrella and got caught in the rain.,English,57,12,46,i forgot to bring my umbrella and got caught in the rain,0
+ಕುಟುಂಬದ ಸಹವಾಸ ಜೀವನದ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂತೋಷವಾಗಿದೆ.,Kannada,45,6,40,ಕುಟುಂಬದ ಸಹವಾಸ ಜೀವನದ ಅತ್ಯಂತ ದೊಡ್ಡ ಸಂತೋಷವಾಗಿದೆ,2
+ಕನ್ನಡ ಸಾಹಿತ್ಯ ಬಹಳ ಶ್ರೀಮಂತ ಮತ್ತು ವೈವಿಧ್ಯಮಯವಾಗಿದೆ.,Kannada,48,6,43,ಕನ್ನಡ ಸಾಹಿತ್ಯ ಬಹಳ ಶ್ರೀಮಂತ ಮತ್ತು ವೈವಿಧ್ಯಮಯವಾಗಿದೆ,2
+The weather is quite pleasant today compared to yesterday.,English,58,9,50,the weather is quite pleasant today compared to yesterday,0
+ಬ್ಯಾಡ್ಮಿಂಟನ್ ಆಟಗಾರ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಗೆಲುವು ಸಾಧಿಸಿದ.,Kannada,63,6,58,ಬ್ಯಾಡ್ಮಿಂಟನ್ ಆಟಗಾರ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಗೆಲುವು ಸಾಧಿಸಿದ,2
+The coach implemented a new training strategy for the upcoming season.,English,70,11,60,the coach implemented a new training strategy for the upcoming season,0
+The school principal addressed the students during the annual function.,English,71,10,62,the school principal addressed the students during the annual function,0
+हॉकी के खेल में भारतीय टीम ने कमाल का प्रदर्शन किया।,Hindi,52,11,42,हॉकी के खेल में भारतीय टीम ने कमाल का प्रदर्शन किया।,1
+ಸಂಶೋಧನಾ ಕಾರ್ಯಕ್ಕಾಗಿ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ ಸಿಕ್ಕಿದೆ.,Kannada,52,5,48,ಸಂಶೋಧನಾ ಕಾರ್ಯಕ್ಕಾಗಿ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ ಸಿಕ್ಕಿದೆ,2
+नई तकनीक से किसानों की उत्पादकता बढ़ रही है।,Hindi,44,9,36,नई तकनीक से किसानों की उत्पादकता बढ़ रही है।,1
+ಮಕ್ಕಳು ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ ಆಟವಾಡುತ್ತಿದ್ದಾರೆ.,Kannada,42,5,38,ಮಕ್ಕಳು ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ ಆಟವಾಡುತ್ತಿದ್ದಾರೆ,2
+शिक्षा समाज के विकास की नींव है।,Hindi,32,7,26,शिक्षा समाज के विकास की नींव है।,1
+ಎಲ್ಲಾ ಧರ್ಮಗಳು ಪ್ರೀತಿ ಮತ್ತು ಶಾಂತಿಯ ಸಂದೇಶ ನೀಡುತ್ತವೆ.,Kannada,50,7,44,ಎಲ್ಲಾ ಧರ್ಮಗಳು ಪ್ರೀತಿ ಮತ್ತು ಶಾಂತಿಯ ಸಂದೇಶ ನೀಡುತ್ತವೆ,2
+ಚೆಸ್ ಆಟಗಾರ ವಿಶ್ವ ಚಾಂಪಿಯನ್‌ಶಿಪ್‌ನಲ್ಲಿ ಎರಡನೇ ಸ್ಥಾನ ಪಡೆದರು.,Kannada,56,7,50,ಚೆಸ್ ಆಟಗಾರ ವಿಶ್ವ ಚಾಂಪಿಯನ್ಶಿಪ್ನಲ್ಲಿ ಎರಡನೇ ಸ್ಥಾನ ಪಡೆದರು,2
+Heavy rainfall caused flooding in several low lying areas of the city.,English,70,12,59,heavy rainfall caused flooding in several low lying areas of the city,0
+सरकार ने नई आर्थिक नीति की घोषणा की है।,Hindi,39,9,31,सरकार ने नई आर्थिक नीति की घोषणा की है।,1
+विद्यालय ने खेल प्रतियोगिता में कई पदक जीते।,Hindi,44,8,37,विद्यालय ने खेल प्रतियोगिता में कई पदक जीते।,1
+She is cooking dinner for the entire family tonight.,English,52,9,44,she is cooking dinner for the entire family tonight,0
+ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಸಂವಹನ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಯಿಸಿದೆ.,Kannada,55,6,50,ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಸಂವಹನ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬದಲಾಯಿಸಿದೆ,2
+ರಾಜ್ಯ ಸರ್ಕಾರ ರೈತರಿಗೆ ಹೊಸ ಯೋಜನೆ ಆರಂಭಿಸಿದೆ.,Kannada,41,6,36,ರಾಜ್ಯ ಸರ್ಕಾರ ರೈತರಿಗೆ ಹೊಸ ಯೋಜನೆ ಆರಂಭಿಸಿದೆ,2
+शतरंज खिलाड़ी ने विश्व चैंपियनशिप में दूसरा स्थान प्राप्त किया।,Hindi,63,10,54,शतरंज खिलाड़ी ने विश्व चैंपियनशिप में दूसरा स्थान प्राप्त किया।,1
+ಮೈಸೂರು ದಸರಾ ಕರ್ನಾಟಕದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಹಬ್ಬವಾಗಿದೆ.,Kannada,48,6,43,ಮೈಸೂರು ದಸರಾ ಕರ್ನಾಟಕದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಹಬ್ಬವಾಗಿದೆ,2
+The finance minister presented the annual budget in the parliament session.,English,75,11,65,the finance minister presented the annual budget in the parliament session,0
+The government announced a new policy to boost the economy.,English,59,10,50,the government announced a new policy to boost the economy,0
+He scored the highest marks in the physics examination.,English,55,9,47,he scored the highest marks in the physics examination,0
+ಬೇಸಿಗೆಯಲ್ಲಿ ತಾಪಮಾನ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ತಲುಪುತ್ತದೆ.,Kannada,47,5,43,ಬೇಸಿಗೆಯಲ್ಲಿ ತಾಪಮಾನ ನಲವತ್ತೈದು ಡಿಗ್ರಿ ತಲುಪುತ್ತದೆ,2
+ಸರ್ಕಾರ ಹೊಸ ಆರ್ಥಿಕ ನೀತಿಯನ್ನು ಘೋಷಿಸಿದೆ.,Kannada,37,5,33,ಸರ್ಕಾರ ಹೊಸ ಆರ್ಥಿಕ ನೀತಿಯನ್ನು ಘೋಷಿಸಿದೆ,2
+आज का अखबार पढ़कर मुझे कई नई बातें पता चलीं।,Hindi,44,10,35,आज का अखबार पढ़कर मुझे कई नई बातें पता चलीं।,1
+प्रधानमंत्री ने स्वतंत्रता दिवस पर राष्ट्र को संबोधित किया।,Hindi,59,9,51,प्रधानमंत्री ने स्वतंत्रता दिवस पर राष्ट्र को संबोधित किया।,1
+होली रंगों का त्योहार है जो बसंत ऋतु में मनाया जाता है।,Hindi,55,12,44,होली रंगों का त्योहार है जो बसंत ऋतु में मनाया जाता है।,1
+ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನದಂದು ರಾಷ್ಟ್ರವನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದರು.,Kannada,67,6,62,ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನದಂದು ರಾಷ್ಟ್ರವನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದರು,2
+हमने घर में नया फर्नीचर लगवाया है।,Hindi,34,7,28,हमने घर में नया फर्नीचर लगवाया है।,1
+The telescope captured stunning images of a distant galaxy cluster.,English,67,10,58,the telescope captured stunning images of a distant galaxy cluster,0
+The parliament passed a bill to improve healthcare facilities in rural areas.,English,77,12,66,the parliament passed a bill to improve healthcare facilities in rural areas,0
+ಕ್ರೀಡಾಪಟು ಮ್ಯಾರಥಾನ್ ಓಟದಲ್ಲಿ ಹೊಸ ರಾಷ್ಟ್ರೀಯ ದಾಖಲೆ ಮಾಡಿದರು.,Kannada,56,7,50,ಕ್ರೀಡಾಪಟು ಮ್ಯಾರಥಾನ್ ಓಟದಲ್ಲಿ ಹೊಸ ರಾಷ್ಟ್ರೀಯ ದಾಖಲೆ ಮಾಡಿದರು,2
+खेल अकादमी से कई प्रतिभाशाली खिलाड़ी निकले हैं।,Hindi,47,8,40,खेल अकादमी से कई प्रतिभाशाली खिलाड़ी निकले हैं।,1
+Scientists discovered a new species of deep sea fish in the ocean.,English,66,12,55,scientists discovered a new species of deep sea fish in the ocean,0
+ಚುನಾವಣಾ ಆಯೋಗ ಮತದಾನದ ದಿನಾಂಕ ನಿಗದಿ ಮಾಡಿದೆ.,Kannada,40,6,35,ಚುನಾವಣಾ ಆಯೋಗ ಮತದಾನದ ದಿನಾಂಕ ನಿಗದಿ ಮಾಡಿದೆ,2
+The sunset over the ocean created a breathtaking display of colors.,English,67,11,57,the sunset over the ocean created a breathtaking display of colors,0
+The new coffee shop near our house serves excellent cappuccino.,English,63,10,54,the new coffee shop near our house serves excellent cappuccino,0
+The mobile application has been downloaded over ten million times.,English,66,10,57,the mobile application has been downloaded over ten million times,0
+मानसून के मौसम में खूब बारिश होती है।,Hindi,37,8,30,मानसून के मौसम में खूब बारिश होती है।,1
+उसने अपना शोध पत्र एक प्रतिष्ठित पत्रिका में प्रकाशित किया।,Hindi,59,10,50,उसने अपना शोध पत्र एक प्रतिष्ठित पत्रिका में प्रकाशित किया।,1
+The new coffee shop near our house serves excellent cappuccino.,English,63,10,54,the new coffee shop near our house serves excellent cappuccino,0
+Students organized a cultural fest with dance and music performances.,English,69,10,60,students organized a cultural fest with dance and music performances,0
+ಇಂದು ಕಚೇರಿಯಲ್ಲಿ ಬಹಳ ಕೆಲಸ ಇತ್ತು ನಾನು ದಣಿದಿದ್ದೇನೆ.,Kannada,48,7,42,ಇಂದು ಕಚೇರಿಯಲ್ಲಿ ಬಹಳ ಕೆಲಸ ಇತ್ತು ನಾನು ದಣಿದಿದ್ದೇನೆ,2
+The university announced the results of the final examinations last week.,English,73,11,63,the university announced the results of the final examinations last week,0
+हमने घर में नया फर्नीचर लगवाया है।,Hindi,34,7,28,हमने घर में नया फर्नीचर लगवाया है।,1
+ಪರಿಸರ ರಕ್ಷಣೆ ನಮ್ಮೆಲ್ಲರ ಹೊಣೆಯಾಗಿದೆ.,Kannada,34,4,31,ಪರಿಸರ ರಕ್ಷಣೆ ನಮ್ಮೆಲ್ಲರ ಹೊಣೆಯಾಗಿದೆ,2
+प्रकृति की सुंदरता हमें विस्मित कर देती है।,Hindi,43,8,36,प्रकृति की सुंदरता हमें विस्मित कर देती है।,1
+ಜನರು ಶಾಂತಿಯುತವಾಗಿ ತಮ್ಮ ಬೇಡಿಕೆಗಳನ್ನು ಮಂಡಿಸಿದರು.,Kannada,46,5,42,ಜನರು ಶಾಂತಿಯುತವಾಗಿ ತಮ್ಮ ಬೇಡಿಕೆಗಳನ್ನು ಮಂಡಿಸಿದರು,2
+वह हर शाम को योग और ध्यान करती है।,Hindi,34,9,26,वह हर शाम को योग और ध्यान करती है।,1
+ಅವಳು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಉದ್ಯಾನವನದಲ್ಲಿ ನಡೆಯುತ್ತಾಳೆ.,Kannada,49,5,45,ಅವಳು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಉದ್ಯಾನವನದಲ್ಲಿ ನಡೆಯುತ್ತಾಳೆ,2
+The snowfall transformed the entire landscape into a winter wonderland.,English,71,10,62,the snowfall transformed the entire landscape into a winter wonderland,0
+चुनाव आयोग ने मतदान की तारीख तय कर दी है।,Hindi,41,10,32,चुनाव आयोग ने मतदान की तारीख तय कर दी है।,1
+ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಹಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ.,Kannada,41,4,38,ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಹಾರಗಳನ್ನು ಸುಲಭಗೊಳಿಸಿದೆ,2
+स्टेडियम में हजारों दर्शक मैच देखने के लिए उमड़ पड़े।,Hindi,53,10,44,स्टेडियम में हजारों दर्शक मैच देखने के लिए उमड़ पड़े।,1
+ಹಾಕಿ ಆಟದಲ್ಲಿ ಭಾರತೀಯ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು.,Kannada,47,7,41,ಹಾಕಿ ಆಟದಲ್ಲಿ ಭಾರತೀಯ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿತು,2
+इलेक्ट्रिक वाहनों की मांग तेजी से बढ़ रही है।,Hindi,45,9,37,इलेक्ट्रिक वाहनों की मांग तेजी से बढ़ रही है।,1
+ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಜನರಲ್ಲಿ ಜಾಗೃತಿ ಮೂಡಿಸಿದೆ.,Kannada,40,5,36,ಸ್ವಚ್ಛತಾ ಅಭಿಯಾನ ಜನರಲ್ಲಿ ಜಾಗೃತಿ ಮೂಡಿಸಿದೆ,2
+Renewable energy technologies are becoming more affordable and efficient.,English,73,9,65,renewable energy technologies are becoming more affordable and efficient,0
+ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತರಕಾರಿ ಬೆಲೆ ಬಹಳ ಹೆಚ್ಚಾಗಿದೆ.,Kannada,42,5,38,ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತರಕಾರಿ ಬೆಲೆ ಬಹಳ ಹೆಚ್ಚಾಗಿದೆ,2
+खेल मंत्रालय ने नई खेल नीति की घोषणा की है।,Hindi,43,10,34,खेल मंत्रालय ने नई खेल नीति की घोषणा की है।,1
+विद्यार्थी परीक्षा की तैयारी में लगे हुए हैं।,Hindi,45,8,38,विद्यार्थी परीक्षा की तैयारी में लगे हुए हैं।,1
+समय का सदुपयोग करना सफलता की कुंजी है।,Hindi,38,8,31,समय का सदुपयोग करना सफलता की कुंजी है।,1
+ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಅಧ್ಯಯನಕ್ಕೆ ಶಾಂತ ವಾತಾವರಣವಿದೆ.,Kannada,42,4,39,ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಅಧ್ಯಯನಕ್ಕೆ ಶಾಂತ ವಾತಾವರಣವಿದೆ,2
+ರೋಬೋಟಿಕ್ಸ್ ತಂತ್ರಜ್ಞಾನ ಉದ್ಯಮಗಳಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಬದಲಾವಣೆ ತರುತ್ತಿದೆ.,Kannada,64,6,59,ರೋಬೋಟಿಕ್ಸ್ ತಂತ್ರಜ್ಞಾನ ಉದ್ಯಮಗಳಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಬದಲಾವಣೆ ತರುತ್ತಿದೆ,2
+Public transportation needs to be improved to reduce urban congestion.,English,70,10,61,public transportation needs to be improved to reduce urban congestion,0
+Students are preparing for their competitive entrance examinations.,English,67,8,60,students are preparing for their competitive entrance examinations,0
+भारतीय फिल्म उद्योग विश्व का सबसे बड़ा फिल्म उद्योग है।,Hindi,55,10,46,भारतीय फिल्म उद्योग विश्व का सबसे बड़ा फिल्म उद्योग है।,1
+The landlord increased the rent by fifteen percent this year.,English,61,10,52,the landlord increased the rent by fifteen percent this year,0
+ಒಳ್ಳೆಯ ಸಂಸ್ಕಾರಗಳು ಮಕ್ಕಳ ಭವಿಷ್ಯವನ್ನು ಉಜ್ವಲಗೊಳಿಸುತ್ತವೆ.,Kannada,53,5,49,ಒಳ್ಳೆಯ ಸಂಸ್ಕಾರಗಳು ಮಕ್ಕಳ ಭವಿಷ್ಯವನ್ನು ಉಜ್ವಲಗೊಳಿಸುತ್ತವೆ,2
+स्कूल के प्रधानाचार्य ने छात्रों को प्रेरित करने वाला भाषण दिया।,Hindi,64,11,54,स्कूल के प्रधानाचार्य ने छात्रों को प्रेरित करने वाला भाषण दिया।,1
+ಯಕ್ಷಗಾನ ಕರ್ನಾಟಕದ ಪ್ರಸಿದ್ಧ ಜಾನಪದ ಕಲೆಯಾಗಿದೆ.,Kannada,42,5,38,ಯಕ್ಷಗಾನ ಕರ್ನಾಟಕದ ಪ್ರಸಿದ್ಧ ಜಾನಪದ ಕಲೆಯಾಗಿದೆ,2
+A diplomatic summit was held to discuss regional peace and security.,English,68,11,58,a diplomatic summit was held to discuss regional peace and security,0
+ಕ್ರೀಡಾ ಸಚಿವಾಲಯ ಹೊಸ ಕ್ರೀಡಾ ನೀತಿ ಘೋಷಿಸಿದೆ.,Kannada,40,6,35,ಕ್ರೀಡಾ ಸಚಿವಾಲಯ ಹೊಸ ಕ್ರೀಡಾ ನೀತಿ ಘೋಷಿಸಿದೆ,2
+I went to the grocery store to buy some fresh vegetables and fruits.,English,68,13,56,i went to the grocery store to buy some fresh vegetables and fruits,0
+ಮೊಬೈಲ್ ಫೋನ್ ಇಂದಿನ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ.,Kannada,43,6,38,ಮೊಬೈಲ್ ಫೋನ್ ಇಂದಿನ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ,2
+Researchers developed a new vaccine that shows promising results in trials.,English,75,11,65,researchers developed a new vaccine that shows promising results in trials,0
+The stadium was packed with enthusiastic fans cheering for their team.,English,70,11,60,the stadium was packed with enthusiastic fans cheering for their team,0
+वाराणसी दुनिया के सबसे प्राचीन शहरों में से एक है।,Hindi,50,10,41,वाराणसी दुनिया के सबसे प्राचीन शहरों में से एक है।,1
+The documentary film highlighted the importance of ocean conservation.,English,70,9,62,the documentary film highlighted the importance of ocean conservation,0
+ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಹಲವು ಮಹತ್ವದ ವಿಷಯಗಳ ಚರ್ಚೆ ನಡೆಯಿತು.,Kannada,60,7,54,ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಹಲವು ಮಹತ್ವದ ವಿಷಯಗಳ ಚರ್ಚೆ ನಡೆಯಿತು,2
+ಹೊಸ ಶಿಕ್ಷಣ ನೀತಿ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಬದಲಾವಣೆ ತಂದಿದೆ.,Kannada,45,6,40,ಹೊಸ ಶಿಕ್ಷಣ ನೀತಿ ಪಠ್ಯಕ್ರಮದಲ್ಲಿ ಬದಲಾವಣೆ ತಂದಿದೆ,2
