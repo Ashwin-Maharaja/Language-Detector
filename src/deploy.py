@@ -258,9 +258,12 @@ PORTAL_TEMPLATE = """
             transition: all 0.2s ease;
         }
         .nav-pills .nav-link.active {
-            background: var(--primary-gradient);
-            color: white;
+            background: var(--primary-gradient) !important;
+            color: white !important;
             box-shadow: 0 4px 12px rgba(30, 60, 114, 0.25);
+        }
+        .nav-pills .nav-link.active * {
+            color: white !important;
         }
         .nav-pills .nav-link:hover:not(.active) {
             background: #e2e8f0;
@@ -400,7 +403,7 @@ PORTAL_TEMPLATE = """
                 </button>
             </li>
             <li class="nav-item">
-                <button class="nav-link text-primary-emphasis" id="system-tab" data-bs-toggle="pill" data-bs-target="#system" type="button" onclick="loadSystemStats()">
+                <button class="nav-link" id="system-tab" data-bs-toggle="pill" data-bs-target="#system" type="button" onclick="loadSystemStats()">
                     <i class="fa-solid fa-clock-rotate-left me-1"></i> 5. Activity &amp; Control Hub
                 </button>
             </li>
