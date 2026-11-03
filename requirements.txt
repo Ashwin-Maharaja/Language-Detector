@@ -19,8 +19,5 @@ joblib>=1.2.0
 # --- Web deployment (Flask) ------------------------------------------------
 flask>=2.3.0
 
-# --- PDF Generation ---------------------------------------------------------
-reportlab>=3.6.0
-
 # --- Optional (requires C++ build tools on Windows) -------------------------
 # wordcloud>=1.9.0

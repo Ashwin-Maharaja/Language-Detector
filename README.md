@@ -43,17 +43,15 @@ This project addresses tri-lingual classification across disjoint scripts:
 
 ```
 Language Detection/
+├── api/                                       # Vercel Serverless Entrypoint
+│   └── index.py                               # WSGI application handler for Vercel
+│
 ├── data/                                      # Datasets & Metadata
 │   ├── Language Detection.csv                 # Kaggle reference source dataset (17 languages)
 │   ├── language_dataset.csv                   # Balanced curated tri-lingual dataset (1,050 rows)
 │   ├── metadata.json                          # Machine-readable schema & Unicode distributions
 │   ├── prediction_history.json                # Live query audit log store
 │   └── README.md                              # Dataset documentation & provenance
-│
-├── docs/                                      # Academic Reports & Shortlisting
-│   ├── model_shortlisting.md                  # Mathematical rationale for classifier selection
-│   ├── PHASE_1_REPORT.md                      # Phase 1: EDA & Preprocessing documentation
-│   └── PHASE_2_REPORT.md                      # Phase 2: Training & Benchmarking documentation
 │
 ├── models/                                    # Serialized Model Artifacts (.joblib)
 │   ├── best_model.joblib                      # Soft Voting Meta-Ensemble (production model)
@@ -88,6 +86,10 @@ Language Detection/
 │   ├── y_train.joblib
 │   └── y_test.joblib
 │
+├── Preprocessing&Training/                    # Interactive Jupyter Notebooks
+│   ├── Phase1_Data_Preprocessing.ipynb        # Data analysis & n-gram feature extraction
+│   └── Phase2_Model_Training_and_Evaluation.ipynb # Model benchmarking & ROC curves
+│
 ├── results/                                   # Evaluation Metrics & Benchmarks
 │   └── model_comparison.csv                   # Complete metrics table across all 8 models
 │
@@ -97,16 +99,8 @@ Language Detection/
 │   ├── model_training.py                      # Multi-model training, 5-fold CV, & evaluation
 │   └── deploy.py                              # Flask server, REST APIs, & interactive UI
 │
-├── api/                                       # Vercel Serverless Entrypoint
-│   └── index.py                               # WSGI application handler for Vercel
 ├── create_dataset.py                          # Synthetic & balanced dataset generation script
-├── generate_models_pdf.py                     # ReportLab PDF compiler for concise model summaries
-├── generate_report_pdf.py                     # Publication-grade academic report PDF compiler
 ├── main.py                                    # Master CLI orchestration runner
-├── ML_Models_Summary.pdf                      # Formatted 3-page ML models reference PDF
-├── Phase1_Data_Preprocessing.ipynb            # Condensed Phase 1 Jupyter Notebook
-├── Phase2_Model_Training_and_Evaluation.ipynb # Condensed Phase 2 Jupyter Notebook
-├── PROJECT_REPORT.pdf                         # Full publication-grade 8-page report (PDF)
 ├── requirements.txt                           # Production Python dependencies
 ├── vercel.json                                # Vercel cloud deployment configuration
 ├── .vercelignore                              # Vercel build exclusions
@@ -188,16 +182,14 @@ python main.py deploy     # Start the Flask web application
 ```bash
 # Generate documentation PDFs
 python generate_report_pdf.py     # Generates PROJECT_REPORT.pdf
-python generate_models_pdf.py     # Generates ML_Models_Summary.pdf
-
 # Launch Web Application directly
 python src/deploy.py
 ```
 
 ### Interactive Jupyter Notebooks
 For step-by-step experimentation and visualization:
-- [`Phase1_Data_Preprocessing.ipynb`](file:///Phase1_Data_Preprocessing.ipynb) — In-depth data analysis, script distribution histograms, and n-gram extraction.
-- [`Phase2_Model_Training_and_Evaluation.ipynb`](file:///Phase2_Model_Training_and_Evaluation.ipynb) — Model training, hyperparameter configurations, cross-validation, and ROC curve generation.
+- [`Preprocessing&Training/Phase1_Data_Preprocessing.ipynb`](file:///Preprocessing&Training/Phase1_Data_Preprocessing.ipynb) — In-depth data analysis, script distribution histograms, and n-gram extraction.
+- [`Preprocessing&Training/Phase2_Model_Training_and_Evaluation.ipynb`](file:///Preprocessing&Training/Phase2_Model_Training_and_Evaluation.ipynb) — Model training, hyperparameter configurations, cross-validation, and ROC curve generation.
 
 ---
 
@@ -210,8 +202,7 @@ Start the server using `python src/deploy.py` or `python main.py deploy`, then n
 2. **Script Breakdown & Code-Mixing Analysis:** Visual breakdown of Latin, Devanagari, and Kannada character ratios.
 3. **Dataset & Metadata Explorer:** Interactive data table with script filters and metadata viewer.
 4. **Model Benchmark Dashboard:** Interactive model selector with confusion matrix previews and metric comparisons.
-5. **User Activity & Control Hub:** Session analytics, recent query logs, debounced logging, and downloadable CSV exports.
-6. **One-Click Academic PDF Downloads:** Direct download endpoints for `PROJECT_REPORT.pdf` and `ML_Models_Summary.pdf`.
+5. **User Activity & Control Hub:** Session analytics, recent query logs, CSV exports, and Responsible AI documentation.
 
 ---
 
@@ -229,14 +220,6 @@ The application is configured for 1-click serverless deployment on [Vercel](http
    - Framework Preset: `Other`.
    - Vercel automatically detects [`vercel.json`](file:///vercel.json) and routes requests to [`api/index.py`](file:///api/index.py).
    - In-memory session history and `/tmp` fallback prevent any read-only filesystem issues on serverless functions.
-
----
-
-## 📄 Documentation & Reports
-
-- **Full Project Report (PDF):** [`PROJECT_REPORT.pdf`](file:///PROJECT_REPORT.pdf) (8-page comprehensive publication-style report).
-- **Concise Models Summary (PDF):** [`ML_Models_Summary.pdf`](file:///ML_Models_Summary.pdf) (3-page executive summary).
-- **Academic Documentation:** [`docs/`](file:///docs/).
 
 ---
 

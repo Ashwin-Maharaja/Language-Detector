@@ -1315,22 +1315,6 @@ def serve_plot(filename):
     """Serve visualization images from the plots directory."""
     return send_from_directory(PLOTS_DIR, filename)
 
-@app.route("/download_report")
-def download_report():
-    """Redirect legacy markdown downloads to the compiled academic project report PDF."""
-    from flask import redirect, url_for
-    return redirect(url_for("download_report_pdf"))
-
-@app.route("/download_report_pdf")
-def download_report_pdf():
-    """Allow downloading the compiled academic project report PDF."""
-    return send_from_directory(PROJECT_ROOT, "PROJECT_REPORT.pdf", as_attachment=True)
-
-@app.route("/download_models_pdf")
-def download_models_pdf():
-    """Allow downloading the concise models summary PDF."""
-    return send_from_directory(PROJECT_ROOT, "ML_Models_Summary.pdf", as_attachment=True)
-
 # ---------------------------------------------------------------------------
 # API Endpoints
 # ---------------------------------------------------------------------------

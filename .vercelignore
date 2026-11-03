@@ -2,10 +2,8 @@
 .git
 .gitignore
 *.ipynb
+Preprocessing&Training/
 preprocessed_artifacts/
-docs/
 create_dataset.py
-generate_models_pdf.py
-generate_report_pdf.py
 __pycache__/
 *.py[cod]
