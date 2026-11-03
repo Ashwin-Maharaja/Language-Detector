@@ -110,12 +110,20 @@ def clean_markdown_inline(text):
     return text
 
 def build_pdf_report():
-    print(f"Generating PDF report from: {REPORT_MD_PATH}")
-    if not REPORT_MD_PATH.exists():
-        raise FileNotFoundError(f"Missing {REPORT_MD_PATH}")
-
-    with open(REPORT_MD_PATH, "r", encoding="utf-8") as f:
-        md_text = f.read()
+    if REPORT_MD_PATH.exists():
+        print(f"Generating PDF report from: {REPORT_MD_PATH}")
+        with open(REPORT_MD_PATH, "r", encoding="utf-8") as f:
+            md_text = f.read()
+    else:
+        # Fall back to docs reports if PROJECT_REPORT.md has been removed
+        doc_paths = [PROJECT_ROOT / "docs" / "PHASE_1_REPORT.md", PROJECT_ROOT / "docs" / "PHASE_2_REPORT.md"]
+        combined = []
+        for p in doc_paths:
+            if p.exists():
+                with open(p, "r", encoding="utf-8") as f:
+                    combined.append(f.read())
+        md_text = "\n\n---\n\n".join(combined) if combined else "# Multi-Script Language Detection Project Report"
+        print("Notice: Generating PDF report from compiled documentation.")
 
     doc = SimpleDocTemplate(
         str(PDF_OUTPUT_PATH),

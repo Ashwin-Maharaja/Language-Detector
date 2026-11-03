@@ -97,6 +97,8 @@ Language Detection/
 │   ├── model_training.py                      # Multi-model training, 5-fold CV, & evaluation
 │   └── deploy.py                              # Flask server, REST APIs, & interactive UI
 │
+├── api/                                       # Vercel Serverless Entrypoint
+│   └── index.py                               # WSGI application handler for Vercel
 ├── create_dataset.py                          # Synthetic & balanced dataset generation script
 ├── generate_models_pdf.py                     # ReportLab PDF compiler for concise model summaries
 ├── generate_report_pdf.py                     # Publication-grade academic report PDF compiler
@@ -104,9 +106,10 @@ Language Detection/
 ├── ML_Models_Summary.pdf                      # Formatted 3-page ML models reference PDF
 ├── Phase1_Data_Preprocessing.ipynb            # Condensed Phase 1 Jupyter Notebook
 ├── Phase2_Model_Training_and_Evaluation.ipynb # Condensed Phase 2 Jupyter Notebook
-├── PROJECT_REPORT.md                          # Full academic report (markdown)
 ├── PROJECT_REPORT.pdf                         # Full publication-grade 8-page report (PDF)
 ├── requirements.txt                           # Production Python dependencies
+├── vercel.json                                # Vercel cloud deployment configuration
+├── .vercelignore                              # Vercel build exclusions
 ├── .gitignore                                 # Git ignore configuration
 └── README.md                                  # Repository documentation (this file)
 ```
@@ -207,8 +210,25 @@ Start the server using `python src/deploy.py` or `python main.py deploy`, then n
 2. **Script Breakdown & Code-Mixing Analysis:** Visual breakdown of Latin, Devanagari, and Kannada character ratios.
 3. **Dataset & Metadata Explorer:** Interactive data table with script filters and metadata viewer.
 4. **Model Benchmark Dashboard:** Interactive model selector with confusion matrix previews and metric comparisons.
-5. **System Control & Prediction Audit Logs:** Admin dashboard with query logs, debounced logging, and downloadable CSV exports.
+5. **User Activity & Control Hub:** Session analytics, recent query logs, debounced logging, and downloadable CSV exports.
 6. **One-Click Academic PDF Downloads:** Direct download endpoints for `PROJECT_REPORT.pdf` and `ML_Models_Summary.pdf`.
+
+---
+
+## ☁️ Vercel Deployment
+
+The application is configured for 1-click serverless deployment on [Vercel](https://vercel.com):
+
+1. **Install Vercel CLI (optional) or push to GitHub:**
+   ```bash
+   npm i -g vercel
+   vercel
+   ```
+2. **Or import into Vercel Dashboard:**
+   - Link your GitHub repository.
+   - Framework Preset: `Other`.
+   - Vercel automatically detects [`vercel.json`](file:///vercel.json) and routes requests to [`api/index.py`](file:///api/index.py).
+   - In-memory session history and `/tmp` fallback prevent any read-only filesystem issues on serverless functions.
 
 ---
 
@@ -216,7 +236,7 @@ Start the server using `python src/deploy.py` or `python main.py deploy`, then n
 
 - **Full Project Report (PDF):** [`PROJECT_REPORT.pdf`](file:///PROJECT_REPORT.pdf) (8-page comprehensive publication-style report).
 - **Concise Models Summary (PDF):** [`ML_Models_Summary.pdf`](file:///ML_Models_Summary.pdf) (3-page executive summary).
-- **Markdown Documentation:** [`PROJECT_REPORT.md`](file:///PROJECT_REPORT.md) and [`docs/`](file:///docs/).
+- **Academic Documentation:** [`docs/`](file:///docs/).
 
 ---
 
