@@ -35,7 +35,7 @@ This project addresses tri-lingual classification across disjoint scripts:
 - **Robust Feature Engineering:** Multi-level TF-IDF extraction (character n-grams $n \in [2, 5]$ and word n-grams $n \in [1, 2]$).
 - **8 Benchmarked Classifiers:** 4 standalone models + 4 ensemble architectures (Random Forest, Gradient Boosting, Soft Voting Meta-Ensemble, Stacking Meta-Ensemble).
 - **Code-Mixing & Robustness Engine:** Unicode script-ratio verification to prevent Naive Bayes length-bias on mixed text.
-- **Enterprise Web Interface:** Flask web app with interactive testing, prediction audit logging, confusion matrices, and PDF exports.
+- **Enterprise Web Interface:** Flask web app with interactive testing, prediction audit logging, and confusion matrices.
 
 ---
 
@@ -180,8 +180,6 @@ python main.py deploy     # Start the Flask web application
 
 ### Direct Script Invocations
 ```bash
-# Generate documentation PDFs
-python generate_report_pdf.py     # Generates PROJECT_REPORT.pdf
 # Launch Web Application directly
 python src/deploy.py
 ```
