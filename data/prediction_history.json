@@ -1,5 +1,25 @@
 [
   {
+    "id": 5,
+    "timestamp": "2026-11-03 18:57:06",
+    "text": "ನಾನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಎಂಜಿನಿಯರ್ ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ.",
+    "language": "Kannada",
+    "display_label": "Kannada",
+    "is_mixed": false,
+    "confidence": 0.9252,
+    "script_ratios": {
+      "English": 0.0,
+      "Hindi": 0.0,
+      "Kannada": 1.0
+    },
+    "probabilities": {
+      "English": 0.0357,
+      "Hindi": 0.0391,
+      "Kannada": 0.9252
+    },
+    "latency_ms": 60.1
+  },
+  {
     "id": 4,
     "timestamp": "2026-10-27 14:41:53",
     "text": "ನಮಸ್ಕಾರ, ನೀವು ಹೇಗಿದ್ದೀರಿ?",
