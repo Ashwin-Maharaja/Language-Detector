@@ -305,6 +305,9 @@ PORTAL_TEMPLATE = """
             border-radius: 0.5rem;
             font-size: 0.85rem;
             transition: all 0.15s;
+            max-width: 100%;
+            white-space: normal;
+            word-break: break-word;
         }
         .sample-pill:hover {
             background: #f1f5f9;
@@ -313,6 +316,56 @@ PORTAL_TEMPLATE = """
         .result-card {
             border-left: 5px solid #10b981;
             background: #f0fdf4;
+            max-width: 100%;
+            overflow: hidden;
+            box-sizing: border-box;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+        .result-card .progress {
+            max-width: 100%;
+            width: 100%;
+            background-color: #d1fae5;
+            border-radius: 999px;
+            overflow: hidden;
+        }
+        .result-card .progress-bar {
+            max-width: 100%;
+            border-radius: 999px;
+        }
+        .text-break-word {
+            overflow-wrap: anywhere;
+            word-break: break-word;
+            hyphens: auto;
+        }
+        @media (max-width: 767.98px) {
+            .hero-banner {
+                padding: 1.5rem 0 1.2rem 0;
+                margin-bottom: 1.25rem;
+            }
+            .card-custom {
+                padding: 1.25rem !important;
+            }
+            .result-card {
+                padding: 1rem !important;
+            }
+            .result-header-row {
+                flex-direction: column !important;
+                align-items: flex-start !important;
+                gap: 0.5rem !important;
+            }
+            .result-confidence-block {
+                width: 100% !important;
+                display: flex !important;
+                justify-content: space-between !important;
+                align-items: baseline !important;
+                border-top: 1px dashed #a7f3d0;
+                padding-top: 0.5rem;
+                margin-top: 0.25rem;
+            }
+            .result-confidence-block .confidence-title {
+                margin-bottom: 0 !important;
+            }
         }
         .img-container {
             border-radius: 0.5rem;
@@ -456,24 +509,26 @@ PORTAL_TEMPLATE = """
 
                             <!-- Result Display -->
                             <div id="resultBox" class="mt-4 p-3 rounded result-card d-none">
-                                <div class="d-flex align-items-center justify-content-between mb-2">
-                                    <div>
-                                        <div class="d-flex align-items-center gap-2">
+                                <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-2 result-header-row">
+                                    <div class="result-class-block">
+                                        <div class="d-flex align-items-center gap-2 mb-1">
                                             <span class="text-muted small text-uppercase fw-bold">Classification</span>
                                             <span id="mixedBadge" class="badge bg-warning text-dark d-none"><i class="fa-solid fa-code-merge me-1"></i>Code-Mixed</span>
                                         </div>
-                                        <h3 class="fw-bold mb-0 text-success" id="resLanguage">English</h3>
+                                        <h3 class="fw-bold mb-0 text-success text-break" id="resLanguage">English</h3>
                                     </div>
-                                    <div class="text-end">
-                                        <span class="text-muted small text-uppercase fw-bold">Confidence</span>
+                                    <div class="result-confidence-block text-start text-sm-end">
+                                        <span class="text-muted small text-uppercase fw-bold d-block confidence-title">Confidence</span>
                                         <h3 class="fw-bold mb-0 text-primary" id="resConfidence">100.0%</h3>
                                     </div>
                                 </div>
-                                <div class="progress mb-2" style="height: 10px;">
-                                    <div class="progress-bar bg-success" id="resProgressBar" style="width: 100%;"></div>
+                                <div class="w-100 my-2">
+                                    <div class="progress w-100" style="height: 10px; max-width: 100%; overflow: hidden; background-color: #d1fae5; border-radius: 999px;">
+                                        <div class="progress-bar bg-success" id="resProgressBar" role="progressbar" style="width: 100%; max-width: 100%; border-radius: 999px; transition: width 0.4s ease;"></div>
+                                    </div>
                                 </div>
-                                <div class="small fw-semibold text-secondary mb-1" id="resDetails"></div>
-                                <div class="small text-muted" id="resMeta"></div>
+                                <div class="small fw-semibold text-secondary mb-1 text-break text-break-word" id="resDetails"></div>
+                                <div class="small text-muted text-break text-break-word" id="resMeta" style="overflow-wrap: anywhere; word-break: break-word;"></div>
                             </div>
 
                             <div id="errorBox" class="alert alert-danger mt-3 d-none"></div>
@@ -1157,9 +1212,9 @@ Content-Type: application/json
                         <td><span class="badge ${badgeClass} px-2 py-1"><i class="fa-solid fa-circle me-1" style="font-size:0.5rem;"></i>${item.display_label || item.language}</span></td>
                         <td><small class="text-muted fw-semibold">${scriptBadges}</small></td>
                         <td>
-                            <div class="d-flex align-items-center gap-2">
+                            <div class="d-flex align-items-center gap-2" style="min-width: 110px;">
                                 <span class="small fw-bold">${confPercent}%</span>
-                                <div class="progress flex-grow-1" style="height: 6px;">
+                                <div class="progress flex-grow-1" style="height: 6px; min-width: 40px; max-width: 100%;">
                                     <div class="progress-bar bg-success" style="width: ${confPercent}%;"></div>
                                 </div>
                             </div>
