@@ -338,6 +338,28 @@ PORTAL_TEMPLATE = """
             word-break: break-word;
             hyphens: auto;
         }
+        .cm-img-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #ffffff;
+            min-height: 280px;
+            overflow: hidden;
+            border-radius: 0.5rem;
+            border: 1px solid #e2e8f0;
+            padding: 0.75rem;
+            box-sizing: border-box;
+            max-width: 100%;
+        }
+        .cm-image-responsive {
+            max-height: 420px;
+            max-width: 100%;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+            border-radius: 0.35rem;
+            transition: opacity 0.2s ease-in-out;
+        }
         @media (max-width: 767.98px) {
             .hero-banner {
                 padding: 1.5rem 0 1.2rem 0;
@@ -365,6 +387,36 @@ PORTAL_TEMPLATE = """
             }
             .result-confidence-block .confidence-title {
                 margin-bottom: 0 !important;
+            }
+            .cm-explorer-section {
+                margin-top: 1.25rem !important;
+                padding-top: 1rem !important;
+                border-top: 1px dashed #cbd5e1;
+            }
+            .cm-selector-col {
+                margin-bottom: 1rem !important;
+            }
+            .cm-img-container {
+                min-height: auto !important;
+                padding: 0.35rem !important;
+                background: #f8fafc;
+                border-color: #cbd5e1;
+            }
+            .cm-image-responsive {
+                width: 100% !important;
+                max-width: 100% !important;
+                height: auto !important;
+                max-height: none !important;
+            }
+        }
+        @media (max-width: 575.98px) {
+            .cm-img-container {
+                padding: 0.2rem !important;
+            }
+            .cm-image-responsive {
+                width: 100% !important;
+                max-width: 100% !important;
+                height: auto !important;
             }
         }
         .img-container {
@@ -845,24 +897,32 @@ Content-Type: application/json
                     </div>
 
                     <!-- Interactive Confusion Matrix Selector -->
-                    <h5 class="fw-bold mb-3"><i class="fa-solid fa-table-cells text-primary me-2"></i>Confusion Matrix Explorer</h5>
-                    <div class="row">
-                        <div class="col-md-4 mb-3">
-                            <label class="form-label fw-semibold">Select Model to View Confusion Matrix:</label>
-                            <select class="form-select" id="cmSelect" onchange="updateCM()">
-                                <option value="multinomial_nb">Multinomial Naive Bayes</option>
-                                <option value="logistic_regression">Logistic Regression</option>
-                                <option value="svm_linearsvc">Linear SVM</option>
-                                <option value="random_forest">Random Forest (Bagging)</option>
-                                <option value="gradient_boosting">Gradient Boosting (Boosting)</option>
-                                <option value="voting_classifier">Soft Voting Classifier</option>
-                                <option value="stacking_classifier">Stacking Classifier</option>
-                                <option value="decision_tree">Decision Tree</option>
-                            </select>
+                    <div class="cm-explorer-section mt-4 pt-3 border-top">
+                        <div class="d-flex flex-wrap justify-content-between align-items-center mb-3">
+                            <h5 class="fw-bold mb-1"><i class="fa-solid fa-table-cells text-primary me-2"></i>Confusion Matrix Explorer</h5>
+                            <span class="badge bg-light text-secondary border mt-1 mt-sm-0"><i class="fa-solid fa-chart-pie me-1"></i>Interactive Matrix</span>
                         </div>
-                        <div class="col-md-8">
-                            <div class="img-container text-center">
-                                <img id="cmImage" src="/plots/confusion_matrix_multinomial_nb.png" alt="Confusion Matrix" style="max-height: 420px; width: auto;">
+                        <div class="row g-3 align-items-start">
+                            <div class="col-md-4 cm-selector-col">
+                                <label class="form-label fw-semibold" for="cmSelect">Select Model to View Confusion Matrix:</label>
+                                <select class="form-select shadow-sm" id="cmSelect" onchange="updateCM()">
+                                    <option value="multinomial_nb" selected>Multinomial Naive Bayes</option>
+                                    <option value="logistic_regression">Logistic Regression</option>
+                                    <option value="svm_linearsvc">Linear SVM</option>
+                                    <option value="random_forest">Random Forest (Bagging)</option>
+                                    <option value="gradient_boosting">Gradient Boosting (Boosting)</option>
+                                    <option value="voting_classifier">Soft Voting Classifier</option>
+                                    <option value="stacking_classifier">Stacking Classifier</option>
+                                    <option value="decision_tree">Decision Tree</option>
+                                </select>
+                                <p class="text-muted small mt-2 mb-0">
+                                    <i class="fa-solid fa-circle-info me-1 text-primary"></i>Inspect true vs. predicted classifications across English, Hindi, and Kannada test samples.
+                                </p>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="cm-img-container text-center">
+                                    <img id="cmImage" class="cm-image-responsive" src="/plots/confusion_matrix_multinomial_nb.png" alt="Confusion Matrix">
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1311,7 +1371,12 @@ Content-Type: application/json
         function updateCM() {
             const select = document.getElementById('cmSelect');
             const val = select.value;
-            document.getElementById('cmImage').src = '/plots/confusion_matrix_' + val + '.png';
+            const img = document.getElementById('cmImage');
+            if (img) {
+                img.style.opacity = '0.35';
+                img.src = '/plots/confusion_matrix_' + val + '.png';
+                img.onload = () => { img.style.opacity = '1'; };
+            }
         }
 
         document.getElementById('inputText').addEventListener('keydown', function(e) {
