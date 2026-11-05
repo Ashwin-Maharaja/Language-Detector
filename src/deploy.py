@@ -40,17 +40,27 @@ logger = logging.getLogger(__name__)
 # Project Paths
 # ---------------------------------------------------------------------------
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODELS_DIR = os.path.join(PROJECT_ROOT, "models")
-PLOTS_DIR = os.path.join(PROJECT_ROOT, "plots")
-DATA_DIR = os.path.join(PROJECT_ROOT, "data")
-RESULTS_DIR = os.path.join(PROJECT_ROOT, "results")
 
-MODEL_PATH = os.path.join(MODELS_DIR, "best_model.joblib")
-VECTORIZER_PATH = os.path.join(MODELS_DIR, "tfidf_vectorizer.joblib")
-LABEL_ENCODER_PATH = os.path.join(MODELS_DIR, "label_encoder.joblib")
-DATASET_PATH = os.path.join(DATA_DIR, "language_dataset.csv")
-METRICS_PATH = os.path.join(RESULTS_DIR, "model_comparison.csv")
-HISTORY_FILE = os.path.join(DATA_DIR, "prediction_history.json")
+def resolve_path(rel_path):
+    p1 = os.path.join(PROJECT_ROOT, rel_path)
+    if os.path.exists(p1):
+        return p1
+    p2 = os.path.join(os.getcwd(), rel_path)
+    if os.path.exists(p2):
+        return p2
+    return p1
+
+MODELS_DIR = resolve_path("models")
+PLOTS_DIR = resolve_path("plots")
+DATA_DIR = resolve_path("data")
+RESULTS_DIR = resolve_path("results")
+
+MODEL_PATH = resolve_path(os.path.join("models", "best_model.joblib"))
+VECTORIZER_PATH = resolve_path(os.path.join("models", "tfidf_vectorizer.joblib"))
+LABEL_ENCODER_PATH = resolve_path(os.path.join("models", "label_encoder.joblib"))
+DATASET_PATH = resolve_path(os.path.join("data", "language_dataset.csv"))
+METRICS_PATH = resolve_path(os.path.join("results", "model_comparison.csv"))
+HISTORY_FILE = resolve_path(os.path.join("data", "prediction_history.json"))
 
 # ---------------------------------------------------------------------------
 # Flask application
@@ -534,22 +544,22 @@ PORTAL_TEMPLATE = """
                             <div class="mb-4">
                                 <span class="fw-semibold small d-block mb-2 text-secondary"><i class="fa-solid fa-bolt me-1"></i>Click Quick Test Samples:</span>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <button class="sample-pill" onclick="setSample('The university announced the final examination results yesterday.')">
+                                    <button type="button" class="sample-pill" onclick="setSample('The university announced the final examination results yesterday.')">
                                         🇬🇧 English Academic
                                     </button>
-                                    <button class="sample-pill" onclick="setSample('मुझे भारतीय व्यंजन बहुत पसंद हैं और मैं रोज़ ताज़ी सब्जियाँ खाता हूँ।')">
+                                    <button type="button" class="sample-pill" onclick="setSample('मुझे भारतीय व्यंजन बहुत पसंद हैं और मैं रोज़ ताज़ी सब्जियाँ खाता हूँ।')">
                                         🇮🇳 Hindi Daily Life
                                     </button>
-                                    <button class="sample-pill" onclick="setSample('ನಾನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಎಂಜಿನಿಯರ್ ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ.')">
+                                    <button type="button" class="sample-pill" onclick="setSample('ನಾನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಎಂಜಿನಿಯರ್ ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ.')">
                                         🇮🇳 Kannada Daily Life
                                     </button>
-                                    <button class="sample-pill bg-warning-subtle border-warning" onclick="setSample('data science and तकनीक')">
+                                    <button type="button" class="sample-pill bg-warning-subtle border-warning" onclick="setSample('data science and तकनीक')">
                                         🔀 Mixed (Eng + Hindi)
                                     </button>
-                                    <button class="sample-pill bg-warning-subtle border-warning" onclick="setSample('cricket match ಮತ್ತು ಆಟಗಾರರು')">
+                                    <button type="button" class="sample-pill bg-warning-subtle border-warning" onclick="setSample('cricket match ಮತ್ತು ಆಟಗಾರರು')">
                                         🔀 Mixed (Eng + Kannada)
                                     </button>
-                                    <button class="sample-pill bg-warning-subtle border-warning" onclick="setSample('Hello नमस्ते कैसे हो')">
+                                    <button type="button" class="sample-pill bg-warning-subtle border-warning" onclick="setSample('Hello नमस्ते कैसे हो')">
                                         🔀 Mixed (Hello + Hindi)
                                     </button>
                                 </div>
@@ -1119,36 +1129,54 @@ Content-Type: application/json
 
         function switchToTab(tabId) {
             const triggerEl = document.getElementById(tabId);
-            if (triggerEl) {
-                const tabInstance = new bootstrap.Tab(triggerEl);
-                tabInstance.show();
+            if (triggerEl && !triggerEl.classList.contains('active')) {
+                try {
+                    if (window.bootstrap && bootstrap.Tab) {
+                        bootstrap.Tab.getOrCreateInstance(triggerEl).show();
+                    } else {
+                        triggerEl.click();
+                    }
+                } catch (e) {
+                    triggerEl.click();
+                }
             }
         }
 
         function setSample(text) {
-            document.getElementById('inputText').value = text;
-            switchToTab('demo-tab');
-            runDetection();
+            try {
+                const input = document.getElementById('inputText');
+                if (input) {
+                    input.value = text;
+                }
+                switchToTab('demo-tab');
+                runDetection(true);
+            } catch (err) {
+                console.error("setSample error:", err);
+            }
         }
 
-        async function runDetection() {
+        async function runDetection(force = false) {
             if (isDetecting) return;
-            const text = document.getElementById('inputText').value.trim();
+            const inputEl = document.getElementById('inputText');
+            if (!inputEl) return;
+            const text = inputEl.value.trim();
             const resultBox = document.getElementById('resultBox');
             const errorBox = document.getElementById('errorBox');
             const detectBtn = document.getElementById('detectBtn');
 
             if (!text) {
-                resultBox.classList.add('d-none');
-                errorBox.textContent = 'Please enter some text or click one of the quick test presets.';
-                errorBox.classList.remove('d-none');
+                if (resultBox) resultBox.classList.add('d-none');
+                if (errorBox) {
+                    errorBox.textContent = 'Please enter some text or click one of the quick test presets.';
+                    errorBox.classList.remove('d-none');
+                }
                 return;
             }
 
-            // Debounce / deduplicate identical submission within 3 seconds
+            // Debounce / deduplicate identical submission within 3 seconds unless forced
             const now = Date.now();
-            if (text === lastDetectedText && (now - lastDetectTime < 3000)) {
-                resultBox.classList.remove('d-none');
+            if (!force && text === lastDetectedText && (now - lastDetectTime < 3000)) {
+                if (resultBox) resultBox.classList.remove('d-none');
                 return;
             }
 
@@ -1402,19 +1430,22 @@ def load_model():
         return
     import joblib
 
-    if not os.path.exists(VECTORIZER_PATH):
-        raise FileNotFoundError(f"TF-IDF vectorizer not found at {VECTORIZER_PATH}")
-    vectorizer = joblib.load(VECTORIZER_PATH)
-    logger.info("TF-IDF vectorizer loaded from %s", VECTORIZER_PATH)
+    v_path = resolve_path(os.path.join("models", "tfidf_vectorizer.joblib"))
+    if not os.path.exists(v_path):
+        raise FileNotFoundError(f"TF-IDF vectorizer not found at {v_path}")
+    vectorizer = joblib.load(v_path)
+    logger.info("TF-IDF vectorizer loaded from %s", v_path)
 
-    if not os.path.exists(MODEL_PATH):
-        raise FileNotFoundError(f"Best model not found at {MODEL_PATH}")
-    model = joblib.load(MODEL_PATH)
-    logger.info("Best model loaded from %s", MODEL_PATH)
+    m_path = resolve_path(os.path.join("models", "best_model.joblib"))
+    if not os.path.exists(m_path):
+        raise FileNotFoundError(f"Best model not found at {m_path}")
+    model = joblib.load(m_path)
+    logger.info("Best model loaded from %s", m_path)
 
-    if os.path.exists(LABEL_ENCODER_PATH):
-        label_encoder = joblib.load(LABEL_ENCODER_PATH)
-        logger.info("Label encoder loaded from %s", LABEL_ENCODER_PATH)
+    l_path = resolve_path(os.path.join("models", "label_encoder.joblib"))
+    if os.path.exists(l_path):
+        label_encoder = joblib.load(l_path)
+        logger.info("Label encoder loaded from %s", l_path)
 
 # Auto-load artifacts on import if available
 try:
@@ -1446,8 +1477,13 @@ def predict():
     Automatically logs query to prediction history.
     """
     t_start = time.time()
+    global model, vectorizer, label_encoder
     if model is None or vectorizer is None:
-        return jsonify({"error": "Model not loaded on server."}), 503
+        try:
+            load_model()
+        except Exception as e:
+            logger.error("Lazy model loading failed: %s", e)
+            return jsonify({"error": f"Model loading failed: {str(e)}"}), 503
 
     data = request.get_json(silent=True)
     if data is None or "text" not in data:
