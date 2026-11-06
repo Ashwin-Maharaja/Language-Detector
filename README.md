@@ -4,7 +4,7 @@
 [![Flask](https://img.shields.io/badge/Flask-v2.3+-lightgrey.svg)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An end-to-end Machine Learning pipeline and production-ready web application for detecting languages across distinct scripts: **English** (Latin), **Hindi** (Devanagari), and **Kannada** (Kannada script). The system features character/word n-gram TF-IDF engineering, 8 benchmarked ML models (individual, bagging, boosting, and meta-ensembles), script-ratio code-mixing analysis, and administrative audit logging.
+End-to-end multilingual language detection system with an ML benchmarking pipeline and deployed Flask application for detecting languages across distinct scripts: **English** (Latin), **Hindi** (Devanagari), and **Kannada** (Kannada script). The system features character/word n-gram TF-IDF engineering, 8 benchmarked ML models (individual, bagging, boosting, and meta-ensembles), script-ratio code-mixing analysis, and administrative audit logging.
 
 ---
 
